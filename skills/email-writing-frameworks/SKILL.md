@@ -86,3 +86,28 @@ Worth comparing notes?
 ```
 
 **When to use:** When targeting specific roles with known pain points
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-4-sequence` | Apply frameworks to each email in sequence |
+| `josh-braun-copywriting` | Polish copy after choosing framework |
+| `cold-email-templates-34` | See templates using each framework |
+| `personalization-hooks` | Add hooks to framework structure |
+
+## Example prompts
+
+```
+Write an email using the "Do the Maths" framework for HR software targeting 500+ employee companies.
+```
+
+```
+Which framework should I use for a prospect who just raised Series B?
+```
+
+```
+Create a "Challenge of Similar Companies" email for e-commerce brands doing $5-20M revenue.
+```

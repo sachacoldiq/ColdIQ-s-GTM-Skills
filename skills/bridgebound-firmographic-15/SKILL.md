@@ -66,3 +66,28 @@ Worth a quick chat about what worked?
 | New product launch | 1-2 weeks after |
 | Hypergrowth | Ongoing monitoring |
 | Hiring spike | Within 2 weeks of pattern |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `buying-signals-6` | Expansion signal (#5) |
+| `clay-buying-signals-5` | Funding & hiring detection |
+| `cold-email-templates-34` | Templates #20, #22 |
+| `gtm-plays-11` | Play #1 (New Team Members) |
+
+## Example prompts
+
+```
+Create an outreach campaign for companies that just raised Series B.
+```
+
+```
+How do I detect M&A activity for competitive displacement?
+```
+
+```
+Write a sequence for trigger #8 (Companies that Started Hiring) targeting DevOps.
+```

@@ -84,3 +84,27 @@ description: LinkedIn limits for 2024-2026 with warm-up protocol for inactive ac
 4. Post valuable content
 5. Engage with others' content
 6. Slowly reintroduce outreach
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `linkedin-campaign-complete` | Execute campaigns within limits |
+| `linkedin-success-factors` | Apply success rules while respecting limits |
+| `cold-email-4-sequence` | Coordinate LinkedIn + email to reduce LinkedIn load |
+
+## Example prompts
+
+```
+Create a 3-week warm-up schedule for my dormant LinkedIn account.
+```
+
+```
+How many connection requests can I safely send per day with 200 pending?
+```
+
+```
+My acceptance rate dropped to 20% - what should I change?
+```

@@ -113,3 +113,28 @@ Before sending any outreach:
 - [ ] No buzzwords?
 - [ ] No fake enthusiasm?
 - [ ] Would you respond to this?
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `sdr-master-prompts` | AI prompts following these rules |
+| `email-writing-frameworks` | Approved framework structures |
+| `josh-braun-copywriting` | Quality writing principles |
+| `email-metrics-benchmarks` | Track rule impact on metrics |
+
+## Example prompts
+
+```
+Review this email against the SDR outbound rules checklist.
+```
+
+```
+Rewrite this 150-word email to be under 90 words.
+```
+
+```
+Which of the 8 frameworks should I use for a cold outbound campaign?
+```

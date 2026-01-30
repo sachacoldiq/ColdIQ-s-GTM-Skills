@@ -102,3 +102,28 @@ Want to see how?
 - Complex enterprise sale
 - Multiple stakeholders
 - Both budget holder and user buy-in needed
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-4-sequence` | Adjust sequence length for ATL vs BTL |
+| `sdr-outbound-rules` | Apply word count rules by seniority |
+| `outbound-triggers-6` | CXO Passdown for ATL targeting |
+| `personalization-6-buckets` | Choose bucket by seniority level |
+
+## Example prompts
+
+```
+Rewrite this email for a CFO (ATL) instead of a Finance Manager (BTL).
+```
+
+```
+Create an ATL email about cost reduction for a VP Operations at a logistics company.
+```
+
+```
+I have a BTL champion - write a BTL email I can ask them to forward to their VP.
+```

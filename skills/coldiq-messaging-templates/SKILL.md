@@ -105,3 +105,28 @@ Since you focus on {{summary}}, might work well if you combined [free resource].
 
 Could I share the outbound campaign they were using to book 35 meetings/month?
 ```
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-4-sequence` | Use templates as Email 1 variations |
+| `personalization-6-buckets` | Add personalization to templates |
+| `buying-signals-6` | Match template to signal type |
+| `ai-personalization-prompts` | Automate template personalization |
+
+## Example prompts
+
+```
+Write an "Ask Before Pitch" email for a SaaS company targeting RevOps managers.
+```
+
+```
+Create an "Upfront Value" email offering a competitor analysis for marketing agencies.
+```
+
+```
+Use the "Why Are You Paying" template for companies using Outreach.io.
+```

@@ -42,3 +42,29 @@ Opening (trigger) + Assumption + Social proof with numbers + Open-ended question
 - Email 2: Send 3 days after Email 1
 - Email 3: Send 14 days later (new subject line)
 - Email 4: Break-up if no response
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `personalization-hooks` | Add strong/lite hooks to Email 1 |
+| `email-writing-frameworks` | Structure each email with proven frameworks |
+| `email-1-variations-7` | Get 7 variations for Email 1 |
+| `cold-email-templates-34` | Browse 34 templates for inspiration |
+| `buying-signals-6` | Choose the right trigger for Email 1 |
+
+## Example prompts
+
+```
+Write a 4-email sequence for SaaS companies targeting VP Sales, using job change as the trigger.
+```
+
+```
+Create Email 1 and Email 4 for an agency selling to marketing directors at e-commerce companies.
+```
+
+```
+Rewrite this email sequence to be more ATL-friendly (shorter, 2-3 sentences per email).
+```

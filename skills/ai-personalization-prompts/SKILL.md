@@ -42,3 +42,28 @@ Quick reference for AI prompts. For full prompts with rules, see [references/pro
 - No full stops at end
 - No sales/buzzwords
 - Must fit grammatically in template sentence
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `clay-enrichment-9step` | Run prompts via Claygent |
+| `personalization-6-buckets` | Know what data to feed prompts |
+| `cold-email-templates-34` | Use outputs in email templates |
+| `coldiq-messaging-templates` | Combine with case study template |
+
+## Example prompts
+
+```
+Generate ICP identification and top 3 problems for a cybersecurity company.
+```
+
+```
+Create a 2-word subject line for a prospect selling HR software.
+```
+
+```
+Write template #7 (Similar Company Approach) with AI-generated variables for [company].
+```

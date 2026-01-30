@@ -93,3 +93,28 @@ Before launching any LinkedIn campaign:
 3. **Too many follow-ups** - 2-3 max, then stop
 4. **Ignoring response timing** - Reply quickly
 5. **Not warming up account** - Critical for new/dormant accounts
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `linkedin-campaign-complete` | Full campaign execution |
+| `linkedin-limits-warmup` | Stay within limits |
+| `personalization-hooks` | Create hooks for messages |
+| `gtm-philosophy` | Multi-channel coordination |
+
+## Example prompts
+
+```
+Review my LinkedIn campaign against the 7 success factors.
+```
+
+```
+What lead magnet should I use for targeting RevOps managers?
+```
+
+```
+How do I make my LinkedIn sequence appear more human?
+```

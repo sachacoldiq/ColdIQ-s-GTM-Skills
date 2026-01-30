@@ -70,3 +70,28 @@ Worth another look?
 | Ghosted | 30-60 days later |
 | Competitor renewal | 90 days before renewal |
 | Champion job change | Days 14-45 in new role |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-templates-34` | Re-engagement templates (#31-34) |
+| `buying-signals-6` | Champion tracking (signal #1) |
+| `clay-enrichment-9step` | Track job changes in Clay |
+| `cold-call-scripts` | No-show phone script |
+
+## Example prompts
+
+```
+Create a win-back campaign for closed-lost deals from 6 months ago.
+```
+
+```
+How do I track when competitors' customers are up for renewal?
+```
+
+```
+Write a sequence for trigger #9 (Customers Who Went to Another Company).
+```

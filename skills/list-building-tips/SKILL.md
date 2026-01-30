@@ -75,3 +75,28 @@ Before launching any campaign:
 3. **Over-filtering** - Shrinks TAM too much
 4. **Under-filtering** - Wastes outreach on bad fits
 5. **Ignoring signals** - Missing hot prospects
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `lead-sources-guide` | Choose right sources |
+| `clay-enrichment-9step` | Full enrichment workflow |
+| `email-metrics-benchmarks` | Track deliverability |
+| `clay-buying-signals-5` | Add signals to lists |
+
+## Example prompts
+
+```
+Review my list building workflow against the quality checklist.
+```
+
+```
+What's the fastest way to build a 500-prospect list for fintech CFOs?
+```
+
+```
+How do I diagnose why my email bounce rate is above 2%?
+```

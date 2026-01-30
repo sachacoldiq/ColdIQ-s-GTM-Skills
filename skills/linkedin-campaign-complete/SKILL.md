@@ -53,3 +53,28 @@ Step 5: Follow-up if no response (Day 5-7)
 | Days | Weekdays only (Mon-Thu best) |
 | Breaks | At least one day off per week |
 | Timing | When they're likely online |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `linkedin-limits-warmup` | Stay within limits while executing |
+| `linkedin-success-factors` | Apply success factors to campaign |
+| `cold-email-4-sequence` | Coordinate LinkedIn + email |
+| `personalization-hooks` | Add hooks to LinkedIn messages |
+
+## Example prompts
+
+```
+Create a LinkedIn sequence for post engagers who match my ICP.
+```
+
+```
+Write connection request notes for VP Sales at SaaS companies.
+```
+
+```
+How do I coordinate LinkedIn messages with my email sequence?
+```

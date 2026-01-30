@@ -61,3 +61,28 @@ description: Core GTM philosophy principles and multi-channel coordination strat
 - Lead with pain, not features
 - Soft CTAs outperform hard asks
 - Humor reduces tension and increases response
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `buying-signals-6` | Implement signal-based philosophy |
+| `outreach-4-categories` | Categorize leads properly |
+| `sdr-outbound-rules` | Apply philosophy to daily execution |
+| `josh-braun-copywriting` | Write messages that lead with pain |
+
+## Example prompts
+
+```
+How should I structure multi-channel coordination for a $50K ACV deal?
+```
+
+```
+Explain the BIPSY framework for diagnosing my SDR team's issues.
+```
+
+```
+How do I balance volume vs quality for a mid-market SaaS product?
+```

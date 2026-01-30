@@ -65,3 +65,28 @@ Cheers,
 - Bought Snowflake → Need data tools
 
 **Timing:** 2-4 weeks after adjacent vendor purchase
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `buying-signals-6` | Tech stack change signal |
+| `clay-buying-signals-5` | Detect tech changes in Clay |
+| `gtm-plays-11` | Play #8 (Bad Reviews) |
+| `cold-email-templates-34` | Competitor switch templates |
+
+## Example prompts
+
+```
+Build a campaign targeting companies that just purchased Salesforce.
+```
+
+```
+How do I find churned customers from my competitor on G2?
+```
+
+```
+Create an outreach strategy for trigger #17 (Annual Event) targeting tax season.
+```

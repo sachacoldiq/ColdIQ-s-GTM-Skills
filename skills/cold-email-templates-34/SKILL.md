@@ -36,3 +36,28 @@ Quick reference for cold email templates. For full templates, see reference file
 | #22 Do the Math | ROI-focused | 8-10% |
 | #27 Nooks SDR | Follow-up | 6-8% |
 | #31 No-Oriented | Re-engagement | 10-15% |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-4-sequence` | Plug templates into sequence structure |
+| `personalization-hooks` | Add hooks to any template |
+| `email-writing-frameworks` | Understand framework behind each template |
+| `buying-signals-6` | Match template to signal |
+
+## Example prompts
+
+```
+Give me 3 templates for following up with website visitors.
+```
+
+```
+Which template works best for prospects who just got funding?
+```
+
+```
+Adapt template #20 (New Exec) for a CMO at a fintech company.
+```

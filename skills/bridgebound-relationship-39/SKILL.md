@@ -91,3 +91,28 @@ description: 39 relationship-based Bridgebound triggers from Flip The Script - C
 37. **Mutual Connections with DM at Prospective Company** - Warm intro path
 38. **Prospects Met at a Networking Event** - Event connections
 39. **Engaged with Your Personal Page** - Engaged with your content
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `outreach-4-categories` | Understand Bridgebound category |
+| `personalization-playbooks` | Get Bridgebound messaging |
+| `linkedin-campaign-complete` | Leverage LinkedIn relationships |
+| `outbound-triggers-6` | Compare with Outbound approach |
+
+## Example prompts
+
+```
+Create an outreach strategy leveraging trigger #3 (Referral to Network of Happy Customers).
+```
+
+```
+How do I find mutual connections with VCs in my portfolio company's network?
+```
+
+```
+Write an email using trigger #37 (Mutual Connections with DM at Prospective Company).
+```

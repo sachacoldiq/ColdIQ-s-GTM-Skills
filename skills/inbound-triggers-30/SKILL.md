@@ -65,3 +65,28 @@ Second Line: CTA to Book Time (Optional: Core-Static Relevance)
 ```
 
 **Priority order:** Hand-raisers (demo requests) > High-intent (pricing page) > Content engagement > Social signals
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `outreach-4-categories` | Understand Inbound category |
+| `personalization-playbooks` | Get Inbound messaging playbook |
+| `cold-email-templates-34` | Find inbound follow-up templates |
+| `email-metrics-benchmarks` | Benchmark inbound performance |
+
+## Example prompts
+
+```
+Create a follow-up sequence for webinar attendees who didn't book a demo.
+```
+
+```
+Which inbound triggers should I prioritize for a high-velocity sales motion?
+```
+
+```
+Write an email for trigger #10 (Freemium Account Registrants) for a SaaS product.
+```

@@ -127,3 +127,28 @@ Subject: [New subject line]
 [Very soft CTA asking for right person]
 "If this isn't you, who should I be talking to about {{topic}}?"
 ```
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-4-sequence` | Slot variations into Email 1 position |
+| `email-writing-frameworks` | Each variation uses different framework |
+| `personalization-hooks` | Add hooks to first line of each variation |
+| `atl-btl-messaging` | Adjust variation for seniority |
+
+## Example prompts
+
+```
+Write Email 1 using Variation 4 (Trigger → Problem → Solution → Calculation) for a hiring signal.
+```
+
+```
+Give me 3 variations of Email 1 for targeting CFOs at mid-market companies.
+```
+
+```
+Which variation should I use when I have strong social proof numbers?
+```

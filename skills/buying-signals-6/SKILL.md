@@ -91,3 +91,28 @@ description: 6 buying signals ranked by purchase correlation - Former Customers,
 | Multi-signal stacked | 35-40% |
 
 **Key insight:** Signal-based outreach = 3-4x higher contract values
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `clay-buying-signals-5` | Implement signals in Clay workflows |
+| `gtm-plays-11` | Match signals to specific GTM plays |
+| `cold-email-4-sequence` | Build sequences around each signal |
+| `bridgebound-in-market-20` | Deep-dive on in-market triggers |
+
+## Example prompts
+
+```
+Which buying signal should I prioritize for a $50K ACV enterprise deal?
+```
+
+```
+Create an outreach strategy combining job change + funding signals for fintech companies.
+```
+
+```
+How do I detect tech stack changes for companies using Salesforce?
+```

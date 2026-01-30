@@ -38,3 +38,28 @@ description: Josh Braun's 5 cold email writing principles plus personalization b
 - **Loss > Gain**: People act more to avoid loss than to gain
 - **Every word must earn its place**: If it doesn't add value, delete it
 - **Personality differentiates**: Be human, not corporate
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `email-writing-frameworks` | Apply principles to any framework |
+| `personalization-hooks` | Create hooks that don't feel generic |
+| `sdr-outbound-rules` | Quality checklist alignment |
+| `cold-email-templates-34` | Review templates against principles |
+
+## Example prompts
+
+```
+Review this email using Josh Braun's 5 principles and suggest improvements.
+```
+
+```
+Rewrite this email to be more specific and use loss aversion.
+```
+
+```
+Make this email "cheeky" without being unprofessional.
+```

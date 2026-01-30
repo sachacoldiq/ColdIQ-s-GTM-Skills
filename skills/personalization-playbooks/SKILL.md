@@ -110,3 +110,28 @@ Worth exploring?
 | ICP fit | Tier 1 accounts | Tier 2-3 accounts |
 | Signal strength | Weak signals | Strong signals |
 | Competitive | High competition | Low competition |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `outreach-4-categories` | Match playbook to lead category |
+| `personalization-6-buckets` | Find data for personalization |
+| `personalization-hooks` | Create hooks for Camp Personalization |
+| `cold-email-4-sequence` | Apply playbook to sequence |
+
+## Example prompts
+
+```
+Which playbook should I use for a $15K ACV deal with strong intent signal?
+```
+
+```
+Write a Camp Personalization Bridgebound email for this prospect: [details]
+```
+
+```
+Create a No Personalization Outbound template for targeting DevOps managers.
+```

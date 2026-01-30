@@ -59,3 +59,28 @@ Visitor hits pricing → SDR calls in 2 min → email if no answer → LinkedIn 
 
 ### 11. Inbound Followers
 Monitor daily, filter to ICP via Clay, outreach within 24-48h.
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `buying-signals-6` | Understand signal strength per play |
+| `clay-enrichment-9step` | Automate play execution in Clay |
+| `cold-email-templates-34` | Get templates for each play |
+| `bridgebound-in-market-20` | Deep-dive on in-market signals |
+
+## Example prompts
+
+```
+Create an outreach sequence for Play #1 (New Team Members) targeting Sales teams.
+```
+
+```
+How do I set up Play #8 (Bad Reviews) in Clay with G2 scraping?
+```
+
+```
+Which play should I prioritize for a $30K ACV product?
+```

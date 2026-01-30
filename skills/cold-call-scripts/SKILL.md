@@ -54,3 +54,28 @@ Thought it might be relevant given [trigger/observation].
 
 I'll shoot you an email with some times. Talk soon."
 ```
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `sdr-outbound-rules` | Apply same writing rules to scripts |
+| `cold-email-4-sequence` | Coordinate calls with email sequence |
+| `buying-signals-6` | Use signals in Step 3 |
+| `linkedin-campaign-complete` | Multi-channel coordination |
+
+## Example prompts
+
+```
+Adapt the 1-minute script for selling marketing automation to CMOs.
+```
+
+```
+Write a voicemail script for following up after a website visit.
+```
+
+```
+How do I handle "we already have a solution" for CRM software?
+```

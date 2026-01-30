@@ -85,3 +85,28 @@ Vayne → Sales Nav → Import Template
 | Lookalikes | Ocean.io | Clay |
 | Local/SMB | Openmart | Directories |
 | Niche | Directories | Apollo filters |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `clay-enrichment-9step` | Enrich leads after sourcing |
+| `list-building-tips` | Apply quality principles |
+| `clay-buying-signals-5` | Add signals to sourced leads |
+| `buying-signals-6` | Prioritize by signal strength |
+
+## Example prompts
+
+```
+Which source should I use for targeting VP Engineering at Series B startups?
+```
+
+```
+Set up a Clay template for Apollo → enrichment → email verification.
+```
+
+```
+How do I find lookalike companies to my best customers?
+```

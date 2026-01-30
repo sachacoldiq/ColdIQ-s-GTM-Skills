@@ -88,3 +88,28 @@ We helped [similar company] cut ramp by 40%.
 
 Is that something you're working on?
 ```
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `personalization-6-buckets` | Find content to hook on |
+| `cold-email-4-sequence` | Apply hooks to Email 1 |
+| `ai-personalization-prompts` | Automate hook generation |
+| `josh-braun-copywriting` | Write hooks that don't sound salesy |
+
+## Example prompts
+
+```
+Write a strong hook for a VP Marketing who posted about attribution challenges.
+```
+
+```
+Create 3 lite hooks for SDR managers at Series B SaaS companies.
+```
+
+```
+Turn this LinkedIn post into a strong hook opening line: [paste post]
+```

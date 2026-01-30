@@ -68,3 +68,28 @@ description: The 4 categories of outreach from Flip The Script - Inbound, Postbo
 | Postbound | Medium | 1:Many + 1:1 | Medium |
 | Bridgebound | Low-Medium | 1:Many + 1:1 | Medium-High |
 | Outbound | None | 1:1 Only | High |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `personalization-playbooks` | Get messaging for each category |
+| `bridgebound-relationship-39` | Deep-dive on Bridgebound triggers |
+| `inbound-triggers-30` | Understand Inbound premises |
+| `outbound-triggers-6` | Master pure Outbound approach |
+
+## Example prompts
+
+```
+This lead downloaded our ebook - is it Inbound or Postbound?
+```
+
+```
+Create a messaging strategy for Bridgebound leads with job change signals.
+```
+
+```
+How do I transition a Postbound lead to a sales conversation?
+```

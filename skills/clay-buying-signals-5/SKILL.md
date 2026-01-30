@@ -113,3 +113,28 @@ description: 5 buying signals for Clay workflows with performance benchmarks and
 | Funding | Medium-High | 2-4 weeks | 18-22% |
 | Hiring | Medium | 1-2 weeks | 15-20% |
 | Tech change | Medium | 1-2 weeks | 15-18% |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `buying-signals-6` | Strategic view of all signals |
+| `clay-enrichment-9step` | Integrate signals into workflow |
+| `gtm-plays-11` | Match signals to specific plays |
+| `cold-email-templates-34` | Get templates for each signal |
+
+## Example prompts
+
+```
+Set up Clay to detect job changes and auto-route to outreach.
+```
+
+```
+How do I stack multiple signals for heat scoring in Clay?
+```
+
+```
+Create a workflow that detects funding + hiring signals together.
+```

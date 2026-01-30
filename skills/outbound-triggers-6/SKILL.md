@@ -112,3 +112,28 @@ Second Line: Core-Static Relevance ("We work with...")
 3. **Clear relevance** - Why you, why now
 4. **Multi-channel** - Don't rely on email alone
 5. **Persistence** - Multiple touches required
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `outreach-4-categories` | Understand pure Outbound |
+| `personalization-6-buckets` | Deep research for 1:1 |
+| `personalization-hooks` | Create strong hooks |
+| `atl-btl-messaging` | CXO Passdown for ATL |
+
+## Example prompts
+
+```
+Create a CXO Passdown email for targeting VP Engineering at enterprise companies.
+```
+
+```
+How do I build internal champions using Groundswell strategy?
+```
+
+```
+Write a Multi-Persona campaign targeting both CFO and Finance Manager.
+```

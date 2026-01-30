@@ -109,3 +109,28 @@ Absolute Don'ts:
 - Clever wording
 - Over-explaining
 - Sounding impressive
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `sdr-outbound-rules` | Rules the prompts follow |
+| `cold-email-4-sequence` | Sequence structure |
+| `atl-btl-messaging` | Adjust prompt for seniority |
+| `personalization-playbooks` | Personalization level |
+
+## Example prompts
+
+```
+Use the Default Lead Messaging prompt to write a follow-up for a prospect who filled out a form but didn't book.
+```
+
+```
+Create a LinkedIn message using ColdIQ's tone for a VP Marketing.
+```
+
+```
+Write a WhatsApp message for a lead who missed their demo call.
+```

@@ -109,3 +109,28 @@ Opening (trigger) + Assumption + Social proof with numbers + Open-ended question
 | Opens but no replies | Message relevance | More personalization, shorter copy |
 | Replies but no meetings | Weak CTA or poor qualification | Clearer ask, better targeting |
 | High unsubscribe | Too aggressive or wrong ICP | Reduce frequency, refine targeting |
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `cold-email-4-sequence` | Understand sequence metrics |
+| `sdr-outbound-rules` | Rules that improve metrics |
+| `list-building-tips` | Fix deliverability issues |
+| `buying-signals-6` | Improve reply rates with signals |
+
+## Example prompts
+
+```
+My reply rate is 0.8% - diagnose and suggest fixes.
+```
+
+```
+What benchmarks should I target for a signal-based campaign?
+```
+
+```
+My Email 2 has lower opens than Email 1 - is that normal?
+```

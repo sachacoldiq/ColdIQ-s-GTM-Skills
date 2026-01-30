@@ -109,3 +109,28 @@ When personalization isn't possible:
 3. **Firmographic:** Company Industry Vertical
 4. **Firmographic:** Company Market Geos
 5. **Technographic:** Tech Stack
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `personalization-hooks` | Turn bucket data into hooks |
+| `ai-personalization-prompts` | Automate bucket research |
+| `personalization-playbooks` | Choose personalization level |
+| `cold-email-4-sequence` | Apply buckets to sequence |
+
+## Example prompts
+
+```
+Research Bucket 1 (Self-Authored Content) for this prospect: [LinkedIn URL]
+```
+
+```
+Which bucket should I prioritize for a quick 50-prospect campaign?
+```
+
+```
+Create a strong hook using Bucket 6 (Company Level) data about their funding.
+```

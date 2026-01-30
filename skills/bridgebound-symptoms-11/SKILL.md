@@ -64,3 +64,28 @@ We helped [similar company] fix this by [solution].
 
 Is this something you're seeing?
 ```
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `email-writing-frameworks` | "Challenge of Similar Companies" framework |
+| `personalization-6-buckets` | Bucket 6 (Company Level) for symptoms |
+| `josh-braun-copywriting` | Lead with pain principle |
+| `atl-btl-messaging` | Match symptom to seniority |
+
+## Example prompts
+
+```
+Identify symptoms for SaaS companies with declining NRR.
+```
+
+```
+Write an email targeting companies lacking marketing automation (trigger #5).
+```
+
+```
+How do I find companies with visible business problems in my ICP?
+```

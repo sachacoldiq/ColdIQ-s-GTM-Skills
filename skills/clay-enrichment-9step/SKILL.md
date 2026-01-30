@@ -46,3 +46,28 @@ Sequence: Apollo → Prospeo → LeadMagic → Findymail → Clay patterns
 - Run in batches of 250 (optimizes Clay credits)
 - Test with 50 records first before full run
 - Timeline: 1,000 prospects = 2-3 hours vs 40+ hours manual
+
+---
+
+## Combines with
+
+| Skill | Why |
+|-------|-----|
+| `clay-buying-signals-5` | Add signal detection to workflow |
+| `lead-sources-guide` | Know where to source initial data |
+| `ai-personalization-prompts` | Use Claygent for AI personalization |
+| `buying-signals-6` | Understand which signals to track |
+
+## Example prompts
+
+```
+Set up a Clay workflow for job change signals with email waterfall.
+```
+
+```
+How do I configure Step 4 (Email Waterfall) to maximize coverage?
+```
+
+```
+Create a scoring model for SaaS companies targeting enterprise accounts.
+```
