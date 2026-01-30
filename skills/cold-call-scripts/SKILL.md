@@ -5,54 +5,17 @@ description: 1-minute cold call script (5 steps) and no-show phone script. Use w
 
 # Cold Call Scripts
 
+For objection responses, see [references/objections.md](references/objections.md).
+
 ## 1-Minute Cold Call Script (5 Steps)
 
-### Step 1: Pattern Interrupt Opening
-```
-"Hey {{firstName}}, this is [Name] from ColdIQ—
-I know I'm catching you out of the blue."
-```
-
-**Why it works:** Acknowledges the interruption, reduces defensiveness
-
----
-
-### Step 2: Permission-Based Transition
-```
-"Mind if I take 30 seconds to tell you why I called?
-Then you can decide if it's worth continuing."
-```
-
-**Why it works:** Gives them control, earns right to pitch
-
----
-
-### Step 3: Problem Statement
-```
-"I work with [ICP] who are struggling with [problem]."
-```
-
-**Why it works:** Establishes relevance quickly
-
----
-
-### Step 4: Social Proof
-```
-"We just helped [similar company] achieve [result]."
-```
-
-**Why it works:** Credibility through specific example
-
----
-
-### Step 5: CTA
-```
-"Is that something you're dealing with right now?"
-```
-
-**Why it works:** Opens conversation vs asking for meeting
-
----
+| Step | Script | Purpose |
+|------|--------|---------|
+| 1 | "Hey {{firstName}}, this is [Name] from ColdIQ—I know I'm catching you out of the blue." | Pattern interrupt |
+| 2 | "Mind if I take 30 seconds to tell you why I called? Then you can decide if it's worth continuing." | Earn permission |
+| 3 | "I work with [ICP] who are struggling with [problem]." | Establish relevance |
+| 4 | "We just helped [similar company] achieve [result]." | Social proof |
+| 5 | "Is that something you're dealing with right now?" | Open conversation |
 
 ## Full Script Example
 
@@ -68,29 +31,19 @@ We just helped a company similar to yours book 40+ qualified meetings per month.
 Is pipeline predictability something you're dealing with right now?"
 ```
 
----
-
 ## No-Show Phone Script
 
 ```
 "Hey {{firstName}}, it's [Name] from ColdIQ.
 
-We had a call scheduled for [time]—
-wanted to make sure everything's okay.
+We had a call scheduled for [time]—wanted to make sure everything's okay.
 
-No worries if something came up.
-Would [alternative time] work better?"
+No worries if something came up. Would [alternative time] work better?"
 ```
 
-**Key principles:**
-- No guilt or pressure
-- Assume good intent
-- Offer easy reschedule
-- Keep it brief
+**Key:** No guilt, assume good intent, offer easy reschedule.
 
----
-
-## Voicemail Script
+## Voicemail Script (Under 20 seconds)
 
 ```
 "Hey {{firstName}}, [Name] from ColdIQ.
@@ -99,33 +52,5 @@ Quick message—I work with [ICP] on [problem].
 
 Thought it might be relevant given [trigger/observation].
 
-I'll shoot you an email with some times.
-
-Talk soon."
-```
-
-**Length:** Under 20 seconds
-
----
-
-## Objection Responses
-
-### "Not interested"
-```
-"Totally fair. Mind if I ask—is it the timing, or is [problem] just not a priority right now?"
-```
-
-### "Send me an email"
-```
-"Happy to. Quick question so I can make it relevant—what's your biggest challenge with [topic] right now?"
-```
-
-### "We already have a solution"
-```
-"Got it. How's that working for you? Most companies I talk to are still seeing [common problem] even with [solution type]."
-```
-
-### "No budget"
-```
-"Understood. Out of curiosity—if budget weren't a constraint, would [problem] be worth solving?"
+I'll shoot you an email with some times. Talk soon."
 ```
