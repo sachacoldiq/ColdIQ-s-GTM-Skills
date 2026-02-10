@@ -13,47 +13,47 @@ Analyze the user's question and load the matching sub-skill. If a question spans
 
 ### 1. Email Waterfall
 **Triggers:** "find emails", "email waterfall", "email enrichment", "email coverage", "provider ordering", "email discovery", "work email", "bounce rate"
-**Load:** Read `master-skills/clay/.claude/skills/email-waterfall/SKILL.md`
+**Load:** Read `clay/.claude/skills/email-waterfall/SKILL.md`
 
 ### 2. Company Enrichment
 **Triggers:** "company data", "firmographics", "technographics", "company enrichment", "revenue data", "headcount", "industry data", "tech stack", "company research"
-**Load:** Read `master-skills/clay/.claude/skills/company-enrichment/SKILL.md`
+**Load:** Read `clay/.claude/skills/company-enrichment/SKILL.md`
 
 ### 3. People Enrichment
 **Triggers:** "find contacts", "people enrichment", "decision makers", "LinkedIn enrichment", "title filtering", "seniority", "find people at company", "buying committee"
-**Load:** Read `master-skills/clay/.claude/skills/people-enrichment/SKILL.md`
+**Load:** Read `clay/.claude/skills/people-enrichment/SKILL.md`
 
 ### 4. Phone Enrichment
 **Triggers:** "phone numbers", "mobile numbers", "phone waterfall", "direct dial", "phone enrichment", "cell phone"
-**Load:** Read `master-skills/clay/.claude/skills/phone-enrichment/SKILL.md`
+**Load:** Read `clay/.claude/skills/phone-enrichment/SKILL.md`
 
 ### 5. Table Setup
 **Triggers:** "create table", "table setup", "column types", "data import", "auto-update", "Clay table", "workbook", "views", "filters", "CSV import", "Chrome extension"
-**Load:** Read `master-skills/clay/.claude/skills/table-setup/SKILL.md`
+**Load:** Read `clay/.claude/skills/table-setup/SKILL.md`
 
 ### 6. Claygent
 **Triggers:** "Claygent", "AI research", "web scraping with AI", "Clay AI agent", "browse web", "research agent", "custom data points"
-**Load:** Read `master-skills/clay/.claude/skills/claygent/SKILL.md`
+**Load:** Read `clay/.claude/skills/claygent/SKILL.md`
 
 ### 7. Conditional Logic
 **Triggers:** "Clayscript", "formula", "conditional run", "credit saving", "data manipulation", "if/then", "JavaScript formula", "conditional formula", "save credits"
-**Load:** Read `master-skills/clay/.claude/skills/conditional-logic/SKILL.md`
+**Load:** Read `clay/.claude/skills/conditional-logic/SKILL.md`
 
 ### 8. Scoring
 **Triggers:** "lead scoring", "scoring system", "ICP fit", "segmentation", "lead qualification", "tier assignment", "prioritize leads", "score leads"
-**Load:** Read `master-skills/clay/.claude/skills/scoring/SKILL.md`
+**Load:** Read `clay/.claude/skills/scoring/SKILL.md`
 
 ### 9. Debugging
 **Triggers:** "not working", "error", "troubleshoot", "debug", "credits wasted", "auto-update issue", "Clay problem", "wrong results", "fix my workflow", "common mistakes"
-**Load:** Read `master-skills/clay/.claude/skills/debugging/SKILL.md`
+**Load:** Read `clay/.claude/skills/debugging/SKILL.md`
 
 ## Cross-Cutting Resources
 
 For questions about pricing, plans, or credit costs, also reference:
-- Read `master-skills/clay/resources/credits-and-pricing.md`
+- Read `clay/resources/credits-and-pricing.md`
 
 For questions about CRM sync (HubSpot, Salesforce, Pipedrive), also reference:
-- Read `master-skills/clay/resources/crm-sync.md`
+- Read `clay/resources/crm-sync.md`
 
 ## Universal Principles
 

@@ -15,16 +15,16 @@ Analyze the user's request and delegate to the appropriate sub-skill. If the req
 
 | User asks about... | Route to | Path |
 |---|---|---|
-| Job changes, new roles, champion tracking, vendor amnesty period, days 14-45 | **job-changes** | Read `master-skills/signal-sourcer/.claude/skills/job-changes/SKILL.md` |
-| Funding rounds, Series A/B/C, new budget, post-raise outreach | **funding** | Read `master-skills/signal-sourcer/.claude/skills/funding/SKILL.md` |
-| Hiring signals, job postings, missing roles, leaving employees, skills targeting | **hiring** | Read `master-skills/signal-sourcer/.claude/skills/hiring/SKILL.md` |
-| Website visitors, RB2B, pixel tracking, IP identification, visitor alerts | **website-visitors** | Read `master-skills/signal-sourcer/.claude/skills/website-visitors/SKILL.md` |
-| Company events, M&A, expansion, IPO, product launches, leadership changes | **company-events** | Read `master-skills/signal-sourcer/.claude/skills/company-events/SKILL.md` |
-| Tech stack changes, vendor switches, new tool adoption, BuiltWith | **tech-changes** | Read `master-skills/signal-sourcer/.claude/skills/tech-changes/SKILL.md` |
-| Competitor engagement, bad reviews, LinkedIn scraping, battle cards | **competitor-signals** | Read `master-skills/signal-sourcer/.claude/skills/competitor-signals/SKILL.md` |
-| Content engagement, post likes/comments, webinar attendance, Trigify | **content-engagement** | Read `master-skills/signal-sourcer/.claude/skills/content-engagement/SKILL.md` |
-| Signal stacking, scoring framework, action thresholds, multi-signal, compound scoring | **multi-signal** | Read `master-skills/signal-sourcer/.claude/skills/multi-signal/SKILL.md` |
-| Tool setup, comparison, pricing, which tool to use | Read `master-skills/signal-sourcer/resources/tool-setup-guides.md` directly |
+| Job changes, new roles, champion tracking, vendor amnesty period, days 14-45 | **job-changes** | Read `signal-sourcer/.claude/skills/job-changes/SKILL.md` |
+| Funding rounds, Series A/B/C, new budget, post-raise outreach | **funding** | Read `signal-sourcer/.claude/skills/funding/SKILL.md` |
+| Hiring signals, job postings, missing roles, leaving employees, skills targeting | **hiring** | Read `signal-sourcer/.claude/skills/hiring/SKILL.md` |
+| Website visitors, RB2B, pixel tracking, IP identification, visitor alerts | **website-visitors** | Read `signal-sourcer/.claude/skills/website-visitors/SKILL.md` |
+| Company events, M&A, expansion, IPO, product launches, leadership changes | **company-events** | Read `signal-sourcer/.claude/skills/company-events/SKILL.md` |
+| Tech stack changes, vendor switches, new tool adoption, BuiltWith | **tech-changes** | Read `signal-sourcer/.claude/skills/tech-changes/SKILL.md` |
+| Competitor engagement, bad reviews, LinkedIn scraping, battle cards | **competitor-signals** | Read `signal-sourcer/.claude/skills/competitor-signals/SKILL.md` |
+| Content engagement, post likes/comments, webinar attendance, Trigify | **content-engagement** | Read `signal-sourcer/.claude/skills/content-engagement/SKILL.md` |
+| Signal stacking, scoring framework, action thresholds, multi-signal, compound scoring | **multi-signal** | Read `signal-sourcer/.claude/skills/multi-signal/SKILL.md` |
+| Tool setup, comparison, pricing, which tool to use | Read `signal-sourcer/resources/tool-setup-guides.md` directly |
 
 ### Multi-Signal Requests
 
@@ -37,12 +37,12 @@ When the user asks about combining signals or building a full signal strategy:
 
 Load the appropriate reference based on context:
 
-- **6 core buying signals, benchmarks** -> Read `master-skills/signal-sourcer/resources/buying-signals.md`
-- **Scoring framework, weights, thresholds, SLAs** -> Read `master-skills/signal-sourcer/resources/signal-scoring.md`
-- **137 buying triggers taxonomy** -> Read `master-skills/signal-sourcer/resources/signal-taxonomy.md`
-- **Job change tracking in Clay** -> Read `master-skills/signal-sourcer/resources/timing/job-change-tracking.md`
-- **Tool setup: RB2B, Trigify, Common Room, Bombora, etc.** -> Read `master-skills/signal-sourcer/resources/tool-setup-guides.md`
-- **11 executable GTM plays** -> Read `master-skills/signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md`
+- **6 core buying signals, benchmarks** -> Read `signal-sourcer/resources/buying-signals.md`
+- **Scoring framework, weights, thresholds, SLAs** -> Read `signal-sourcer/resources/signal-scoring.md`
+- **137 buying triggers taxonomy** -> Read `signal-sourcer/resources/signal-taxonomy.md`
+- **Job change tracking in Clay** -> Read `signal-sourcer/resources/timing/job-change-tracking.md`
+- **Tool setup: RB2B, Trigify, Common Room, Bombora, etc.** -> Read `signal-sourcer/resources/tool-setup-guides.md`
+- **11 executable GTM plays** -> Read `signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md`
 
 ## Key Benchmarks (cite these)
 

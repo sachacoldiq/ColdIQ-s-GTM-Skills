@@ -13,13 +13,13 @@ Analyze the user's request and delegate to one or more sub-skills:
 
 | User Intent | Sub-Skill | Path |
 |-------------|-----------|------|
-| Writing first lines, attention-grabbing openers, "see more" optimization | **hooks** | Read `master-skills/linkedin-content/.claude/skills/hooks/SKILL.md` |
-| Post body structure, frameworks (AIDA, PAS, BAB), narrative writing | **storytelling** | Read `master-skills/linkedin-content/.claude/skills/storytelling/SKILL.md` |
-| Choosing between carousel, text, video, poll; format specs | **formats** | Read `master-skills/linkedin-content/.claude/skills/formats/SKILL.md` |
-| When to post, how often, Golden Hour routine, consistency | **scheduling** | Read `master-skills/linkedin-content/.claude/skills/scheduling/SKILL.md` |
-| Comment strategy, DM engagement, LinkedIn limits, community building | **engagement** | Read `master-skills/linkedin-content/.claude/skills/engagement/SKILL.md` |
-| End-of-post CTAs, driving saves/comments/follows, profile conversion | **cta** | Read `master-skills/linkedin-content/.claude/skills/cta/SKILL.md` |
-| Turning one piece into many formats, creator tools, newsletters | **repurposing** | Read `master-skills/linkedin-content/.claude/skills/repurposing/SKILL.md` |
+| Writing first lines, attention-grabbing openers, "see more" optimization | **hooks** | Read `linkedin-content/.claude/skills/hooks/SKILL.md` |
+| Post body structure, frameworks (AIDA, PAS, BAB), narrative writing | **storytelling** | Read `linkedin-content/.claude/skills/storytelling/SKILL.md` |
+| Choosing between carousel, text, video, poll; format specs | **formats** | Read `linkedin-content/.claude/skills/formats/SKILL.md` |
+| When to post, how often, Golden Hour routine, consistency | **scheduling** | Read `linkedin-content/.claude/skills/scheduling/SKILL.md` |
+| Comment strategy, DM engagement, LinkedIn limits, community building | **engagement** | Read `linkedin-content/.claude/skills/engagement/SKILL.md` |
+| End-of-post CTAs, driving saves/comments/follows, profile conversion | **cta** | Read `linkedin-content/.claude/skills/cta/SKILL.md` |
+| Turning one piece into many formats, creator tools, newsletters | **repurposing** | Read `linkedin-content/.claude/skills/repurposing/SKILL.md` |
 
 ## Routing Rules
 

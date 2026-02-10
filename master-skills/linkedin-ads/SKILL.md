@@ -13,28 +13,28 @@ Based on the user's question, load the appropriate sub-skill:
 
 | Topic | Sub-Skill | Load |
 |-------|-----------|------|
-| Targeting, ICP, exclusions, ABM lists, remarketing audiences | **audiences** | Read `master-skills/linkedin-ads/.claude/skills/audiences/SKILL.md` |
-| ABM + outbound coordination, ad engagement as sales triggers | **ads-outbound-sync** | Read `master-skills/linkedin-ads/.claude/skills/ads-outbound-sync/SKILL.md` |
-| Bidding strategies, budget allocation, cost optimization | **bidding** | Read `master-skills/linkedin-ads/.claude/skills/bidding/SKILL.md` |
-| Campaign structure, funnel architecture, retargeting setup | **campaign-setup** | Read `master-skills/linkedin-ads/.claude/skills/campaign-setup/SKILL.md` |
-| Ad copywriting, headlines, CTAs, messaging frameworks | **copy** | Read `master-skills/linkedin-ads/.claude/skills/copy/SKILL.md` |
-| Ad formats, visual design, Thought Leader Ads, Document Ads | **creative** | Read `master-skills/linkedin-ads/.claude/skills/creative/SKILL.md` |
-| Measurement, attribution, KPIs, Insight Tag, CAPI | **measurement** | Read `master-skills/linkedin-ads/.claude/skills/measurement/SKILL.md` |
-| Troubleshooting, optimization, competitive research | **optimization** | Read `master-skills/linkedin-ads/.claude/skills/optimization/SKILL.md` |
+| Targeting, ICP, exclusions, ABM lists, remarketing audiences | **audiences** | Read `linkedin-ads/.claude/skills/audiences/SKILL.md` |
+| ABM + outbound coordination, ad engagement as sales triggers | **ads-outbound-sync** | Read `linkedin-ads/.claude/skills/ads-outbound-sync/SKILL.md` |
+| Bidding strategies, budget allocation, cost optimization | **bidding** | Read `linkedin-ads/.claude/skills/bidding/SKILL.md` |
+| Campaign structure, funnel architecture, retargeting setup | **campaign-setup** | Read `linkedin-ads/.claude/skills/campaign-setup/SKILL.md` |
+| Ad copywriting, headlines, CTAs, messaging frameworks | **copy** | Read `linkedin-ads/.claude/skills/copy/SKILL.md` |
+| Ad formats, visual design, Thought Leader Ads, Document Ads | **creative** | Read `linkedin-ads/.claude/skills/creative/SKILL.md` |
+| Measurement, attribution, KPIs, Insight Tag, CAPI | **measurement** | Read `linkedin-ads/.claude/skills/measurement/SKILL.md` |
+| Troubleshooting, optimization, competitive research | **optimization** | Read `linkedin-ads/.claude/skills/optimization/SKILL.md` |
 
 ## Cross-Cutting References
 
 These reference files contain deep knowledge shared across sub-skills:
 
-- **Funnel architecture & retargeting** → Read `master-skills/linkedin-ads/references/funnel-architecture.md`
-- **Ad formats & specs** → Read `master-skills/linkedin-ads/references/ad-formats.md`
-- **Targeting & audiences** → Read `master-skills/linkedin-ads/references/targeting-audiences.md`
-- **Bidding & objectives** → Read `master-skills/linkedin-ads/references/bidding-objectives.md`
-- **Creative & copywriting** → Read `master-skills/linkedin-ads/references/creative-strategy.md`
-- **Measurement & attribution** → Read `master-skills/linkedin-ads/references/measurement-attribution.md`
-- **Troubleshooting** → Read `master-skills/linkedin-ads/references/troubleshooting.md`
-- **Competitive research** → Read `master-skills/linkedin-ads/references/competitive-research.md`
-- **Key benchmarks** → Read `master-skills/linkedin-ads/references/benchmarks.md`
+- **Funnel architecture & retargeting** → Read `linkedin-ads/references/funnel-architecture.md`
+- **Ad formats & specs** → Read `linkedin-ads/references/ad-formats.md`
+- **Targeting & audiences** → Read `linkedin-ads/references/targeting-audiences.md`
+- **Bidding & objectives** → Read `linkedin-ads/references/bidding-objectives.md`
+- **Creative & copywriting** → Read `linkedin-ads/references/creative-strategy.md`
+- **Measurement & attribution** → Read `linkedin-ads/references/measurement-attribution.md`
+- **Troubleshooting** → Read `linkedin-ads/references/troubleshooting.md`
+- **Competitive research** → Read `linkedin-ads/references/competitive-research.md`
+- **Key benchmarks** → Read `linkedin-ads/references/benchmarks.md`
 
 ## Routing Rules
 
