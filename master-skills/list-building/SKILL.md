@@ -11,14 +11,14 @@ You are an expert B2B list builder who has assembled prospect lists for campaign
 
 Analyze the user's request and invoke the appropriate sub-skill:
 
-| User Intent | Sub-Skill | Trigger Phrases |
-|-------------|-----------|-----------------|
-| Define target audience, scoring criteria | **define-icp** | "ICP", "ideal customer profile", "who should I target", "scoring", "tier", "firmographic", "criteria" |
-| Find target companies from data sources | **source-companies** | "find companies", "company list", "Apollo", "Google Maps", "HG Insights", "data sources", "where to find", "import companies" |
-| Find contacts/people at companies | **find-contacts** | "find contacts", "find people", "boolean search", "Sales Navigator", "export leads", "Evaboot", "titles", "decision makers" |
-| Score and qualify accounts, ABM tiers | **qualify-accounts** | "qualify", "score accounts", "ABM", "tier 1", "intent data", "lookalike", "prioritize accounts" |
-| Verify emails/phones, manage bounce rates | **clean-validate** | "verify", "validate", "bounce rate", "email verification", "ZeroBounce", "list hygiene", "data decay", "deliverability" |
-| Remove duplicates, merge data sources | **deduplicate** | "deduplicate", "duplicates", "merge", "multiple sources", "clean up list", "data quality" |
+| User Intent | Sub-Skill | Trigger Phrases | Load |
+|-------------|-----------|-----------------|------|
+| Define target audience, scoring criteria | **define-icp** | "ICP", "ideal customer profile", "who should I target", "scoring", "tier", "firmographic", "criteria" | Read `master-skills/list-building/.claude/skills/define-icp/SKILL.md` |
+| Find target companies from data sources | **source-companies** | "find companies", "company list", "Apollo", "Google Maps", "HG Insights", "data sources", "where to find", "import companies" | Read `master-skills/list-building/.claude/skills/source-companies/SKILL.md` |
+| Find contacts/people at companies | **find-contacts** | "find contacts", "find people", "boolean search", "Sales Navigator", "export leads", "Evaboot", "titles", "decision makers" | Read `master-skills/list-building/.claude/skills/find-contacts/SKILL.md` |
+| Score and qualify accounts, ABM tiers | **qualify-accounts** | "qualify", "score accounts", "ABM", "tier 1", "intent data", "lookalike", "prioritize accounts" | Read `master-skills/list-building/.claude/skills/qualify-accounts/SKILL.md` |
+| Verify emails/phones, manage bounce rates | **clean-validate** | "verify", "validate", "bounce rate", "email verification", "ZeroBounce", "list hygiene", "data decay", "deliverability" | Read `master-skills/list-building/.claude/skills/clean-validate/SKILL.md` |
+| Remove duplicates, merge data sources | **deduplicate** | "deduplicate", "duplicates", "merge", "multiple sources", "clean up list", "data quality" | Read `master-skills/list-building/.claude/skills/deduplicate/SKILL.md` |
 
 ## Decision Flow
 
@@ -39,7 +39,7 @@ User Request
     |
     +-- Full workflow / "build me a list"?
         |
-        +-- Beginner? -> Read resources/templates/beginner-workflow.md
+        +-- Beginner? -> Read master-skills/list-building/resources/templates/beginner-workflow.md
         |                 (7-step Clay workflow: Import -> Enrich -> Merge -> Validate -> Company Summary -> Check Fit -> Push)
         |
         +-- Advanced? -> Chain: define-icp -> source-companies -> find-contacts -> qualify-accounts -> clean-validate -> deduplicate
@@ -48,7 +48,7 @@ User Request
 ## Full Workflow Template
 
 For users asking for a complete list building workflow, read the beginner workflow template:
-- **File:** [resources/templates/beginner-workflow.md](resources/templates/beginner-workflow.md)
+- **File:** Read `master-skills/list-building/resources/templates/beginner-workflow.md`
 - **Steps:** Import Data -> Enrich Emails -> Merge Columns -> Validate -> Company Summary (GPT-4 mini) -> Check Fit (Claude) -> Push to Sequencer
 - **Key principle:** Cheap AI for scraping, smart AI for interpretation, conditional formulas everywhere
 
@@ -56,10 +56,10 @@ For users asking for a complete list building workflow, read the beginner workfl
 
 Load the appropriate reference based on the sub-skill being invoked:
 
-- **ICP, scoring, boolean search, Sales Nav filters, ABM** -> Read [resources/sales-navigator-guide.md](resources/sales-navigator-guide.md)
-- **Lead sources, Clay Find People, webhooks, import methods** -> Read [resources/lead-sources-guide.md](resources/lead-sources-guide.md)
-- **Email/phone verification, bounce management, data decay, list hygiene** -> Read [resources/data-validation.md](resources/data-validation.md)
-- **Step-by-step Clay pipeline, AI model selection, conditional formulas** -> Read [resources/templates/beginner-workflow.md](resources/templates/beginner-workflow.md)
+- **ICP, scoring, boolean search, Sales Nav filters, ABM** -> Read `master-skills/list-building/resources/sales-navigator-guide.md`
+- **Lead sources, Clay Find People, webhooks, import methods** -> Read `master-skills/list-building/resources/lead-sources-guide.md`
+- **Email/phone verification, bounce management, data decay, list hygiene** -> Read `master-skills/list-building/resources/data-validation.md`
+- **Step-by-step Clay pipeline, AI model selection, conditional formulas** -> Read `master-skills/list-building/resources/templates/beginner-workflow.md`
 
 ## Key Numbers to Remember
 

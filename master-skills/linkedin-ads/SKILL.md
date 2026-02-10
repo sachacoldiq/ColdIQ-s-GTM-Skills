@@ -13,28 +13,28 @@ Based on the user's question, load the appropriate sub-skill:
 
 | Topic | Sub-Skill | Load |
 |-------|-----------|------|
-| Targeting, ICP, exclusions, ABM lists, remarketing audiences | **audiences** | Read [.claude/skills/audiences/SKILL.md](.claude/skills/audiences/SKILL.md) |
-| ABM + outbound coordination, ad engagement as sales triggers | **ads-outbound-sync** | Read [.claude/skills/ads-outbound-sync/SKILL.md](.claude/skills/ads-outbound-sync/SKILL.md) |
-| Bidding strategies, budget allocation, cost optimization | **bidding** | Read [.claude/skills/bidding/SKILL.md](.claude/skills/bidding/SKILL.md) |
-| Campaign structure, funnel architecture, retargeting setup | **campaign-setup** | Read [.claude/skills/campaign-setup/SKILL.md](.claude/skills/campaign-setup/SKILL.md) |
-| Ad copywriting, headlines, CTAs, messaging frameworks | **copy** | Read [.claude/skills/copy/SKILL.md](.claude/skills/copy/SKILL.md) |
-| Ad formats, visual design, Thought Leader Ads, Document Ads | **creative** | Read [.claude/skills/creative/SKILL.md](.claude/skills/creative/SKILL.md) |
-| Measurement, attribution, KPIs, Insight Tag, CAPI | **measurement** | Read [.claude/skills/measurement/SKILL.md](.claude/skills/measurement/SKILL.md) |
-| Troubleshooting, optimization, competitive research | **optimization** | Read [.claude/skills/optimization/SKILL.md](.claude/skills/optimization/SKILL.md) |
+| Targeting, ICP, exclusions, ABM lists, remarketing audiences | **audiences** | Read `master-skills/linkedin-ads/.claude/skills/audiences/SKILL.md` |
+| ABM + outbound coordination, ad engagement as sales triggers | **ads-outbound-sync** | Read `master-skills/linkedin-ads/.claude/skills/ads-outbound-sync/SKILL.md` |
+| Bidding strategies, budget allocation, cost optimization | **bidding** | Read `master-skills/linkedin-ads/.claude/skills/bidding/SKILL.md` |
+| Campaign structure, funnel architecture, retargeting setup | **campaign-setup** | Read `master-skills/linkedin-ads/.claude/skills/campaign-setup/SKILL.md` |
+| Ad copywriting, headlines, CTAs, messaging frameworks | **copy** | Read `master-skills/linkedin-ads/.claude/skills/copy/SKILL.md` |
+| Ad formats, visual design, Thought Leader Ads, Document Ads | **creative** | Read `master-skills/linkedin-ads/.claude/skills/creative/SKILL.md` |
+| Measurement, attribution, KPIs, Insight Tag, CAPI | **measurement** | Read `master-skills/linkedin-ads/.claude/skills/measurement/SKILL.md` |
+| Troubleshooting, optimization, competitive research | **optimization** | Read `master-skills/linkedin-ads/.claude/skills/optimization/SKILL.md` |
 
 ## Cross-Cutting References
 
 These reference files contain deep knowledge shared across sub-skills:
 
-- **Funnel architecture & retargeting** → [references/funnel-architecture.md](references/funnel-architecture.md)
-- **Ad formats & specs** → [references/ad-formats.md](references/ad-formats.md)
-- **Targeting & audiences** → [references/targeting-audiences.md](references/targeting-audiences.md)
-- **Bidding & objectives** → [references/bidding-objectives.md](references/bidding-objectives.md)
-- **Creative & copywriting** → [references/creative-strategy.md](references/creative-strategy.md)
-- **Measurement & attribution** → [references/measurement-attribution.md](references/measurement-attribution.md)
-- **Troubleshooting** → [references/troubleshooting.md](references/troubleshooting.md)
-- **Competitive research** → [references/competitive-research.md](references/competitive-research.md)
-- **Key benchmarks** → [references/benchmarks.md](references/benchmarks.md)
+- **Funnel architecture & retargeting** → Read `master-skills/linkedin-ads/references/funnel-architecture.md`
+- **Ad formats & specs** → Read `master-skills/linkedin-ads/references/ad-formats.md`
+- **Targeting & audiences** → Read `master-skills/linkedin-ads/references/targeting-audiences.md`
+- **Bidding & objectives** → Read `master-skills/linkedin-ads/references/bidding-objectives.md`
+- **Creative & copywriting** → Read `master-skills/linkedin-ads/references/creative-strategy.md`
+- **Measurement & attribution** → Read `master-skills/linkedin-ads/references/measurement-attribution.md`
+- **Troubleshooting** → Read `master-skills/linkedin-ads/references/troubleshooting.md`
+- **Competitive research** → Read `master-skills/linkedin-ads/references/competitive-research.md`
+- **Key benchmarks** → Read `master-skills/linkedin-ads/references/benchmarks.md`
 
 ## Routing Rules
 

@@ -13,19 +13,19 @@ Based on the user's question, load the appropriate sub-skill:
 
 | Topic | Sub-Skill | Load |
 |-------|-----------|------|
-| Designing workflows, node sequences, data flow | **workflow-design** | Read [.claude/skills/workflow-design/SKILL.md](.claude/skills/workflow-design/SKILL.md) |
-| Triggers, webhooks, cron schedules, event listeners | **triggers-webhooks** | Read [.claude/skills/triggers-webhooks/SKILL.md](.claude/skills/triggers-webhooks/SKILL.md) |
-| Error handling, retries, dead letter queues, circuit breakers | **error-handling** | Read [.claude/skills/error-handling/SKILL.md](.claude/skills/error-handling/SKILL.md) |
-| Clay + n8n integration, bidirectional webhooks | **clay-integration** | Read [.claude/skills/clay-integration/SKILL.md](.claude/skills/clay-integration/SKILL.md) |
-| CRM automation, HubSpot, Salesforce, lead routing, Slack | **crm-automation** | Read [.claude/skills/crm-automation/SKILL.md](.claude/skills/crm-automation/SKILL.md) |
-| Self-hosting, Docker, PostgreSQL, queue mode, scaling | **self-hosting** | Read [.claude/skills/self-hosting/SKILL.md](.claude/skills/self-hosting/SKILL.md) |
+| Designing workflows, node sequences, data flow | **workflow-design** | Read `master-skills/n8n/.claude/skills/workflow-design/SKILL.md` |
+| Triggers, webhooks, cron schedules, event listeners | **triggers-webhooks** | Read `master-skills/n8n/.claude/skills/triggers-webhooks/SKILL.md` |
+| Error handling, retries, dead letter queues, circuit breakers | **error-handling** | Read `master-skills/n8n/.claude/skills/error-handling/SKILL.md` |
+| Clay + n8n integration, bidirectional webhooks | **clay-integration** | Read `master-skills/n8n/.claude/skills/clay-integration/SKILL.md` |
+| CRM automation, HubSpot, Salesforce, lead routing, Slack | **crm-automation** | Read `master-skills/n8n/.claude/skills/crm-automation/SKILL.md` |
+| Self-hosting, Docker, PostgreSQL, queue mode, scaling | **self-hosting** | Read `master-skills/n8n/.claude/skills/self-hosting/SKILL.md` |
 
 ## Cross-Cutting References
 
 For pricing, comparisons, or general concepts, load directly:
 
-- **Core concepts, nodes, credentials, pricing, n8n vs Zapier/Make** → Read [resources/n8n-core-guide.md](resources/n8n-core-guide.md)
-- **HTTP API patterns, external tool integration, API keys** → Read [resources/http-api-patterns.md](resources/http-api-patterns.md)
+- **Core concepts, nodes, credentials, pricing, n8n vs Zapier/Make** → Read `master-skills/n8n/resources/n8n-core-guide.md`
+- **HTTP API patterns, external tool integration, API keys** → Read `master-skills/n8n/resources/http-api-patterns.md`
 
 ## Routing Rules
 
