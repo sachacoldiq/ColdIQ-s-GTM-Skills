@@ -27,7 +27,7 @@ Read `cold-email/resources/frameworks/cold-email-mastery.md` for the 3-email fra
 - Shorter than Email 1
 - New CTA style
 
-### Email 3: Lower the Friction (send 14 days after Email 1)
+### Email 3: Lower the Friction (send ~17 days after Email 1)
 - New subject line, fresh thread
 - They said no twice -- lower the ask
 - Offer a lead magnet, custom Loom audit, or resource

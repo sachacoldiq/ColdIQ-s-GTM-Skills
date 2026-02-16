@@ -16,9 +16,11 @@ Analyze the user's request and invoke the appropriate sub-skill:
 | Define target audience, scoring criteria | **define-icp** | "ICP", "ideal customer profile", "who should I target", "scoring", "tier", "firmographic", "criteria" | Read `list-building/.claude/skills/define-icp/SKILL.md` |
 | Find target companies from data sources | **source-companies** | "find companies", "company list", "Apollo", "Google Maps", "HG Insights", "data sources", "where to find", "import companies" | Read `list-building/.claude/skills/source-companies/SKILL.md` |
 | Find contacts/people at companies | **find-contacts** | "find contacts", "find people", "boolean search", "Sales Navigator", "export leads", "Evaboot", "titles", "decision makers" | Read `list-building/.claude/skills/find-contacts/SKILL.md` |
-| Score and qualify accounts, ABM tiers | **qualify-accounts** | "qualify", "score accounts", "ABM", "tier 1", "intent data", "lookalike", "prioritize accounts" | Read `list-building/.claude/skills/qualify-accounts/SKILL.md` |
+| Score and qualify individual accounts with ICP matrix, intent data layering, lookalikes | **qualify-accounts** | "qualify", "score accounts", "intent data", "lookalike", "prioritize accounts", "ICP scoring matrix" | Read `list-building/.claude/skills/qualify-accounts/SKILL.md` |
 | Verify emails/phones, manage bounce rates | **clean-validate** | "verify", "validate", "bounce rate", "email verification", "ZeroBounce", "list hygiene", "data decay", "deliverability" | Read `list-building/.claude/skills/clean-validate/SKILL.md` |
 | Remove duplicates, merge data sources | **deduplicate** | "deduplicate", "duplicates", "merge", "multiple sources", "clean up list", "data quality" | Read `list-building/.claude/skills/deduplicate/SKILL.md` |
+| ABM account selection, revenue reverse-engineering, how many accounts, account staging | **account-selection** | "account selection", "ABM accounts", "target account list", "how many accounts", "ABM tier", "account staging", "revenue target", "ABM list" | Read `list-building/.claude/skills/account-selection/SKILL.md` |
+| Buying committee mapping, persona-based messaging | **persona-mapping** | "persona mapping", "buying committee", "champion", "economic buyer", "persona", "JTBD", "who to target at account", "persona messaging" | Read `list-building/.claude/skills/persona-mapping/SKILL.md` |
 
 ## Decision Flow
 
@@ -37,12 +39,18 @@ User Request
     |
     +-- Removing DUPLICATES? ------------> deduplicate
     |
+    +-- ABM account selection/sizing? ---> account-selection
+    |
+    +-- Buying committee/personas? ------> persona-mapping
+    |
     +-- Full workflow / "build me a list"?
         |
         +-- Beginner? -> Read list-building/resources/templates/beginner-workflow.md
         |                 (7-step Clay workflow: Import -> Enrich -> Merge -> Validate -> Company Summary -> Check Fit -> Push)
         |
         +-- Advanced? -> Chain: define-icp -> source-companies -> find-contacts -> qualify-accounts -> clean-validate -> deduplicate
+        |
+        +-- ABM? -> Chain: account-selection -> persona-mapping -> source-companies -> find-contacts -> qualify-accounts -> clean-validate
 ```
 
 ## Full Workflow Template
@@ -60,6 +68,19 @@ Load the appropriate reference based on the sub-skill being invoked:
 - **Lead sources, Clay Find People, webhooks, import methods** -> Read `list-building/resources/lead-sources-guide.md`
 - **Email/phone verification, bounce management, data decay, list hygiene** -> Read `list-building/resources/data-validation.md`
 - **Step-by-step Clay pipeline, AI model selection, conditional formulas** -> Read `list-building/resources/templates/beginner-workflow.md`
+- **Qualification workflow: ColdIQ tier system, weighted scoring, Clay AI prompts, real examples, good list template** -> Read `list-building/resources/templates/qualification-workflow.md`
+
+### Advanced List Building Resources
+
+- **62+ underused data sources by category** -> Read `list-building/resources/list-building-advanced/list-building-data-sources.md`
+- **ICP deep-dives, multi-source workflows, Apollo+Clay template** -> Read `list-building/resources/list-building-advanced/list-building-deep-dives.md`
+- **100+ industry-specific directories for scraping** -> Read `list-building/resources/list-building-advanced/list-building-directories.md`
+- **8-phase quality list building framework** -> Read `list-building/resources/list-building-advanced/list-building-framework.md`
+
+### ABM Resources
+
+- **Account selection framework, revenue reverse-engineering, staging** -> Read `list-building/resources/abm/account-selection-framework.md`
+- **Persona mapping, buying committee, messaging matrix** -> Read `list-building/resources/abm/persona-mapping-framework.md`
 
 ## Key Numbers to Remember
 

@@ -189,7 +189,7 @@
 - **Minimum commitment**: 6 months for LinkedIn Ads success
 - **Testing**: ~$100 ad spend per creative before making shutdown decisions
 - **Retargeting**: $25-100 daily per campaign for testing
-- **Thought Leader Ads**: £300-500/month, £100-150 per post over 7-10 days
+- **Thought Leader Ads**: $300-500/month, $100-150 per post over 7-10 days
 
 ---
 

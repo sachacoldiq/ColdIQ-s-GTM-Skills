@@ -20,6 +20,8 @@ When a request comes in, identify the type and delegate to the appropriate sub-s
 | Personalization strategy | **personalization** | "personalize at scale", "custom first lines", "Clay prompts", "hooks" | Read `cold-email/.claude/skills/personalization/SKILL.md` |
 | Emailing VPs/C-Level/Directors | **atl-messaging** | "email a CEO", "VP outreach", "executive email", "C-suite", "ATL" | Read `cold-email/.claude/skills/atl-messaging/SKILL.md` |
 | Emailing Managers/ICs | **btl-messaging** | "email a manager", "IC outreach", "end user email", "BTL" | Read `cold-email/.claude/skills/btl-messaging/SKILL.md` |
+| Copywriting frameworks & principles | **copywriting** | "copywriting framework", "Do the Math", "Short Trigger", "Pattern Interrupt", "email framework", "copy principles", "email variations", "e-com cold email" | Read `cold-email/.claude/skills/copywriting/SKILL.md` |
+| Email infrastructure setup | **email-infra** | "email infra", "setup domains", "DNS setup", "SPF/DKIM/DMARC setup", "warmup", "mailbox setup", "Instantly setup", "how many domains", "email blacklist", "scaling email" | Read `cold-email/.claude/skills/email-infra/SKILL.md` |
 | Deliverability/infrastructure | — | See below | Read resources directly |
 | Sequencing tools | — | See below | Read resources directly |
 
@@ -28,14 +30,33 @@ When a request comes in, identify the type and delegate to the appropriate sub-s
 1. **Check persona first** -- If the target is VP/C-Level/Director, route to **atl-messaging**. If Manager/IC, route to **btl-messaging**. These override first-touch.
 2. **Check email position** -- If this is Email 1, route to **first-touch**. If Email 2/3 or follow-up, route to **follow-up**. If old/lost lead, route to **re-engagement**.
 3. **Check specific ask** -- Subject lines only go to **subject-lines**. Personalization strategy goes to **personalization**.
-4. **Cross-cutting concerns** -- Deliverability and tooling are handled directly by this orchestrator using resources below.
+4. **Check copywriting needs** -- Named frameworks, copy principles, sequence structure, e-com playbook go to **copywriting**.
+5. **Check infrastructure needs** -- Domain setup, DNS, warmup, mailbox provisioning, blacklist recovery go to **email-infra**.
+6. **Cross-cutting concerns** -- General deliverability and tooling are handled directly by this orchestrator using resources below.
 
 ## Cross-Cutting: Deliverability & Infrastructure
 
-These are NOT sub-skills. Handle them directly by reading the appropriate resource file:
+For general deliverability concepts, read the resource files directly. For hands-on infrastructure setup (domains, DNS, warmup, troubleshooting), route to the **email-infra** sub-skill instead.
 
-- **SPF/DKIM/DMARC setup, domain warmup, bounce management, blacklists, compliance** --> Read `cold-email/resources/frameworks/deliverability-guide.md`
-- **Advanced strategy, TAM reuse, Golden ICP, benchmarks, infrastructure scaling** --> Read `cold-email/resources/frameworks/cold-email-mastery.md`
+- **General deliverability concepts, bounce management, compliance** --> Read `cold-email/resources/frameworks/deliverability-guide.md`
+- **Advanced strategy, TAM reuse, Golden ICP, benchmarks** --> Read `cold-email/resources/frameworks/cold-email-mastery.md`
+- **Hands-on infrastructure setup, DNS, warmup, troubleshooting** --> Route to **email-infra** sub-skill
+
+### Additional Copywriting Resources
+
+For deep copywriting guidance beyond the sub-skill's quick reference:
+- **13 named frameworks with templates** --> Read `cold-email/resources/frameworks/copywriting/copywriting-frameworks.md`
+- **Core philosophy and email component rules** --> Read `cold-email/resources/frameworks/copywriting/copywriting-principles.md`
+- **Sequence structure and variations** --> Read `cold-email/resources/frameworks/copywriting/copywriting-sequences.md`
+- **E-commerce vertical playbook** --> Read `cold-email/resources/frameworks/copywriting/copywriting-ecom-playbook.md`
+- **ColdIQ playbook: 3 value prop styles, 3 preview patterns, ready-to-deploy sequences (Referral Ceiling 7-touch, Lead Magnet 2-touch), 250K+ email principles, pain-point angles** --> Read `cold-email/resources/frameworks/copywriting/coldiq-playbook.md`
+
+### Email Infrastructure Resources
+
+For detailed infrastructure walkthroughs:
+- **Complete setup guide** --> Read `cold-email/resources/frameworks/email-infra/email-infra-guide.md`
+- **Step-by-step with video tutorials** --> Read `cold-email/resources/frameworks/email-infra/email-infra-step-by-step.md`
+- **Troubleshooting and recovery** --> Read `cold-email/resources/frameworks/email-infra/email-infra-troubleshooting.md`
 
 ### Quick Deliverability Reference
 
@@ -93,7 +114,9 @@ User Request
 ├─ Re-engaging old/lost leads? → re-engagement
 ├─ Subject line help only? → subject-lines
 ├─ Personalization at scale? → personalization
-└─ Deliverability/infrastructure/tools? → Read resources directly
+├─ Named framework / copy principles / sequence structure? → copywriting
+├─ Domain setup / DNS / warmup / troubleshooting? → email-infra
+└─ General deliverability/tools? → Read resources directly
 ```
 
 ## Examples
@@ -105,7 +128,7 @@ User Request
 --> Route to **follow-up**. Ask for Email 1 copy. Draft Email 2 with different value prop, same thread.
 
 **Example 3: "My emails are going to spam"**
---> Cross-cutting: deliverability. Read `resources/frameworks/deliverability-guide.md`. Diagnose SPF/DKIM/DMARC, check warmup, review volume.
+--> Cross-cutting: deliverability. Read `cold-email/resources/frameworks/deliverability-guide.md`. Diagnose SPF/DKIM/DMARC, check warmup, review volume.
 
 **Example 4: "How do I personalize at scale using Clay?"**
 --> Route to **personalization**. Read `cold-email/resources/prompts/personalization-prompts.md` + `cold-email/resources/templates/campaign-playbooks.md`. Provide data bucket strategy and AI prompts.

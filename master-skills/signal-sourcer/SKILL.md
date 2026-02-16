@@ -43,6 +43,7 @@ Load the appropriate reference based on context:
 - **Job change tracking in Clay** -> Read `signal-sourcer/resources/timing/job-change-tracking.md`
 - **Tool setup: RB2B, Trigify, Common Room, Bombora, etc.** -> Read `signal-sourcer/resources/tool-setup-guides.md`
 - **11 executable GTM plays** -> Read `signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md`
+- **30-trigger quick ref with detection tools, timing windows, Clay credit costs, signal freshness rules, reliability tiers, signal sources by data party** -> Read `signal-sourcer/resources/signal-detection-tools.md`
 
 ## Key Benchmarks (cite these)
 

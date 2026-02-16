@@ -48,7 +48,7 @@ Step 6: [scheduling]   Suggest posting time and Golden Hour plan
 - Carousels get **2.5-3.5x reach** vs text-only
 - Post **3-4x/week** for optimal growth
 - Best times: **Tue-Thu, 7:30-8:30 AM** (recipient timezone)
-- First **90 minutes** determine 80%+ of total reach
+- First **60-90 minutes** determine 80%+ of total reach
 - Comments >15 words weighted **4x** vs likes at 1x
 - Saves/bookmarks weighted **5x** -- strongest signal
 - External links reduce reach by **40-60%**

@@ -97,6 +97,63 @@ Available formats: text, number, URL, true/false, custom
 
 Always specify the exact format you want in the prompt to avoid inconsistent outputs.
 
+## ColdIQ Production Prompts
+
+### Company Qualification
+```
+You are qualifying companies for a B2B outbound campaign. Based on the company information provided, assign a tier:
+
+Tier 1: B2B software companies with 40+ headcount that sell to other businesses
+Tier 2: B2B companies that sell digitally but are not software companies
+Tier 3: Companies in a relevant industry but not our ideal fit
+
+Company: {{Company Name}}
+Industry: {{Industry}}
+Employee Count: {{Employee Count}}
+Description: {{Company Description}}
+
+Return ONLY: "Tier 1", "Tier 2", or "Tier 3" followed by a one-sentence reason.
+```
+
+### Contact Qualification
+```
+Based on the following job title, assign a seniority tier:
+
+Tier 1: C-level, VP, Founder, Head of, Director (decision-makers with budget authority)
+Tier 2: Manager, Senior (influencers who can champion internally)
+Tier 3: Associate, Coordinator, Specialist (end users, not decision-makers)
+
+Title: {{Title}}
+
+Return ONLY: "Tier 1", "Tier 2", or "Tier 3"
+```
+
+### Personalized Opening Line
+```
+Write a cold email opening line (1 sentence, under 20 words) based on this signal:
+
+Signal: {{Signal/Trigger}}
+Company: {{Company Name}}
+Person: {{First Name}}, {{Title}}
+
+Rules:
+- Reference the signal naturally, don't force it
+- Sound like a human, not AI
+- Don't pitch anything yet
+- Don't start with "I noticed" or "I saw"
+- Make it about THEM, not you
+```
+
+### Tech Stack Detection (0 credits via GPT-4o-mini API)
+```
+Visit this BuiltWith URL and list the key technologies used by this company:
+{{BuiltWith URL}}
+
+Return a comma-separated list of the top 10 most relevant technologies (CRM, marketing automation, analytics, web framework only). Ignore tracking pixels and common libraries.
+```
+
+---
+
 ## Examples
 
 **Example 1: Detect free trial availability**

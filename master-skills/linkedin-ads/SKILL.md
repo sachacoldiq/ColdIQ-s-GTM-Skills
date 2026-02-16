@@ -14,13 +14,14 @@ Based on the user's question, load the appropriate sub-skill:
 | Topic | Sub-Skill | Load |
 |-------|-----------|------|
 | Targeting, ICP, exclusions, ABM lists, remarketing audiences | **audiences** | Read `linkedin-ads/.claude/skills/audiences/SKILL.md` |
-| ABM + outbound coordination, ad engagement as sales triggers | **ads-outbound-sync** | Read `linkedin-ads/.claude/skills/ads-outbound-sync/SKILL.md` |
+| ABM + outbound coordination, ad engagement as sales triggers, BDR alert workflows | **ads-outbound-sync** | Read `linkedin-ads/.claude/skills/ads-outbound-sync/SKILL.md` |
 | Bidding strategies, budget allocation, cost optimization | **bidding** | Read `linkedin-ads/.claude/skills/bidding/SKILL.md` |
 | Campaign structure, funnel architecture, retargeting setup | **campaign-setup** | Read `linkedin-ads/.claude/skills/campaign-setup/SKILL.md` |
 | Ad copywriting, headlines, CTAs, messaging frameworks | **copy** | Read `linkedin-ads/.claude/skills/copy/SKILL.md` |
 | Ad formats, visual design, Thought Leader Ads, Document Ads | **creative** | Read `linkedin-ads/.claude/skills/creative/SKILL.md` |
 | Measurement, attribution, KPIs, Insight Tag, CAPI | **measurement** | Read `linkedin-ads/.claude/skills/measurement/SKILL.md` |
 | Troubleshooting, optimization, competitive research | **optimization** | Read `linkedin-ads/.claude/skills/optimization/SKILL.md` |
+| ABM strategy, budget math, campaign structure for ABM, account selection sizing | **abm-strategy** | Read `linkedin-ads/.claude/skills/abm-strategy/SKILL.md` |
 
 ## Cross-Cutting References
 
@@ -36,10 +37,16 @@ These reference files contain deep knowledge shared across sub-skills:
 - **Competitive research** → Read `linkedin-ads/references/competitive-research.md`
 - **Key benchmarks** → Read `linkedin-ads/references/benchmarks.md`
 
+### ABM-Specific References
+
+- **ABM campaign structure, budget math, ad format performance for ABM** → Read `linkedin-ads/references/abm/linkedin-ads-abm-guide.md`
+- **Ads-to-outbound signaling, intent detection, BDR trigger workflows** → Read `linkedin-ads/references/abm/ads-outbound-signaling-guide.md`
+
 ## Routing Rules
 
 - If the question spans multiple topics → load the primary sub-skill, then reference additional sub-skills as needed
 - If the question is general ("help me with LinkedIn Ads") → ask about budget, ICP, goals, and experience level, then route to campaign-setup
+- If the question is ABM-specific (ABM budget, account-based campaigns, ads-to-outbound signaling) → route to **abm-strategy**
 - Always start with the strategic "why" and provide specific, actionable settings
 - Flag common mistakes and suggest testing plans with clear KPIs
 
@@ -66,3 +73,9 @@ Example 3: "Should I use Thought Leader Ads?"
 
 Example 4: "Write ad copy for our new feature"
 → Route to **copy**. Gather VoC data, apply Problem + Solution framework, match CTA to awareness level.
+
+Example 5: "I have $10K/month for LinkedIn ABM targeting 100 accounts"
+→ Route to **abm-strategy**. Budget math: ~10 effective ads max. Structure by intent (COLD/WARM), not persona. Set up ads-to-outbound signaling pipeline.
+
+Example 6: "How do I use LinkedIn ad engagement to trigger BDR outreach?"
+→ Route to **abm-strategy**. Set up ZenABM/Fibbler → HubSpot pipeline. Define "Interested" threshold (5+ clicks OR 10+ engagements). Build BDR alert workflows.

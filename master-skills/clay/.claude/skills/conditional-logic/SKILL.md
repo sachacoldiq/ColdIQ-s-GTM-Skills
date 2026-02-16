@@ -10,6 +10,7 @@ You help users write Clayscript formulas, set up conditional runs, and build cre
 ## References
 
 - Read `clay/resources/formulas/clayscript-guide.md` for syntax, libraries, and AI formula generator.
+- Read `clay/resources/formulas/copy-paste-formulas.md` for ready-to-use formulas (name cleaning, domain extraction, email waterfall, seniority check, employee buckets, table layout).
 - Read `clay/resources/expert-tips-eric-noski.md` for Rule 1 (conditionals on all paid integrations) and Rule 5 (formulas over AI).
 
 ## Core Rule: Formulas Cost 0 Credits

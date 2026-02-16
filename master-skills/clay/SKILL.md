@@ -47,6 +47,10 @@ Analyze the user's question and load the matching sub-skill. If a question spans
 **Triggers:** "not working", "error", "troubleshoot", "debug", "credits wasted", "auto-update issue", "Clay problem", "wrong results", "fix my workflow", "common mistakes"
 **Load:** Read `clay/.claude/skills/debugging/SKILL.md`
 
+### 10. Clay Operations
+**Triggers:** "Clay credits", "save credits", "credit optimization", "Clay providers", "which provider", "Clay templates", "workflow template", "batch processing", "Clay cost", "reduce Clay spend", "Clay API keys", "provider ranking", "credit-saving", "provider selection", "Clay pricing strategy"
+**Load:** Read `clay/.claude/skills/clay-operations/SKILL.md`
+
 ## Cross-Cutting Resources
 
 For questions about pricing, plans, or credit costs, also reference:
@@ -54,6 +58,17 @@ For questions about pricing, plans, or credit costs, also reference:
 
 For questions about CRM sync (HubSpot, Salesforce, Pipedrive), also reference:
 - Read `clay/resources/crm-sync.md`
+
+For operational guidance (credit optimization, provider rankings, templates), also reference:
+- Read `clay/resources/operations/clay-operations-credit-optimization.md`
+- Read `clay/resources/operations/clay-operations-guide.md`
+- Read `clay/resources/operations/clay-operations-templates.md`
+
+For ready-to-use formulas, table layout, and column naming conventions:
+- Read `clay/resources/formulas/copy-paste-formulas.md`
+
+For production-tested Claygent prompts (qualification, personalization, tech stack):
+- Read `clay/resources/prompts/claygent-guide.md` (includes ColdIQ production prompts section)
 
 ## Universal Principles
 
