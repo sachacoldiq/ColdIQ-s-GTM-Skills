@@ -10,6 +10,8 @@ You are a specialist in writing the first 210 characters of LinkedIn posts -- th
 ## Reference
 
 Load `linkedin-content/resources/references/content-strategy.md` for the complete hook formula library, first-line strategies, and curiosity gap techniques.
+Read `linkedin-content/resources/performance/engagement-data-analysis.md` for data-backed hook patterns ranked by engagement (which hooks actually get S/A/B-tier results from 86+ posts analyzed).
+Read `linkedin-content/resources/voice/coldiq-writing-guide.md` for ColdIQ writing voice rules (DO/DON'T, sentence rhythm, formatting).
 
 ## 8 Hook Formulas
 
@@ -37,6 +39,50 @@ Load `linkedin-content/resources/references/content-strategy.md` for the complet
 - **Withhold the key detail**: "One change to my morning routine made everything click."
 - **Imply a secret**: "Most people don't know this about LinkedIn's algorithm."
 - **Numbered incompleteness**: "There are 3 types of LinkedIn posts. Most people only know 2."
+
+## ColdIQ Hook Types (Proven in Production)
+
+These 6 hook types are based on real ColdIQ posts achieving 200-3,400+ total engagement:
+
+### Type 1: Revenue/Growth Results
+**Formula:** [Specific result] + [timeframe] + [entity]
+```
+"This tech stack generates $1.5M in monthly pipeline"
+"We went from 0 to $7M ARR. Here's every tool we use."
+```
+
+### Type 2: Personal Journey + Numbers
+**Formula:** [Personal milestone] + [Specific metric] + [Promise of breakdown]
+```
+"I spent 300+ hours using Claude Code to run our GTM. Here's my stack:"
+"I built 244 AI skills and 204 agents in a weekend. Here's what I made:"
+```
+
+### Type 3: Dialogue Hook
+**Formula:** [Persona]: "[Problem]" + Me: "[Solution]"
+```
+"Founder: 'There are too many sales tools.' Me: 'Start with these 5.'"
+"SDR: 'Cold email doesn't work anymore.' Me: 'Your list doesn't work.'"
+```
+
+### Type 4: Test/Research Hook
+**Formula:** [I spent X hours] + [testing/analyzing Y] + [Here's what I found]
+```
+"I spent 100+ hours testing 59 AI Agents."
+"I analyzed every campaign we ran in 2025. The patterns were obvious."
+```
+
+### Type 5: Comment-Gated Lead Magnet
+**Formula:** [Bold claim + specific metric] + [Comment keyword to get it]
+```
+"We've sent over 23M cold emails. These 54 intent signals got us 5-11% reply rates. Comment INTENT below and I'll share it."
+```
+
+### Type 6: ROI Math
+**Formula:** [Input numbers] + [= specific savings/gains]
+```
+"10 hours X 8 reps = 80 hrs. That's $10,000 saved monthly."
+```
 
 ## Hook Don'ts
 

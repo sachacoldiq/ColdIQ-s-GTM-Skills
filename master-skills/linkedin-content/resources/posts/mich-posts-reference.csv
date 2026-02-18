@@ -1,0 +1,3308 @@
+engagement_rank,post_number,time_posted,hook,reactions,comments,total_engagement,char_count,full_content
+1,11,"I turn 31 today. My business made $557,000 last month. But before that, I failed 7 businesses in a row:",Here’s what I tried building...,789,424,1213,2313,"Here’s what I tried building... 
+and why I'm convinced each 'fail' got me closer to a 'win'
+
+
+1. I started a clothing brand with my friend Thibault Selderslagh.
+
+👎 We barely managed to sell 15 t-shirts. We had to order minimum 400. So we ended up with 385 t-shirts... now collecting dust somewhere.
+
+👍 But, I learned how to create websites during this process.
+
+↳ ... a skill I used to create the V1 of my website ColdIQ.
+
+
+2. I co-founded a raffle lottery in the UK 🇬🇧
+
+👎 I invested 40,000€ of my personal savings. We only managed to sell £1,000 worth of lottery tickets.
+
+👍 But, I learned to run ads while desperately trying to sell these tickets.
+
+↳ ... a skill we now use to book 50+ monthly meetings via ads. And that we offer as a service to clients (with some closing > $1M as a result!)
+
+
+3. I tried to become an Instagram influencer.
+
+👎 I found a hack that grew my account to 29,000 followers. Then it stopped working, and I've lost followers ever since. I never made a dime from the platform, nor did I get offered any free brand product.
+
+👍 But, I learned about social media & algorithms.
+
+↳ ... a skill that got me to be a LinkedIn influencer instead (😆). But more seriously, this led to 15,000,000+ impressions & 1,000+ inbound meetings for my company.
+
+(And we now offer it as a service too... send a DM!)
+
+
+4. I ran a sports betting affiliate website.
+
+👎 I grew it to $6,000/mo, until it dropped to 0 overnight because of regulation changes in Belgium 🇧🇪
+
+👍 But, I learned a lot about monetizing affiliate brand deals.
+
+↳ ... a skill that allows us to generate > 5-figure per month in passive affiliate revenue.
+
+
+5 & 6. I started an MMA Betting blog AND a Crypto blog.
+
+👎 None of them made a single $1.
+
+👍 But, I learned SEO & Copywriting
+
+↳ ... skills that are responsible for driving 100s of thousands of visits to ColdIQ's website.
+
+
+7. I launched a Facebook Ads agency
+
+👎 I booked 15 meetings, and didn't manage to close a single client.
+
+👍 But, I learned cold email in the process.
+
+↳ ... a skill that turned into a service we currently deliver for 70+ clients, amounting to > $500K in MRR.
+
+
+Takeaway?
+You win, or you learn.
+
+And each failure turns into a lesson that lets you try again... better.
+
+So keep pushing!
+
+P.S: Want a free strategy call with us? Book it here - https://coldiq.com/"
+2,22,Claude can now build advanced n8n workflows from a single prompt.,"Just use this Claude project setup, and it will handle 90% of the work 👇",439,692,1131,2364,"Just use this Claude project setup, and it will handle 90% of the work 👇
+
+This completely changed how we build automations at our $6.5M ARR agency…
+
+Here’s precisely how we run this:
+
+1. Write a basic prompt describing your workflow. 
+
+Claude (Sonnet 4.5) will read it, break it down & output an n8n JSON file that can be imported.
+
+2. Claude takes care of the complex implementation.
+
+That is:
+- Filed mappings + expressions
+- Data flow between nodes
+- Trigger configurations
+- Conditional branches
+- Sticky notes for docs
+- Error handling
+
+Beware: there are usually a few small items to debug, and it won’t add your API keys for you. But everything else is handled.
+
+Now, what’s included in the system:
+
+1️⃣ Full Claude Project Setup
+
+The system infrastructure that transforms Claude into an n8n workflow builder. 
+(Just need to copy paste & you’re ready to go!)
+
+
+2️⃣ Over 70 n8n Documentation Pages
+
+The official n8n GitHub documentation from which we extracted syntax, capabilities & node references. 
+
+That’s how Claude knows how to build functioning workflows.
+
+
+3️⃣ Templates & Frameworks
+
+Templates + Frameworks you can copy-paste for use cases like lead routing and social listening.
+
+
+4️⃣ Real-life Examples 
+
+Our actual prompts vs. the workflows Claude ended up building.
+(So you can see what worked well, and what did not).
+
+
+5️⃣ SOPs to always stay updated with the latest Docs
+
+Step-by-step guide to pull and compile n8n documentation every time there’s a new feature.
+(Which is every week in AI world)
+
+
+Once again, this is democratising complex workflow buildouts.
+
+Starting from scratch or piecing together documentation used to take a lot of time.
+
+“How to build n8n workflows?” has always been a bigger challenge than “what n8n workflow shall I build?”
+
+This flips the questioning on its head.
+
+Spend most of your time thinking about which automation moves the needle for your business. Not how you'll build it.
+
+...and leverage Claude to get 90% of the way there.
+
+If you want to get the entire system, including the documentation package & guide to set it up yourself, comment “PROMPT”, “n8n” or “CLAUDE” and I’ll DM it to you!
+
+
+P.S: Kenny Damian is our n8n 🐐 at ColdIQ, and the man behind the agentic workflows we build for our > $10M ARR clients. If you want to get access to these value drops before everyone else… you NEED to follow him!"
+3,29,"What our $6,5000,000/year Funnel looks like:","(It booked 1,400+ meetings & added > $4M ARR in 2025)",574,186,760,2244,"(It booked 1,400+ meetings & added > $4M ARR in 2025)
+
+1️⃣ Lead Generation
+
+We drove 329,000+ unique visits to ColdIQ’s website this year.
+
+They came from:
+
+1. Automated Outbound
+2. LinkedIn publications
+3. LinkedIn Ads
+4. Google Ads
+5. SEO
+
+Software used:
+
+OUTBOUND
+
+→ Data Sourcing: Clay, Openmart, LinkedIn
+→ Enrichment: Clay, Prospeo.io, Wiza, FullEnrich
+→ Sales Engagement: Instantly.ai, lemlist, Expandi
+→ Intent Signals: Clay, Common Room, Teamfluence™
+
+INBOUND:
+
+→ SEO: AirOps, Ahrefs
+→ Ads: Fibbler, LinkedIn
+→ Content: Taplio, Scripe, Notion
+
+
+2️⃣ Lead Capture
+
+To make the most of this traffic, we leveraged a few conversion mechanisms, i.e:
+
+1. Lead Magnets, as Content guides or Mini-Tools, to capture email addresses.
+2. Visitor Identification tech, to re-engage anonymous visitors.
+3. ‘Smart’ one-field forms, to automate lead routing to sales.
+4. VSLs, to articulate our offerings as clearly as possible.
+
+Software used:
+
+→ Inbound Routing: Default
+→ Mini-Tools: Lovable, Vercel
+→ VSL Hosting: Wistia on Webflow
+→ Visitor Identification: Instantly.ai, Midbound
+
+
+3️⃣ Lead Management
+
+When leads don’t convert directly, we:
+
+1. Run ‘inbound-led’ outreach campaigns to ICP fit leads that we scored & segmented prior.
+2. Connect on LinkedIn & let our content nurture them.
+3. Nurture them via Email Marketing sequences.
+4. Nurture them via our Newsletter.
+
+Software used:
+
+→ Newsletter: beehiiv
+→ Email Marketing: Customer.io
+→ Lead Scoring: Clay, OpenAI, Claude
+→ Workflow Automation: n8n, Relevance AI
+
+
+4️⃣ Lead Conversion
+
+Finally, we’re on to the last step, i.e, closing these leads.
+
+This mostly happens via video conferencing on Google Meet. 
+Followed by proposals being sent via email. 
+And contracts are being signed digitally.
+
+Software used:
+
+→ Proposals: Qwilr
+→ Sales Enablement: Attio
+→ Meeting Notes: Attention
+→ Conferencing: Google Meet
+→ Digital contracts: PandaDoc
+
+Which of these platforms are you using? 👇
+
+P.S: The strongest part of our Funnel is our Lead Generation. 
+
+Syncing LinkedIn Ads, LinkedIn Content & Outbound is generating so many leads… that we don’t need to be 100% perfect lower down the funnel. 
+
+If you'd like us to run this for you, check the “visit my website” link below my profile tagline!"
+4,35,Silicon Valley gets all the AI Agent headlines.,But have you seen what’s being built in Europe?,545,207,752,2155,"But have you seen what’s being built in Europe?
+
+Here are the agents I’m closely watching
+…most specifically to help with GTM:
+
+1. Attio
+
+Their agent autonomously ingests calls/emails, auto-extracts insights, populates CRM fields and triggers workflows based on pre-set conditions.
+
+Example use-case: After a sales call, auto-updating deal-relevant information (value, prospect).
+
+
+2. Apify
+
+Their agents, or “actors,” autonomously navigate websites, bypass anti-bot measures, and extract data.
+
+Example use-case: Extract conference attendee lists to re-engage them later.
+
+3. Lovable
+
+Their agent builds full web apps from natural language. It writes code, sets up databases, deploys & iterates based on feedback.
+
+Example use-case: Building free mini-tools to capture email addresses.
+
+
+4. ElevenLabs 
+
+Their voice agent handles inbound calls 24/7, qualifies leads, books meetings & detects emotions across 32+ languages.
+
+
+5. lemlist
+
+Their agent score leads against your ICP, navigates websites for personalization & generate multichannel sequences in ~3 minutes.
+
+Example use-case: Letting AI prepare a multi-channel outreach sequence from scratch for human review.
+
+
+6. Linkup
+
+Their search API gives other AI agents accurate, real-time web access. Not an agent per se, but an API that powers them.
+
+Example use-case: A prospecting agent would query LinkUp to check whether a prospect has just raised funding before writing personalised outreach.
+
+
+7. Dust
+
+Custom agents that connect to Slack, Notion, Google Drive & your CRM to autonomously perform analyses across all sources.
+
+Example use-case: Asking the agent to help you prep for a sales call, then the agent pulls CRM notes, recent Slack threads, and other helpful docs into a brief.
+
+8. n8n
+
+Open-source workflow builder with AI building capabilities.
+
+Example use-case: Creating custom, agentic GTM workflows.
+
+
+Other EU-based agents to watch:
+- Make
+- Tidio
+- Modjo
+- arcads AI
+- ZenRows
+- Pipedrive
+- Jiminny
+- Typeform
+- Synthesia
+- Amplemarket
+- NiCE Cognigy
+- Salesforge.ai 🔥
+- Jason AI (Reply)
+- La Growth Machine
+- Enginy.ai (formerly Genesy)
+
+P.S: Any agent I should be looking at?"
+5,41,Silicon Valley is the hub of GTM unicorns.,But have you seen what’s going on in Europe?,520,206,726,2290,"But have you seen what’s going on in Europe?
+
+Giants are being built in countries with just 11M inhabitants 🇸🇪 🇧🇪
+
+And it’s happening all over the continent.
+
+Here are some of my favourite EU success stories:
+
+1. Odoo 🇧🇪
+
+Founded by Fabien Pinckaers, Odoo quitely grew to 40M€ MRR and is now valued at well above $5B.
+
+They did that by breaking all the rules:
+
+→ A generous Freemium model.
+→ Kept it open source & community-powered.
+→ Built 100s of apps, instead of just ONE block.
+
+All the while: 
+
+- his board was trying to get him fired.
+- spending 7 years near bankruptcy.
+- losing 16M€ from overnight
+
+Today, it’s 6500+ employees & 750M€ in revenue in 2025.
+
+I’m especially proud of this one, as a fellow Belgian 🇧🇪!
+
+
+2. Lovable 🇸🇪
+
+Founded by Anton Osika & Fabian Hedin… it’s the loudest success story of the year.
+
+Lovable hit $200M ARR last week, one year after hitting $1M ARR.
+
+At ColdIQ, we use it to build free tools for lead generation purposes.
+
+Testing out prototypes required technical people. 
+Most of our team is able to spin off a ‘free email finder’ or a ‘custom client dashboard’ in a day.
+
+
+3. lemlist 🇫🇷
+
+The French success story that should be studied by everyone in GTM.
+
+Founded by Guillaume Moubeche, now led by Charles Tenot.
+
+It includes lemlist, Taplio & now Claap under one umbrella.
+
+Some things to takeaway:
+
+- A 300K+ combined followers, employee-wide LinkedIn content strategy.
+- Unseen build-in-public transparency by their Founder & the entire team.
+- Bold acquisitions (i.e: Taplio, Claap) so their app ecosystem covers every GTM function.
+
+At ColdIQ, they're our #1 choice for all our multichannel prospecting campaigns!
+
+
+4. n8n 🇩🇪
+
+They’ve been a staple in automation teams for some time…
+
+But with the rise of AI agents… they became a category of one.
+
+More modulable than their competitors, more powerful, less expensive… it’s an essential component of modern AI + GTM tech stacks.
+
+It’s saving our team hours of work everyday!
+
+
+Other GTM success stories across Europe:
+
+🇨🇿 Apify
+🇫🇷 Aircall
+🇫🇷 arcads AI
+🇫🇷 Argil
+🇫🇷 Dust
+🇫🇷 FullEnrich
+🇫🇷 Hyperline
+🇫🇷 Prospeo.io
+🇬🇧 Attio
+🇬🇧 ElevenLabs
+🇬🇧 Synthesia
+🇲🇰 HeyReach.io
+🇪🇸 Genesy
+🇪🇪 Pipedrive
+🇦🇹 Storyblok
+🇳🇱 Expandi
+🇳🇱 Framer
+
+… and the list goes on!
+
+P.S: What EU SaaS is on your radar at the moment?"
+6,25,The anatomy of a ~$7M ARR acquisition funnel:,"+ $534,000 ARR added so far in January",518,177,695,2583,"+ $534,000 ARR added so far in January
+
+Step-by-step breakdown ↓
+
+1️⃣ Lead Generation
+
+We get 40,000+ monthly visits on ColdIQ's website.
+
+Our best traffic sources are: 
+
+A. SEO (~12,000 visits)
+
+More specifically:
+
+- Standard articles = typical SEO-optimised articles (this still works, while everybody mostly focuses on AEO)
+- Meta Pages = we build some exhaustive resources (e.g: Tools Directories) that rank well on Google.
+- Programmatic SEO = we use AirOps to deploy templated pages at scale.
+
+Useful tech: AirOps, Ahrefs, Webflow
+
+
+B. LinkedIn Posts (~10,000 visits)
+
+As a team (250,000+ combined followers): 
+
+20+ separate post a combined 150+ times per month around prospecting, AI & GTM.
+
+Useful tech: Taplio, Scripe
+
+
+C. Paid Ads (~4,000 visits)
+
+We run ads across LinkedIn, Meta & Google.
+
+We budget around $10,000/mo to experiment across these channels.
+
+Useful tech: Fibbler, Usermaven
+
+
+D. Cold Outreach (~3,000 visits)
+
+We constantly run prospecting campaigns based on various plays:
+
+- Value-based lead magnet campaigns
+- Success stories lookalike
+- Inbound-led outbound
+- Social re-engagement
+
+The goal isn't to generate traffic, but at scale, it does come back to our site.
+
+Useful tech: Clay, lemlist, Instantly.ai, Apify, Common Room, PredictLeads, Prospeo.io, Wiza, FullEnrich.
+
+
+E. Others (~11,000 visits)
+
+Rest is a mix of YouTube, Webinars, Referral, Newsletter & non-attributable Direct traffic (which probably comes from the above channels as well).
+
+Useful tech: vidIQ (YouTube), StreamYard (Webinars), beehiiv (Newsletter).
+
+
+2️⃣ Lead Capture 
+
+To convert this traffic into meetings, we have:
+
+- one-field signup forms that automatically route & enrich prospects to the right person, via Default.
+
+- email marketing sequences, built inside Customer.io, to push leads to meetings.
+
+- de-anonymization technology, via Midbound | Vector 👻 | Instantly.ai | RB2B, to re-engage qualified visitors.
+
+- free GTM mini-tools, built via Cursor & Claude, to capture email addresses.
+
+- a lead magnet e-book that pops up after 1 min of browsing the site.
+
+
+3️⃣ Lead Conversion
+
+Most of our deals are sales-led.
+
+They close via Google Meet conversations.
+
+Usually, in 2-3 calls, given the package size ($5,000-10,000/mo).
+
+Attention records our calls.
+Leads are stored inside Attio.
+We send proposals via Qwilr.
+
+... and we process monthly payments via Stripe.
+
+Ran out of space, so couldn't go as deep as I wanted.
+Lmk if you need clarification on any of the below steps 👇
+
+P.S: Any channel that's crushing it for you... 
+that we should implement inside our funnel? 👀"
+7,31,How I would find my first 10 clients if I had to restart from 0:,It's how I've hit > $6.5M+ ARR in 3 years 👇,468,167,635,2924,"It's how I've hit > $6.5M+ ARR in 3 years 👇
+
+1. I'd find a ‘free’ way to get my brand out there.
+
+In the beginning: 
+
+You have lots of time.
+You have little money.
+
+So you want to start with a time-consuming channel that doesn’t require much funds.
+
+This could be:
+→ Writing blog articles.
+→ Creating LinkedIn posts.
+→ Recording YouTube videos.
+→ Being active in niche communities.
+
+I tried them all.
+The one that worked best for me was LinkedIn.
+
+It’s what I recommend to all my friends in B2B to get started.
+
+
+Software you can use:
+- Design: Canva or Figma
+- Content Ideation: Taplio or Scripe 
+
+
+2. I'd direct this ‘visibility’ to a short landing page.
+
+Your brand efforts will gather interest.
+
+Interested visitors will check your site or your social profiles.
+You want them to understand asap how you help.
+
+The most effective way I found to do so, is to record a 5-min video sales letter, breaking down your offering.
+
+Some people won’t buy straight away.
+
+For them, I’d suggest creating a lead magnet to grab their email addresses
+… and nurture them with valuable content over the long term.
+
+For the ones that didn’t provide their emails, you can use visitor identification software to de-anonymize them (in the US).
+
+
+Software you can use:
+- VSL Hosting: Wistia
+- Landing Page: Webflow or Framer
+- Visitor Identification: Midbound or Instantly.ai
+
+
+3. I'd reach out to warm ‘high-fit’ leads.
+
+Many prospects will engage with your content but won’t try to schedule a call
+
+Still, they might be interested.
+
+In this case, I’d suggest reaching out to every prospect who’d make an ideal client but hasn’t messaged you yet.
+
+I recommend writing your first 25-50 messages by hand, before trying to automate.
+
+This could look like:
+“Hey {{name}}, seems my post on {{topic}} resonated with you. Are you working on {{potential initiatives}}? Happy to swap notes if that’s helpful.
+
+Whatever you write… the magic of manual notes is that it forces you to re-read & improve your messaging every time.
+
+This allows you to uncover patterns…
+Which will be invaluable once you scale your sending.
+
+
+Software you can use:
+- Email Outreach: Instantly.ai
+- LinkedIn Outreach: Expandi
+- Multichannel Outreach: lemlist
+- Email Finding: Wiza, Prospeo.io, LeadMagic or FullEnrich.
+
+
+4. I'd repeat the above steps for 3 months straight before considering giving up. 
+
+This 100% works.
+It sounds simple, but it’s challenging to keep working hard when things are uncertain.
+
+Working hard is difficult on its own.
+But working hard, when doubting that there’s a point, is even harder.
+
+To make it work, you must somehow convince your brain that you’re not doing this for nothing. Even when you get 0 results in the first weeks, or months.
+
+Repeat these steps enough times.
+And you’ll inevitably improve.
+
+Improve enough…
+And soon enough, you’ll reap the rewards of your hard labour.
+
+Good luck ✌️
+
+P.S: Who's starting something new in 2026? 👇"
+8,43,Most companies bet their entire LinkedIn strategy on the Founder.,We get the whole team involved:,383,218,601,851,"We get the whole team involved:
+
+Last month, this allowed us to sign 14 new deals, totalling ~$70,000 in MRR for our agency. Plus, another 16 customers won for our educational program.
+
+It’s a win-win.
+
+For the team:
+→ They grow their brand, a precious asset they own… and that will benefit them whatever they decide to pursue.
+
+For us:
+→ They send visitors to our site and generate qualified leads every single day.
+
+Everyone shares around their domain of expertise: 
+
+- Ivan talks about ABM, LinkedIn Ads & Funnels.
+- Millie shares tips on Founder-Led branding.
+- Monika shares her best cold email rewrites.
+- Kenny shares his latest n8n workflows.
+
+… and the combined posting volume makes it challenging not to come across ColdIQ on your LinkedIn feed.
+
+2026 will be the year of Employee-led branding.
+
+Don’t miss this shift.
+
+No more posts to load"
+9,36,How to write top 1% cold emails:,(Frameworks we use for our $6.5M+ ARR agency customers),370,225,595,816,"(Frameworks we use for our $6.5M+ ARR agency customers)
+
+1. AIDA Framework by Monika Grycz 💌 
+
+2. AI Campaign Ideas by Dujam Dunato 
+
+(inspired from Eric Nowoslawski)
+
+3. Right person for Opportunity by Kenny Damian
+
+4. Similar challenges by Patrick Trümpi
+
+5. Observation | Call-Out | Proof by Nick Abraham
+
+6. Trigger | Implication | Pain by Aaron Reeves
+
+7. Trigger | Process | Symptoms by Tal Baker-Phillips
+
+8. Champion Play by Brian LaManna
+
+9. Rhetorical Question by Leif Bisping
+
+10. Content Assets by Ethan Parker
+
+11. ""Quick calculations” by Thibaut Souyris
+
+What's your favourite cold email template?
+
+Share it with us 👇
+
+P.S: We compiled the copywriting frameworks we used to book 14,000+ B2B meetings for > 250 orgs in a (pretty) big Notion document.
+
+Do you want it? Let me know below and it’s yours :)"
+10,16,Valley’s GTM machine books more meetings than 10 SDRs with just 1 person.,"Zayd, their CEO, is convinced every GTM can replicate it 👇",458,118,576,1860,"Zayd, their CEO, is convinced every GTM can replicate it 👇
+
+1. Content Machine
+
+- Zayd does bi-weekly content interviews on Riverside & turns these into shorts.
+- They record all his calls using Fathom.ai / Fireflies.ai and mine them for content.
+- He posts 5x per week on LinkedIn & leverages tools such as Taplio & Bluecast for inspiration.
+- Their LinkedIn company page mainly comprises social proof posts (e.g, live reactions of new users discovering their product).
+
+He takes screenshots with Shottr and turns them into good-looking graphics.
+
+His personal account focuses on a few content pillars, namely: his founder journey & GTM industry insights.
+
+
+2. Signal-Based Outbound
+
+Every week he extracts:
+
+- His profile viewers.
+- His company page followers. 
+- His post engagers (personal & company).
+- His website visitors (via Valley, RB2B, & Vector 👻).
+
+Valley autonomously qualifies & tiers each prospect (high vs. medium vs. low fit), removes competitors and enriches contacts.
+
+
+3. Personalized Messaging
+
+For every high-fit lead, Valley:
+
+- Conducts additional research
+- Writes relevant messages.
+- Delivers > 30% replies.
+
+This amounts to 40+ positive replies every day in their LinkedIn inbox.
+
+
+4. Lead Orchestration
+
+When leads reply positively, but end up ghosting, they’re pushed to Slack, with their contact details, via a Zapier automation.
+
+Then, Alex Nelson, Valley's Founding AE, calls to check if there’s still interest.
+
+
+5. Deal Closing
+
+- They send one-pager proposals via paage.io, which tracks what part of the proposal prospects spend most of their attention on.
+- Payments are automatically processed through Stripe.
+
+This entire setup books them > 150 qualified meetings per month.
+
+....and can be reproduced by most B2B growth leaders!
+
+P.S: What would you advise Zayd and his team to get above 200 monthly qualified meetings?"
+11,40,We completely changed the way we run GTM at ColdIQ.,"And now, we’re making it official 👇",385,173,558,2080,"And now, we’re making it official 👇
+
+ColdIQ started as an outbound agency.
+
+It’s still the biggest chunk of the work we do.
+It’s how I found our first clients.
+And it’s still an essential part of our GTM engine.
+
+But as we ran our own go-to-market at ColdIQ…
+
+We started experimenting with new channels:
+
+- Google Ads
+- Meta Ads
+- SEO
+- YouTube
+- Quora Posts
+- Reddit Posts
+- Niche Communities
+- Newsletter Sponsorships
+
+… but most importantly:
+
+→ LinkedIn Content
+→ LinkedIn Ads
+
+By adding LinkedIn content to the mix, we built one of the most powerful distribution engines in the GTM niche.
+
+30M impressions.
+2500+ B2B meetings.
+250,000+ followers gained.
+$4,000,000+ in deals influenced.
+
+And we got much better results with our cold emails, without changing anything, just because this content engine built so much social proof.
+
+And then, we pushed it one step further. 
+
+We realised we had published so many proven posts… that if we pushed these in front of more of our target personas… we’d potentially book even more meetings.
+
+So we did…
+
+And, once again, the numbers looked great.
+(LinkedIn Ads aren't 'that' simple, but you get the gist!)
+
+This is when I started doubting the ‘logic’ behind our offering.
+
+We’re killing it at 3 B2B channels…
+So why are we delivering just 1?
+
+If a GTM Leader in B2B Tech came to me asking: “Hey Mich, I have $20K to spend per month on my GTM… what shall I do?”
+
+I wouldn’t tell them: “Just send as many cold emails as humanly possible”
+
+I’d tell them to run a GTM engine that syncs Outbound, with LinkedIn Content & LinkedIn Ads.
+
+So we quietly started offering this to clients.
+But didn’t advertise it on our site.
+
+Up until the results were undeniable.
+
+It’s worked so well for us.
+It’s worked amazingly well for orgs like AirOps. 
+(who closed >$1M via our ABM engine & went from $2M to $15M just this year)
+
+And I’m betting it’ll work for you if you’re a GTM Tech, AI SaaS or B2B Tech company.
+
+If you’re wondering how the machine operates, have a look at the video ↓
+
+Or schedule a call with our team here: coldiq.com
+
+
+Talk soon ✌️"
+12,13,We recently hit $7M ARR.,Here's every tool we use to run our agency:,375,163,538,2346,"Here's every tool we use to run our agency:
+
+
+1️⃣ Content Engine
+
+LinkedIn drives us 100+ leads every month.
+
+This includes my account (65,000 followers) & other team members (275,000+ combined). I use:
+
+- Taplio for content ideation & inspiration.
+- Notion for content calendar & planning.
+- Scripe to gain inspiration from specific authors.
+
+I crossed 2,000 YouTube subscribers from 14 videos. I use:
+
+- Tella for async video creation.
+- vidIQ for content discovery & ideation.
+
+We publish 2 articles/week and drive 100,000+ visitors quarterly.
+
+30% now comes from SEO, thanks to free mini-tools we built for lead generation, & programmatic pages we built at scale. We use:
+
+- Claude Code to build these out.
+- AirOps for programmatic SEO.
+- Ahrefs for keyword research.
+
+We have ~10,000 active newsletter subscribers with 40%+ open rates. We use:
+
+- beehiiv to send our weekly issues.
+
+
+2️⃣ Outbound System
+
+We deliver Outbound & GTM services to 80+ B2B clients.
+
+Our entire outbound engine is powered by Clay for:
+
+→ Prospect research
+→ Enrichment
+→ Personalization
+→ Workflow automation
+→ Signal-based targeting
+
+Plus specialised tools for:
+
+- AI Agents: Relevance AI, n8n.
+- Sales Engagement: Instantly.ai, lemlist, Expandi.
+- Lead Sources: Apify, Prospeo.io, Exa, Openmart.
+- Contact Data: Wiza, FullEnrich, Prospeo.io, LeadMagic.
+- Intent + Retargeting: PredictLeads, Common Room, Vector 👻, Fibbler, Midbound
+
+
+3️⃣ Operations Stack
+
+Our team includes 35 FTEs & ~12 Fractional Freelancers.
+
+For internal database & documentation: Airtable, Notion, Supabase
+
+For internal automations: n8n, Claude Code
+
+For team communication: Slack, Google Meet, Norrsken Barcelona (office with sea view 👀)
+
+
+4️⃣ Inbound Funnel
+
+We book ~100 qualified B2B meetings monthly. We use:
+
+- Webflow (website hosting)
+- GA4 + Wistia (analytics + VSL)
+- Default (lead routing)
+- Usermaven (analytics & attribution)
+
+For re-engagement:
+
+- Kondo: Superhuman for LinkedIn DMs (LinkedIn inbox management)
+- Customer.io (email marketing)
+
+
+5️⃣ Sales Stack
+
+We closed +$750,000 in new ARR last month. We use:
+
+- Attio (CRM)
+- Attention (AI meeting notes)
+- Qwilr (proposals)
+
+... and are about to start integrating Hyperline for billing.
+
+
+6️⃣ Finance Stack
+
+- Ramp (expense & treasury management)
+- Stripe, Wise, Revolut (billing + banking)
+
+
+What's one tool you'd add?"
+13,34,The anatomy of a $7M ARR lead gen agency:,From Marketing → Sales → Client Delivery ↓,373,165,538,2932,"From Marketing → Sales → Client Delivery ↓
+
+Every step. Every tool. Every person behind it: 
+
+1️⃣ Marketing Engine (40,000+ visits/mo)
+
+A. LinkedIn (~10,000 visits)
+
+20+ people in our team (~300K followers) post a combined 150+ times around prospecting, AI & GTM.
+
+Ada, Pilar & Maria Luisa design our infographics.
+
+Useful tech: Taplio, Scripe.
+
+
+B. SEO (~12,000 visits)
+
+Yevhen runs our programmatic SEO.
+
+We publish:
+- Standard blog articles
+- Programmatic pages via AirOps
+- Free mini-tools built with Claude Code (made by Sacha)
+
+Useful tech: AirOps, Ahrefs, Claude Code, Webflow
+
+
+C. Paid Ads (~4,000 visits)
+
+Ivan runs our paid campaigns across LinkedIn, Meta & Google.
+
+~$10K/mo to experiment across channels.
+
+Useful tech: Airpost, Fibbler, Usermaven
+
+
+D. Cold Outreach (~3,000 visits)
+
+Kenny handles our outbound campaigns:
+
+We run several plays, including:
+- Value-based lead magnet campaigns
+- Inbound-led outbound
+- Lookalikes companies
+
+All built on targeted lists of < 5,000 hyper-enriched prospects. 
+
+Useful tech: Clay, Instantly.ai, lemlist, Prospeo.io, FullEnrich, Apify, Wiza, Common Room, PredictLeads
+
+
+E. Others (~11,000 visits)
+
+Monika runs our beehiiv newsletter.
+Alex creates YT + IG videos.
+Harry powers our webinars.
+
+
+2️⃣ Lead Capture
+
+To convert traffic, we run:
+
+- Midbound, Vector 👻 to re-engage anonymous visitors.
+- Email marketing via Customer.io.
+- Lead magnet e-books pop-ups.
+- Mini-tools to capture emails.
+
+All data flows through n8n → scored via Clay + OpenAI + PredictLeads.
+
+
+3️⃣ Sales Engine
+
+Jan & Dujam close our deals.
+
+These 2 are machines, and there's a healthy (or not 😅) competition that makes them both close much more.
+
+Most deals are sales-led. 
+2-3 Google Meet video-calls. 
+$5- $10K/mo packages.
+
+The flow =
+
+- Precall: case studies, VSL, free video content → prospects qualified via Default.
+- Discovery call: AE connects with prospect, sends connection request.
+- Enrichment: lead research via Clay (funding, headcount, tech stack, tenure, reports).
+- Proposal → (follow-up) → Closed Won
+
+Useful tech: Attio (CRM), Attention (AI meeting notes), Hyperline (CPQ), Qwilr (proposals), Stripe (payments).
+
+
+4️⃣ Client Delivery
+
+Soheil leads our Service Delivery team, which sometimes onboards over 30 new clients in a quarter.
+
+To stay on top of it, we:
+
+- Automated onboarding processes via n8n.
+- Synced GSuite ↔ Supabase ↔ Stripe ↔ Slack.
+- Automated admin tasks (= Slack invites, sending onboarding links, secondary domains) 
+
+…so our GTM Engineers only focus on what adds value to clients (custom ICP matrix buildout, creative campaign ideas, copy…)
+
+Useful tech: Airtable, n8n, Slack, Google Suite, Supabase
+
+
+Didnd't get enough space to go as deep as I wanted on each component… but the infographic below breaks it down visually.
+
+Which part of this engine would you like more details on?
+
+P.S: Wanna grow your agency? We have a coaching program that teaches exactly that 👇"
+14,23,"I just crossed 65,000 followers. LinkedIn got us to $7M+ ARR.",Here's every tool I've used to grow my audience:,326,199,525,2926,"Here's every tool I've used to grow my audience:
+
+1. Content Ideation
+
+→ Taplio (go.coldiq.com/taplio)
+
+I use their in-app feed to discover outlier LinkedIn posts in my niche.
+
+You can enter keywords like: ""ai sales"", ""outbound"" or ""GTM"" and then filter for posts that:
+
+- contain the above 'searched' keywords
+- were published within the past month
+- had 300 likes or more
+
+I then reverse-engineer the structure, hook & CTAs of these top-performing posts to refine my own.
+
+→ Scripe
+
+Excellent for content ideation.
+
+It lets you aggregate posts by author, which is a useful way to spot 'viral publications' on a given topic.
+
+
+2. Copywriting
+
+→ Grammarly
+
+As a non-native English speaker, I make plenty of spelling mistakes.
+
+I use Grammarly's extension to fix my writing in real-time.
+
+Doesn't sound exciting, but defo a must-have in my LinkedIn stack.
+
+→ Claude Code
+
+I use Opus within Claude Code to generate hook variations, repurpose past content & brainstorm fresh angles.
+
+Since it has so much context on my business, it can fill in the blanks without me needing to feed it the same info over & over.
+
+→ Conductor
+
+My interface to run Claude Code (& Codex).
+
+Makes it much nicer to write/repurpose posts thanks to their beautiful UI.
+
+
+3. Visuals & Design
+
+→ Figma / Adobe Suite
+
+My LinkedIn strategy leans heavily on visuals.
+
+When done well, they multiply the reach of your publications by up to 10X.
+
+Our designers use these to create our carousels & infographics.
+
+
+→ Canva
+
+My first-ever carousels published on here were made on Canva.
+
+It's the most beginner-friendly app to create social media visuals.
+
+
+4. Video Creation
+
+→ OpusClip
+
+I use Opus's AI features to automatically generate short-form videos from my long-form content.
+
+The output isn't as polished as a professional editor's...
+But it's cost-effective & fast.
+
+Several AI-edited videos got me 50K+ views on LinkedIn.
+
+→ Screen Studio
+
+Screen Studio is my favourite Mac screen recording app.
+
+It's ideal for making video walkthroughs or tutorials because it automatically zooms/focuses on the parts of the screen you're actively working on.
+
+It makes video outputs look significantly more polished than they'd be otherwise.
+
+→ Ezgif
+
+I use Ezgif to create .GIF files from my short audioless video content.
+
+If you're planning to publish a < 15-second audio-less video on LinkedIn...
+
+I'd suggest speeding it up and converting it into a GIF file.
+
+I'm not 100% sure why, but it outperforms in terms of reach & engagement.
+
+
+5. Content Planning
+
+→ Notion
+
+My central content hub.
+It's where I gather ideas, draft them, and prepare my posts.
+
+Notion also serves as my content calendar.
+
+
+That's the full stack I used to go from 0 to 65,000+ followers.
+
+It's also the tech stack I plan to get past 100,000.
+
+What tools did I miss?
+
+Let me know 👇
+
+P.S: Need help putting together a B2B LinkedIn strategy that converts? 
+Send a DM, we'll do it for you ✌️"
+15,17,AI changed the SDR role in 2025.,"What was taking hours, now takes minutes.",366,155,521,1694,"What was taking hours, now takes minutes.
+
+Did that make SDRs any less valuable?
+
+I actually believe the opposite…
+But GTM teams need to adapt to this shift.
+
+The Old way:
+
+A) An SDR receives a list of target accounts.
+B) They reach out via email, phone & LinkedIn.
+
+The New way:
+
+A) Specialists own a channel
+B) Systems sync outbound across channels.
+
+
+What does this mean for SDRs?
+
+In my opinion, one of two things:
+
+1. You double down on ‘human’ activities.
+
+AI isn’t coming for people who are great at cold calling just yet.
+
+In a world where you can automate everything, most will be looking for shortcuts.
+
+This means relatively fewer people hitting the phone.
+And here’s the opportunity.
+
+Along with spending more time on:
+- Working complex deals
+- Relationship building & multithreading
+
+A.k.a the things AI don’t do that well, and that your peers won’t want to do anymore.
+
+2. You lean into the technical side of GTM
+
+You learn how to use AI & technologies like Apify, Clay, Relevance AI, Common Room, Instantly.ai, lemlist, Cursor, Claude Code.
+
+And you push AI & tech to its limits.
+
+Ask yourself in which areas does AI completely outperform humans.
+
+i.e:
+- AI can detect patterns across millions of data points.
+- AI can score & research 10,000 prospects in a few minutes.
+- AI can run 10s of workflows at the same time without tiring itself up.
+
+
+The best SDR teams have both:
+
+→ GTM Engineers that build large scale prospecting systems & feed laser-accurate data to SDRs.
+
+→ SDRs who book meetings via manual outreach & the phone.
+
+
+That’s what we see our clients with the best results to.
+That’s we implemented for $1B+ organisations.
+
+Curious, have you seen this shift in 2025?"
+16,26,Most companies bet their LinkedIn strategy on the Founder.,We turned 24 employees into LinkedIn influencers:,317,182,499,2902,"We turned 24 employees into LinkedIn influencers:
+
+Which led to: 
+
+- 581 posts
+- 43 473 reactions
+- 28 130 comments
+- +34 023 new followers
+
+But most importantly:
+
+- +27 new clients
+- +$153,000 in MRR
+
+… in less than 90 days.
+
+And prospects kept telling our sales team: “We see you guys everywhere”.
+
+Here’s how we made this happen 👇
+
+
+1️⃣ We ran an internal LinkedIn challenge for Q4
+
+Your team might want to post on LinkedIn. But if their job responsibilities don’t include “LinkedIn”… good luck.
+
+We ran a competition & came up with a scoring system with the following prizes:
+
+🥇 $5,000
+🥈 $2,500
+🥉 $1,500
+
+… and $500 for every person publishing > 20 times over the quarter.
+
+
+2️⃣ We made it as effortless as possible to post
+
+Successful LinkedIn posts have a “recipe”.
+
+It’s typically a combination of:
+→ Well-structured, breathable writing
+→ A proven angle or trendy topic
+→ A strong hook
+→ Nice visuals
+
+But: 
+
+Brainstorming hooks can be hit-or-miss.
+→ I encourage my team to reuse variations of mines that outperformed.
+
+Identifying proven topics isn’t easy.
+→ We put Taplio & Scripe at their disposal to help the team find outliers.
+
+Designing nice visuals takes time.
+→ We put designers at their disposal, so they can focus on the ‘writing’ vs. needing to work on the ‘packaging’.
+
+
+3️⃣ We invested resources in training the team
+
+Making this work required 1:1 sessions in which we:
+
+- Rewrote entire posts & hooks.
+- Brainstormed post ideas
+- Built a content calendar
+
+As well as group sessions in which we:
+
+- Ran team-wide sessions sharing best practices.
+- Brought LinkedIn experts (Lara Acosta & Pierre Herubel) to share their knowledge with our team.
+
+
+4️⃣ We found people who wanted to grow their brand
+
+We’d ask applicants whether they wanted to grow their brands.
+But also, many new joiners heard from us via LinkedIn.
+
+If WE attracted them, they were more likely interested to grow.
+
+Kenny learned about ColdIQ from a post by Monika.
+
+He was already posting on his second day.
+
+He started below 1,000 followers in 2025.
+He’s about to reach 10,000.
+
+
+5️⃣ We led by example, & every success made the others easier
+
+We granted $500 prizes to team members who published 20+ times.
+But, I published > 60 times in the same timeframe.
+
+If you’re going to ask your team to post,  do it yourself as well.
+
+Being at 60,000+ followers makes me more believable when I’m telling my team that I’m convinced they can reach 10,000.
+
+But we also have 9 team members above 6,000 followers:
+
+- Mich: 63,000+
+- Alex: 57,000+
+- Melissa: 43,000+
+- Ivan: 19,000+
+- Yevhen: 16,000+
+- Soheil: 12,000+
+- Monika: 10,000+
+- Kenny: 9,000+
+- Mai-Lan: 6,000+
+
+Every successful internal LinkedIn growth story builds conviction for the rest of the team.
+
+… and I’m pretty sure we’ll see many similar ‘team posting‘ stories in 2026.
+
+If you want to be among these success stories…
+
+Our team can help, just reach out :)"
+17,7,"What lemlist $40,000,000 ARR funnel looks like:",(It added +$31M in new ARR in 2025),348,146,494,2918,"(It added +$31M in new ARR in 2025)
+
+Charles, their CEO, broke it all down.
+Then, Domitille, their CMO, recently shared a breakdown on how they allocated their $1.2M marketing budget in 2025.
+
+(I added her post in the comments)
+
+
+1️⃣ Lead Generation
+
+lemlist drove 2M+ visits to their website in 2025.
+
+To drive this traffic, they used:
+
+1. LinkedIn
+
+10% of their employees have a personal brand on LinkedIn, adding up to > 300K followers.
+
+- Kevin (79K)
+- Lucas (57K)
+- Guillaume (39K)
+- Erwan (38K)
+- Tal (35K)
+- Charles (35K)
+- Domitille (7K)
+- Yann (6.5K)
+
+Software they use:
+
+- Taplio (content)
+- Figma (design)
+
+
+2. Paid Ads
+
+They spent $550K across LinkedIn, Google & Meta Ads, to generate +$4M in new ARR.
+
+They prefer Google for high-intent, bottom-of-funnel searches.
+
+And LinkedIn for ABM campaigns targeting larger companies or to promote their CEO's organic posts.
+
+
+3. SEO
+
+- They rank #1 on Google for valuable keywords such as ""multi-channel prospecting tool""
+- They launched large resources that build authority (e.g: ‘95 Buying Signals Directory’).
+- They’ve written multi-lingual content that ranks across several languages.
+- They built free mini-tools (e.g: Email Finder).
+
+Software used:
+
+- Semrush (Keyword research)
+- Replit, Xano (Mini-Tools)
+- Storyblok (CMS)
+
+
+4. Partners, Affiliates & Influencers
+
+They spent $60K on Influencers, both large & micro-influencers.
+And spent $450K on their partnership motion to add +$4M in ARR.
+
+Software used:
+
+- PartnerStack (affiliate platform)
+- Notion (partner management)
+
+
+2️⃣ Lead Capture
+
+They convert more than 200,000+ companies into a free trial in 2025
+(~12% visit-to-trial conversion rate).
+
+To achieve this, they:
+
+- grant a 14-day trial to their platform (without requiring cc details).
+- allow leads to book demos in-app, on the website or via email.
+- do reserve trials that switch users back to a $0 free plan.
+
+Large accounts are directed to a dedicated landing page to book them directly into a demo.
+
+Software used:
+
+- Email cadence: Customer.io
+- Landing pages: Webflow
+- Lead Routing: Default
+- Booking: lemcal
+
+
+3️⃣ Lead Conversion
+
+Interested leads are enriched and scored according to some thresholds:
+
+- smaller accounts get group demos.
+- ICP fit leads get a 1:1 demo.
+
+They record their sales meetings inside Claap which auto-logs deals inside Hubspot.
+
+For closing, they use Katalyz, a digital sales room, for big deals with multiple stakeholders. 
+They draft quotes via Hyperline, which includes an e-sign process & automatically manages provisioning via their Stripe integration:
+
+Tools used:
+
+- Deal closing: Katalyz, Hyperline
+- Sales Meetings: Claap
+
+
+P.S: At ColdIQ, we found that a revenue engine that syncs ads, outbound & content consistently outperforms one that runs any of these channels in silos.
+
+We implement these with great success for B2B orgs > $3M ARR.
+Send a DM if you want your GTM engine built-for-you :)"
+18,10,I spent 150+ hours trying out 62 AI Agents.,These 7 actually help you sign more clients:,323,168,491,2946,"These 7 actually help you sign more clients:
+
+1. Agent Builder: Relevance AI
+
+↳ It helps you build custom Agentic workflows.
+
+For example, you can build: 
+→ A workflow that identifies viral posts given a list of topics/creators, & adds the ones that outperformed to a Google Sheet.
+
+Type out inside Relevance what workflow you’d like to build 
+…and it does most of the automation building on your behalf.
+
+
+2. Research agent: Claygent
+
+↳ It helps you effortlessly research prospects at scale.
+
+Claygent is embedded inside Clay & works like an assistant you can delegate time-consuming tasks to.
+
+For example, ask it to: 
+→ Find pricing info on 1000+ SaaS companies.
+
+Claygent will then:
+- Browse the web and navigate each SaaS website.
+- Navigate until it finds pricing.
+- Give you the price.
+- Explain where/how it found it.
+
+
+3. Reply agent: Instantly.ai
+
+↳ It monitors your inbox and drafts answers on your behalf.
+
+Typically, with cold emails:
+The faster you reply, the more meetings you book out of interested leads.
+
+Example use-case:
+→ Activate Instantly’s reply agent for your outbound campaigns.
+
+And then, these reply agents can be trained to automatically:
+- assess whether prospects were interested or not
+- draft a reply, based on interest, that mimics your tone 
+
+You can run it entirely on autopilot 
+…but I suggest always keeping a human in the loop for quality control.
+
+
+4. Development Agent: Lovable
+
+↳ It helps you build mini-tools without coding experience.
+
+For example, ask it to:
+→ Build an app that finds email addresses or a client reporting dashboard.
+
+And then, after a good chunk of debugging, it creates a ‘decent’ prototype.
+
+
+5. Sourcing Agent: Exa’s Websets
+
+↳ It builds precise prospecting lists only requiring natural language prompts.
+
+Example use-case:
+→ You tell it you want to build a list of ""CEOs in AI SaaS companies, from 100 to 250 employees, in NY, who raised > $1M”
+
+The agent comes up with the filters, sources the list in real-time, provides leads that fit some of the criteria, and only charges you for leads that fit them all.
+
+
+6. LinkedIn Agent: Valley
+
+↳ It mimics human SDRs in the DMs.
+
+Example use-case:
+→ Let it run your prospecting.
+
+Valley autonomously: 
+- sources your ICP
+- identifies relevant signals
+- writes outreach messages
+- monitors conversation & replies
+
+... and it does that pretty impressively for a 🤖.
+
+
+7. Sales agent: Attention
+
+↳ It records your meetings & provides insights your sales team can leverage to close deals.
+
+For example: 
+→ Let Attention join your meetings. 
+
+It’ll analyse conversations in real-time, update your CRM, & suggest best next steps.
+
+Then, it can also analyse 100s of sales conversations, and provide insights around:
+“What made prospects book a meeting with your team”
+“How did they hear about your company”
+“What’s preventing them to buy”
+
+
+P.S: Have you recently 'hired' an AI agent in your business that effectively helped you find clients?"
+19,2,I spent 300+ hours using Claude Code to run our GTM.,Here’s my vibe marketing stack at $7M ARR:,308,174,482,2573,"Here’s my vibe marketing stack at $7M ARR:
+
+1. Conductor (free)
+
+- My interface of choice to run coding agents in parallel.
+- It natively integrates Claude Code & Codex & the UI is much nicer than your terminal.
+- I use Claude Code natively within it for most tasks, and Codex for when Opus couldn't make it.
+
+2. Claude Code ($100/mo)
+My unified interface for all API & MCP calls.
+
+I use it for many GTM activities, beyond just outbound:
+
+→ Building mini-tools for lead generation.
+→ List building via Exa, Prospeo & FullEnrich APIs.
+→ In-depth SEO analysis via Google Analytics MCP.
+→ Scraping & enrichment workflows
+→ (More below)
+
+3. OpenAI Codex ($20/mo)
+I don't use it a lot, honestly. 
+
+Just for the occasional build that Opus didn't manage.
+
+It integrates natively inside Conductor, so keeping access for $20/mo is a no-brainer.
+
+4. Cursor ($60/mo)
+- I started with Cursor. As I loved the UI, I was running Claude Code within it.
+- I used it to design/build some very nice landing pages.
+
+- But Conductor now does everything I need with both Claude Code & Codex built in, with an even cooler UI so... I should probably just cancel Cursor.
+
+5. Vercel 
+- We deploy all our mini-apps & our site here.
+
+6. GitHub
+
+7. Lovable
+- Used it early on for prototyping & our first mini-tools. 
+- Was great to start with, but CC is just better for what we're doing..
+
+--
+
+APIs (aka where it gets interesting)
+
+Claude Code is a very convenient way to orchestrate API calls.
+
+No need to understand how APIs work; you just feed it your app's API documentation, and it figures out the connection on its own.
+
+Here are some GTM APIs I plug into it:
+
+- Google Analytics MCP: This surprisingly built one of the most valuable custom SEO reports I've seen. It flagged some gaps we had missed for months in a matter of minutes.
+
+- PredictLeads: Company intelligence data (including hiring signals, tech stacks, and funding information).
+
+Example use case: Calling its API from Claude to uncover target companies' tech stacks.
+ 
+- LeadsFactory: ""Find people API""
+
+Example use-case: Using it within CC to find people by job title given a list of domains URLs // LinkedIn company URLs
+
+- Exa: Builds lead lists in natural language. 
+
+Example use-case: Call its API to ""Find Series A fintech companies in Europe"".
+
+- Openmart: Local B2B database.
+
+Using Prospeo.io & FullEnrich's API to enrich email addresses/phone numbers.
+
+- Apify to leverage customs scraping actors.
+
+Still experimenting a lot with it...
+
+What's the most groundbreaking way you've used these ""vibe coding"" platforms so far?"
+20,39,My LinkedIn content creation process that produced 20M+ impressions in 2025:,"(And added $4,000,000 in net ARR this year)",277,165,442,2882,"(And added $4,000,000 in net ARR this year)
+
+1. Identify who you're selling to.
+
+This might sound obvious, but I see this mistake all the time. 
+
+Creators focus on content they find interesting overall.
+They end up educating their competitors rather than their target buyers.
+
+E.g: I want revenue leaders to consume my content. 
+It's purposefully NOT designed for other GTM agencies.
+
+
+2. Identify who you want to see your content.
+
+Revenue leaders might be your target ICP.
+But SDRs might be the ones sharing it with their manager.
+
+It's ok for your content to cast a wider net if there's a path for it finding your target buyer.
+
+
+3. Study what has been produced already.
+
+Look at what your competitors produce.
+
+↳ How do you make it better, easier to understand or nicer to look at?
+
+Look at your own existing content.
+
+↳ How can you make more of the pieces that outperformed, or variations of these?
+
+Look at Thought-Leaders in your niche/industry.
+
+↳ What's the gap in quality between your content & theirs? 
+
+Ask yourself, how can you close this gap?
+
+Are they more knowledgeable than you are... or are they packaging their content better?
+
+
+4. Find proven content ideas.
+
+Based on point #3. 
+Start collecting outlier content in your niche.
+
+Use platforms like Taplio & Scripe to find viral pieces in your niche, or adjacent niches.
+
+Reflect on how these proven formats can be adapted to your expertise.
+
+
+5. Identify content pillars & recurring formats.
+
+To make content work for you, you'll need to produce a certain quantity.
+
+Find 2-3 topics you'll keep talking about week over week.
+Find 2-3 topic formats you'll keep using to package your content.
+
+The key to making content work = identifying a combination of proven topic angles & format that you decline over & over.
+
+The content doesn't need to be new all the time.
+It needs to be shown to new people.
+
+
+6. Alternate between TOF, MOF & BOF pieces.
+
+Some content should bring new people into your ecosystem (TOF).
+Some content should pique their interest in your offering (MOF).
+Some content should get them to take action (BOF).
+
+It's rare for a content piece to do all these 3 things at once.
+Decide what the goal of your piece is.
+
+
+7. Package your content with nice visuals
+
+An image is worth a thousand words.
+A video is thousands of images.
+
+You can't go wrong adding attention-grabbing designs to your written pieces.
+
+
+BONUS:
+- Reply to comments (it helps the algorithms but also gives you a pulse around what your target audience is wondering)
+- Plan your content (you get much better results if you know in advance what your week looks like content-wise).
+- Stay consistent (most quit before they see results. Don't let that be you).
+- Start conversations with 'ideal engagers' (more convos = more sales).
+
+
+P.S: If you need help building a GTM system that includes high-performing B2B content, send a DM :)"
+21,20,These 4 GTM agents will save you 5 hours every day:,They automate:,275,165,440,2228,"They automate:
+
+→ Content creation
+→ Market research
+→ Prospecting
+
+Here’s how they work:
+
+AGENT 1: AUTOMATE LEAD RESEARCH
+
+This agent captures company profiles, enriches them & scores them on autopilot.
+
+Step-by-step:
+
+- GhostGenius sources company profiles
+- Agent monitors credibility signals (follower count, high activity, active website) 
+- GPT scores each profile against our ICP criteria.
+- Contacts are deduped so they’re never reached out to twice.
+
+Qualified validated prospects are sent directly to a Google Sheets for prospecting.
+
+
+AGENT 2: LOCAL OUTBOUND ENGINE
+
+Apify extracts information about local businesses from Google Maps.
+But this raw data is typically unstructured, messy & outdated.
+
+Thus, through the Agent:
+
+- Google Search API fills incomplete metadata.
+- Each website is scraped for keywords, tech stacks, & offerings.
+- GPT enriches every business profile & classifies these.
+- Additional info (i.e: emails, phone numbers, contact links) is extracted.
+
+The data is then exported to Airtable or Google Sheets.
+Initial low-quality data turns into sales-ready records.
+
+
+AGENT 3: CONTENT GENERATOR
+
+Drop a content brief into a Google Form.
+
+Get auto-generated:
+
+- Copy for your LinkedIn carousels, slide-by-slide.
+- Visual briefs for your designer.
+- LinkedIn publication drafts.
+- LinkedIn (or social) Hooks
+- CTAs
+
+Drafts are automatically added to your Notion content calendar.
+
+They need a 10 to 15-minute manual edit, and they’re good to go.
+
+
+AGENT 4: REDDIT INTEL SOURCING
+
+Many GTM teams ignore forums & communities.
+But they’re typically goldmines for learning about your prospects' pain points.
+
+Reddit has communities in almost every niche.
+But it’d take lots of time to read through all these.
+
+Thus, the agent, based on a website/domain:
+
+- Identifies ICP signals.
+- Extract relevant threads via Reddit API
+- Summarizes pain points, language used by prospects, frustrations & what they seem to care about most.
+- Sends a daily report to your inbox.
+
+
+THE RESULT: MORE PIPELINE
+
+These steps save a lot of manual time, which you can now allocate to going in-depth into more worthwhile, high-value activities.
+
+All these automations are built inside n8n.
+
+Which one is most valuable to you?"
+22,37,AirOps scaled from $2M to $15M ARR in 11 months.,Here's every tool that made it happen:,316,123,439,2845,"Here's every tool that made it happen:
+
+Their Head of Growth, Eoin Clancy and their Co-Founder Matt Hammel were generous enough to reveal their complete GTM tech stack ↓
+
+1️⃣ ADS & CONTENT
+
+AirOps's mission is to help brands boost their presence on AI Search / LLMs.
+
+Naturally, the primary lever to accomplishing that is content. 
+And their stack features:
+
+- Descript, a transcript-based video editing solution, to fuel their webinar and content processes.
+
+- Circle, a community/cohort platform that they leverage to run their 'content engineer' group.
+
+- Figma for design, which now offers robust AI capabilities that make visual creation quicker.
+
+- AirOps, their own platform, to monitor their brand presence in AI search and automate content creation workflows + identify which content gaps to fill to earn citations in LLMs.
+
+For LinkedIn, they use Fibbler to identify which companies engage with their thought leadership.
+
+
+2️⃣ OUTBOUND
+
+Their outbound tech stack is streamlined but features some of the top prospecting tools in the market:
+
+- lemlist to coordinate multichannel outbound campaigns across email & LinkedIn with personalisation.
+
+- Clay for mapping target accounts, enriching data via multiple providers, and triggering sophisticated outbound workflows.
+
+- Common Room to consolidate buying signals across channels, score contacts/accounts, and drive intent-based activation.
+
+- Trigify.io to monitor ICP relevant social signals and trends across key networks.
+
+- Smartlead to scale bulk email outreach while delivering high volumes of email in the primary inbox.
+
+- Attention to capture sales calls, & power internal workflows, enabling them to extract insights from their satisfied customers.
+
+
+3️⃣ PRODUCT
+
+They use a few software programs for production data, which feature:
+
+- Hex, an AI-enabled analytics workspace for exploring production data, dashboard & launches.
+
+- Amplitude, a deep product analytics tool, to monitor new users' onboarding journey and for product insights.
+
+- Metabase, a self-serve business intelligence solution for dashboarding and reporting.
+
+
+4️⃣ WEBSITE & ANALYTICS
+
+Their website is hosted on Webflow, which offers a CMS & site builder that integrates seamlessly with AirOps and their broader content stack.
+
+For tracking & attribution, they use HockeyStack.
+
+
+5️⃣ HIRING / COMMS
+
+Finally, for team hiring & communication, they rely on:
+
+- Juicebox, an AI recruiting platform for leadership-led sourcing & candidate engagement.
+
+- Loom for async video communication, project walkthrough, and to maintain teams aligned.
+
+That's most of it.
+
+I was actually surprised to see how efficient their stack is.
+
+Just over ~10 GTM tools to scale beyond 8-figure ARR in just a year.
+
+That's remarkably lean if you ask me.
+
+
+P.S: Anything you'd add to accelerate their growth even further in 2026?"
+23,3,OK- this is going to sound ridiculous.,"But, I’ve made well over $2M from posting infographics on LinkedIn.",278,158,436,2088,"But, I’ve made well over $2M from posting infographics on LinkedIn.
+
+… and Ada Beltrán created most of these for me.
+
+So here’s the thing:
+
+My LinkedIn journey started with ‘text-only’ publications.
+(Like everyone, I guess).
+
+But early on, I started adding some visuals that I’d make myself.
+
+I’d spend 3 hours creating a 7-page carousel.
+For it to not even look pretty.
+
+But crazy enough, this ugly visual was getting me 2-3x the likes & the impressions.
+
+So I figured: “if I can write the exact same thing, but get 3x the engagement by just adding an image… why not do it every single time, right?!”
+
+And so this was the beginning of a journey that led me, & then my team, to flood LinkedIn with infographics of all sorts.
+
+20M+ impressions later, it looks like these visuals are still going strong.
+
+My best explanation for why this performs so well is that ‘text-only’ posts take up very little space in the feed.
+
+What this means is that you only have the first 2 lines of your ‘hook’ to entice people into clicking the “see more” button.
+
+But when you publish a 1050 x 1380 image, it takes up the entire space on the feed. People can’t not see the image, and you can actually use it as a second hook by writing a big title on the image. And if it’s detailed enough, it can stand on its own as a post…
+
+But then, everybody started publishing infographics as well.
+
+So I did something even more ridiculous, which was:
+
+Posting ANIMATED infographics.
+
+So here’s the thing:
+
+An animated infographic serves the same purpose as a static one does.
+
+But it holds attention even more, especially if you speed it up, as it loops on itself, making it look like people are watching it over & over (in LinkedIn's eyes, I guess).
+
+So if you want to tap into extra impressions without much more effort, have a look at the infographic below, breaking down how to create animated infographics (#infographiception).
+
+Then, take your best-performing text post ever.
+Add a nice visual to it that ‘respects’ the rules laid out below.
+
+And I’ll bet you’ll be thanking me for how well the post performs ✌️"
+24,8,"Founder: “There are so many sales tools, how do I even pick?”","Me: ""I run outbound for 75+ companies. Start here 👇""",268,161,429,2621,"Me: ""I run outbound for 75+ companies. Start here 👇""
+
+(Pick just 1-2 tools per category)
+
+1️⃣ Databases
+
+Accurate data sourcing is the foundation for successful outbound.
+
+You need at least one very reliable data platform.
+
+Some of my favourites include:
+
+1. Clay (starts at $149/mo)
+↳ They aggregate 100+ data providers in one place, including as intent platforms and AI agents.
+
+2. Openmart (from $149/mo)
+↳ My favourite database for SMBs & local businesses.
+
+3. LinkedIn Sales Navigator (from $99/mo)
+↳ The O.G B2B database.
+
+4. Exa’s websets (from $49/mo)
+↳ List building agent that retrieves niche data based on plain English prompts.
+
+
+2️⃣ Enrichment
+
+Your sourced lists will often miss contact data (i.e: email addresses & phone numbers)
+
+To enrich these, I recommend a combination of:
+
+- Wiza (starts at $49/mo)
+- FullEnrich (starts at $29/mo for 500 credits)
+- Prospeo.io (starts at $39/mo for 1,000 credits)
+- LeadMagic (starts at $99.99/mo for 10,000 credits)
+
+
+3️⃣ Agents
+
+AI agents best prospecting use-case is automating lead research.
+
+Depending on use case, I'll use:
+
+1. Relevance AI (starts at $19/mo)
+↳ Ideal to build custom agentic workflows.
+
+2. Claygent (starts $149/mo)
+↳ Within Clay, best agent to perform at scale research on your lead lists.
+
+3. n8n (starts 24€/mo)
+↳ One of the most flexible, powerful & cost-effective workflow builder.
+
+
+4️⃣ Signals
+
+You can’t know for sure that companies are in-market for your services.
+But you can make an educated guess by monitoring buying signals. 
+
+Some reliable platform to source these signals include:
+
+- Clay (starts at $149/mo)
+- Common Room (starts at $1,000/mo)
+- Trigify.io for social signals (starts at $149/mo)
+
+lemlist also recently release a ton of signals within their all-in-one platform.
+
+
+5️⃣ Outreach
+
+Next up, you’ll want to contact your leads, while maximising the likelihood of your messages getting delivered.
+
+Some great options include:
+
+- Instantly.ai for email outreach (starts at $37/mo)
+
+- Expandi for LinkedIn outreach (starts at $99/mo)
+
+- lemlist for multichannel outreach (starts at 69€/mo)
+
+
+6️⃣ Closing
+
+Tech doesn’t replace a great seller, but they can help by:
+
+1. Facilitating deals data logging, storing & cleaning: Attio (starts at 36€/mo)
+
+2. Recording meetings,taking notes & gathering sales insights: Attention.
+
+3. Capturing lead interactions, and routing insights to Salesforce: Momentum.io (from $69 per user per month)
+
+4. Automating inboud routing: Default (starts at $500/mo)
+
+5. Building clean proposals: Qwilr (starts at $39/mo)
+
+
+P.S: Have you tried a great sales software recently?
+
+Which one it is? 👇"
+25,24,How the top 1% make Cold Email work in 2026:,"(Based on 1,000,000+ emails analyzed via Instantly.ai)",279,145,424,2845,"(Based on 1,000,000+ emails analyzed via Instantly.ai)
+
+Here's what the best-performing campaigns had in common:
+
+
+1. Small Targeted Lists > Big Broad Lists
+
+Micro-lists of 500-1,000 hyper-targeted prospects beat blasting 100,000 contacts every time.
+
+Reply rates: 20-30% vs. 2-3%.
+
+→ Stop praying someone bites. Start targeting the actual people who have a reason to reply.
+
+
+2. Hyperenriched Data > Basic Data
+
+Go beyond name + email. Collect:
+
+- LinkedIn headline & profile
+- Job postings (signals growth/hiring needs)
+- Technologies used
+- Funding announcements
+- Website case studies
+
+→ Personalization at scale requires data at scale.
+
+
+3. AI Personalization > Generic Openers
+
+Instead of: ""Hey John, hope all is well at [Company]""
+
+Try:
+- Job postings → ""Saw you're hiring 3 AEs...""
+- Funding news → ""Congrats on the $25M Series B...""
+- Case studies → ""Just read your case study on...""
+- Tech stack → ""Noticed you recently added [tool]...""
+
+→ Make every email feel 1:1.
+
+
+4. 4-Step Sequence > 1 Single Email
+
+Most replies come from the first emails, but follow-ups increase overall sequence reply rates significantly.
+
+- Email 1: Personalized opener + value offer
+- Email 2: Short follow-up (3-5 days later)
+- Email 3: Different angle (3-5 days later)
+- Email 4: Breakup email (3-5 days later)
+
+→ Keep them short (2-4 sentences). Reference the original. Add new value.
+
+Pro tip: Layer in LinkedIn touches between emails for omnipresence.
+
+
+5. Value-First > Ask-First
+
+Stop asking for their time immediately.
+
+❌ ""Can we hop on a call tomorrow at 2pm?""
+❌ ""Do you have 15 minutes to chat?""
+
+✓ ""Would it make sense to send over a quick example deck?""
+✓ ""Happy to share what's working best right now.""
+✓ ""Can I send you something that could help [specific pain]?""
+
+→ They raise their hand first. Then you've earned the conversation.
+
+
+6. Fundamentals > Fancy Tactics
+
+Master the 3 core pillars:
+
+1. ICP – Who exactly are you targeting?
+2. Offer – What specific outcome do you deliver?
+3. Copy – How do you communicate value?
+
+→ Depth > Width. No shiny object syndrome.
+
+
+7. Long Game > Quick Wins
+
+Cold email isn't a magic pill. It's a compounding client acquisition system.
+
+→ Quality over rushing. Pipeline over quick wins. Be there when they're ready to buy.
+
+
+8. Deliverability > Volume
+
+None of this matters if you land in spam.
+
+- Multiple domains (not just one)
+- 30 emails per inbox per day max
+- Proper technical setup (SPF, DKIM, DMARC)
+- 30 days minimum warm-up
+- Clean, validated lists
+
+→ Sending 100 emails/hour from one email = spam city.
+
+
+9. Tech Stack
+
+- Instantly.ai (sequencing, deliverability, analytics)
+- Clay (data enrichment, intent, personalization)
+- Prospeo.io (list building, targeting)
+
+Looking for more details? 👇
+
+Check out the Cold Email cheatsheet below.
+
+P.S: What's working for you right now with cold email?"
+26,18,"This GTM workflow booked us 1,500+ meetings in 2025.",Here's what we're doing to beat this in 2026 ↓,269,149,418,2424,"Here's what we're doing to beat this in 2026 ↓
+
+1. Our team published > 1400 LinkedIn posts so far this year.
+
+- We aim for depth, but also for quantity.
+- We write around our prospect pain points.
+- We use Taplio + Scripe to gain inspiration.
+- We look at hooks, visuals & formats from posts that worked.
+
+↳ In 2026, we aim to cross > 3000 LinkedIn publications.
+
+2. We spent $50,000 promoting high-performing posts via Thought-Leader LinkedIn Ads.
+
+- This generated an extra ~2M impressions at an average $37 CPM.
+- We boosted organic posts that had generated meetings.
+- We reviewed what persona booked from these publications.
+- We boosted these publications in front of this persona.
+
+↳ In 2026, we plan to 2X our LinkedIn Ads budget.
+
+3. We segmented qualified site visitors, post engagers, & followers who hadn’t scheduled calls with us yet.
+
+- On our site: we used Instantly.ai, Midbound & Common Room to de-anonymize our anonymous visitors.
+
+- On LinkedIn: we used & Teamfluence to monitor social interactions.
+
+↳ In 2026, we’ll keep doing that, it works.
+
+4. We routed all our leads leads to Clay
+
+5. We scored & segmented our leads, at scale, with AI.
+
+- We researched our inbound leads with Clay’s AI Agent (Claygent).
+- We segmented leads into 3 tiers using OpenAI inside of Clay.
+- We added leads to separate GTM campaigns depending on their Tier.
+
+↳ In 2026, we’ll keep using AI to segment & tier leads, but with tighter (& better) ICP criteria.
+
+6. We enriched emails & phone numbers for qualified prospects.
+
+- We used Wiza, Prospeo.io & LeadMagic to find emails.
+- We used FullEnrich to find phone numbers.
+- We performed these enrichments in Clay.
+
+↳ No major change in 2026, except for experimenting with more data platforms.
+
+7. We re-engaged leads via several channels based on their scoring.
+
+- We sent contextual outreach in which we did our best to provide value.
+- We used lemlist for omnichannel outreach.
+- We used Instantly.ai for email outreach.
+
+8. This workflow booked 1,500+ meetings in 2025
+
+- It's the same workflow that helped our clients close $6-figure in deals within 90 days of working with us.
+- It helped us reach close to ~$7,000,000 ARR.
+- It allowed us to grow to 34+ FTEs.
+
+↳ In 2025 we tried lots of things. In 2026, we want to become the absolute best at syncing LinkedIn Ads, LinkedIn Content & Outbound together.
+
+If you want this system entirely built for you, send a DM :)"
+27,5,I tried 200+ AI GTM tools in 2025.,Here are the categories I'm bullish on for 2026:,280,135,415,2449,"Here are the categories I'm bullish on for 2026:
+
+1/ Workflow Builders
+
+Why?
+↳ They orchestrate advanced workflows for marketing & sales teams.
+
+Example use-case: Running a personalised outbound campaign via Clay, on autopilot.
+
+Software you can use:
+
+→ Clay
+→ AirOps
+→ Default
+→ Relevance AI
+
+
+2/ AI Video Tools
+
+Why? 
+↳ They repurpose & edit videos autonomously. Some even generate videos from scratch. They can be used for short-form clipping, ads or even creating short movies.
+
+Example use-case: Generating 150+ UGC assets in < 120 seconds to A/B test as Meta Ads.
+
+Platforms you can use:
+
+Video Generation:
+→ Pika
+→ Runway
+→ Synthesia
+→ Google Veo
+→ OpenAI Sora
+
+Ad Generation:
+→ Icon
+→ arcads AI
+
+AI Editing:
+→ Descript
+→ OpusClip
+
+
+3/ AI Coding Tools
+
+Why? 
+↳ They enable you to write code in plain English. They can be leveraged to build complex workflows (or better… build mini-tools for lead generation).
+
+Example use-case: Build a phone number finder to collect email addresses.
+
+My personal favourites include:
+→ Cursor
+→ Claude Code
+
+Other platforms include:
+→ Warp
+→ Cline
+→ Replit
+→ Lovable
+→ Windsurf
+
+
+4/ AI Content Ideation Software
+
+Why?
+↳ They help you find viral ideas to inspire high-performing content.
+
+Example use-case: Using vidIQ to find outlier YouTube videos & repurpose the idea as a LinkedIn content piece
+
+Platforms include:
+
+For LinkedIn..
+→ Taplio
+→ Scripe
+→ Kleo
+
+On YouTube...
+→ 1of10
+→ vidIQ
+→ Viewstats
+→ Spotter Studio
+
+On Instagram...
+→ Sortfeed
+
+
+5/ MCPs
+
+Why?
+↳ They let your AI agents take actions across your software stack. You can use them to perform tasks inside your most-used tools, without having to open them.
+
+Example use-case: Prompting Claude to review your sales calls of the day, research the leads, and cancel for the unqualified ones... without even opening your calendar app.
+
+Platforms include:
+
+For prompting actions...
+→ Cursor
+→ Claude
+
+To connect apps without native MCP integrations...
+→ Zapier
+→ Composio
+→ Pipedream
+→ Docker, Inc
+
+
+6/ AI Sourcing Agents
+
+Why?
+↳ They source precise lead lists in natural language or simply given a few prompting instructions.
+
+Example use-case: Building a list of Marketing Directors who work at AI-native SaaS orgs in New York... by simply prompting the tools in plain English.
+
+Platforms include:
+→ Exa
+→ Clay
+→ Apify
+→ Tavily
+→ Relevance AI
+
+I ran out of space, but there's more in the carousel 👇
+
+P.S: What GTM trend are you betting on in 2026?"
+28,30,Every tool we use to run our $6.5M+ ARR agency:,1️⃣ Content,257,156,413,2912,"1️⃣ Content
+
+LinkedIn drives us 200+ leads every month.
+
+This includes my account (62,000+ followers) & other team members (250,000+ combined). I use:
+
+- Taplio & Scripe for content ideation & inspiration.
+- Notion’s calendar for content planning.
+
+I’m about to hit 2,000 YouTube subscribers. I use
+
+- Sony FX30 to record videos.
+- Tella for screen & audio recording
+- vidIQ to gain inspiration from outlier YouTube videos.
+
+We drive ~100,000 visitors to our site every quarter.
+1/3rd come from SEO & LLMs. We use:
+
+- Webflow to host our blog.
+- Ahrefs for keyword research.
+
+- AirOps for AI Search Optimisation & to build programmatic pages at scale.
+
+We have about ~10,000 newsletter subscribers.
+We regularly clean the list to maintain > 40% open rates. We use:
+
+- beehiiv to send 3-5 weekly emails.
+
+
+2️⃣ Outbound, Ads & GTM
+
+We deliver Outbound & GTM services to 70+ B2B clients.
+
+Our outbound stack has way more tools than needed, since we adapt to clients’ stack & requirements.
+
+→ For Data Sourcing & Enrichment, we use:
+
+- Clay, FullEnrich (Waterfall Enrichment).
+- Prospeo.io, Wiza, LeadMagic (Email & Phone Numbers).
+- Exa, Openmart, LinkedIn, Apollo, DiscoLike (B2B Databases).
+- Clay, Common Room, Midbound, Trigify.io, Teamfluence™ (Intent Data).
+
+→ For Sales Engagement, we use:
+
+- lemlist (Multi-channel outreach)
+- Instantly.ai (Email outreach)
+- Expandi (LinkedIn outreach)
+
+We spend around ~30,000€ on Ads across LinkedIn, Meta, Google & YouTube. We use:
+
+- Clay to build our ABM lists.
+- Usermaven for attribution & analytics.
+- Fibbler to track engagement from our target accounts. 
+
+
+3️⃣ Agency Operations
+
+Our team includes 33+ FTEs & ~10 Fractional Freelancers
+
+For internal operations, we use:
+
+- Notion (Project management & Documentation)
+- Supabase (Internal Database Infrastructure)
+- Airtable (Internal Ops & Source of truth)
+
+For internal comms, we use:
+
+- Norrsken Barcelona (Office by the Sea)
+- Google Meet (Visioconferencing)
+- Slack, Loom (Async comms)
+
+For internal AI needs, we use the latest flagship models (Gemini, OpenAI, Claude) & OpenRouter, Inc for LLMs aggregation.
+
+
+4️⃣ Inbound Funnel
+
+We book ~120 qualified B2B meetings. We use:
+
+- Google Analytics & UserMaven (traffic & lead tracking)
+- Webflow & Wistia (Site & VSL Hosting)
+- Default (Lead capture & enrichment)
+- Customer.io (Lead re-engagement)
+
+We started creating mini-tools as lead magnets for email capture. We use:
+
+- Vercel (app hosting)
+- Lovable (prototyping)
+
+
+5️⃣ Sales
+
+We closed +$832,800 in new ARR last month.
+And, collected another $60,000 for our educational program. 
+
+We use:
+
+- Attio (CRM)
+- Qwilr (Proposals)
+- Attention, Fireflies (Meeting recordings & insights)
+
+To accept (& make) payments, we use:
+
+- Ramp 
+- Stripe (subscriptions)
+- Mercury / Revolut (business accounts)
+
+And… I believe that’s close to everything!
+
+P.S: What’s one tool you would recommend adding to our tech stack?"
+29,33,"lemlist hit $37,000,000 ARR, adding +$1M in net ARR per month.",Here’s a breakdown of their funnel:,272,129,401,2791,"Here’s a breakdown of their funnel:
+
+I really wanted to understand the recipe for their success…
+
+So I asked Charles (their CEO), Yann (their VP Sales) & Erwan (their Head of Growth) and compiled their insights all together below 👇
+
+1️⃣ Lead Generation
+
+They drive 200K monthly site visits, via:
+
+1. LinkedIn
+
+10% of their team has a personal brand:
+
+- Kévin (79K)
+- Lucas (57K)
+- Erwan (37K)
+- Guillaume (36K)
+- Tal (35K)
+- Charles (34K)
+
+…amounting to 300,000+ followers.
+
+Everyone has their own ‘sub-niche’.
+
+→ Erwan shares his growth experiments.
+→ Guillaume talks about entrepreneurship, bootstrapping & SaaS.
+→ Charles shares learnings scaling from $30M to $100M as a CEO.
+
+Tools they use:
+- Content Ideation: Taplio
+- Visuals: Figma
+
+
+2. Paid Ads
+
+They spend ~20K/mo across LinkedIn, Google & Meta.
+
+Google works well for high-intent searches.
+LinkedIn works best for ABM campaigns (targeting larger companies).
+
+
+3. SEO
+
+Search still brings ~15% of their signups thanks to:
+
+- Ranking #1 for keywords such as “multi-channel prospecting tool”
+- Meta resources (i.e: Cold Email Templates) that build authority.
+- Multi-lingual content that ranks in several languages.
+- Mini-tools (i.e: Free Email finder)
+
+Tools used:
+- Keyword research: Ahrefs, Semrush
+- Mini-Tools: Replit, Xano
+
+
+4. Partners
+
+Their partner motion, built by Lilibeth is now responsible for ~$4M ARR.
+Crazy enough, she shared the entire method in a 56-minute podcast.
+(The post can be found on her profile)
+
+Partners that spread the word about lemlist earn a 25% referral fee.
+
+Tools used:
+- Affiliate Platform: PartnerStack
+- Partner Management: Notion
+
+
+5. YouTube
+
+They published 451 videos on their company channel, totalling 17K subscribers & 1,324,759 views.
+
+Guillaume, their Founder, initially started a YouTube channel in English that he grew to 46.3K subscribers.
+
+Until he got fed up (I assume 😆) and decided to launch one in French that is already at 24.1K subscribers.
+
+
+6. Outbound
+
+lemlist is a multi-channel prospecting tool. And one way to improve their product… is to use it internally.
+
+Which they do… a lot.
+
+Their outbound process looks like so:
+
+For sourcing:
+- Source high-fit orgs (Tier 1) via Sales Navigator (this is taken care of by their GTM Engineer)
+- Extract 3 most relevant contacts from each company.
+- Using Sales Nav again, find extra relevant personas.
+- Add all leads to HubSpot
+- Enrich info via lemlist.
+
+For outreach:
+- Inside Hubspot, the sales team enrols contacts directly to multi-channel lemlist campaigns
+- They cold call, via lemlist’s VOiP.
+
+
+2️⃣ Lead Capture
+
+20,000 orgs sign up for a free trial every month
+They get 1,000+ monthly demo requests.
+
+I ran out of space, post is continued in the comments below 👇
+(Keep reading, we're getting to the interesting parts 👀)"
+30,42,"LinkedIn content got ColdIQ past $550,000 in MRR.",And this workflow turns each of our posts into pipeline:,259,142,401,2718,"And this workflow turns each of our posts into pipeline:
+
+Here's the step-by-step breakdown:
+
+STEP 1: CAPTURE REAL-TIME ENGAGEMENT
+
+Each profile view, like and comment gets automatically tracked.
+
+Someone engaging with you or your content doesn't mean they'll buy from you... But it could be a sign.
+
+STEP 2: DATA ENRICHMENT
+
+For each of these engagers, Clay enriches data on the person & their company.
+
+- Job title
+- Tech stack
+- Hiring signals
+- Company size
+- Funding rounds
+
+All of this information is enriched within minutes.
+
+STEP 3: AI QUALIFICATION
+
+Most of the people who engage with your content aren't a good fit for your offerings.
+
+We use OpenAI & Claude's flagship models to score each contact.
+
+- Great fit? We moved them to the next step.
+- Not a fit? We stop the enrichment process here.
+
+AI qualified based on criteria such as:
+
+- B2B vs. B2C
+- Geography fit
+- Industry match
+- Company size match
+- Estimated customer LTV
+- Seniority, Function & Job Title
+
+STEP 4: CRM DEDUPLICATION
+
+Before doing anything more, we verify: is this lead already in our records?
+
+→ Is it an existing customer?
+→ Are we already in talks with them or their team?
+
+If so, skip them.
+
+→ Are they a net new contact?
+
+If so, push them to sequence.
+
+At scale, it's difficult to avoid it entirely...
+But you want to avoid reaching out to existing customers.
+
+STEP 5: WATERFALL ENRICHMENT
+
+We find contact data via a waterfall that includes Wiza, Prospeo.io, FullEnrich & LeadMagic.
+
+This allows us to maximise our coverage, and get from ~50% verified email to > 85%.
+
+STEP 6: CONTEXTUAL OUTREACH
+
+Depending on the prospect's tier, we'll engage via email or multi-channel outreach.
+
+Each prospect gets a tailored message via Instantly.ai or lemlist that references the topic of the post they engaged with.
+
+Something along the lines of:
+
+""Hey {{first_name}}, saw you engage with posts on {{topic}}, so I figured you'd be interested in this breakdown laying out how Snowflake sourced 60% of its pipeline from SDRs using {{unique mechanism}}""
+
+STEP 7: POSITIVE REPLIES & BOOKED MEETINGS
+
+This system consistently books 100+ qualified meetings for ColdIQ.
+
+And it runs 24/7 on autopilot.
+
+→ Every content piece can become a lead magnet.
+→ Every engagement can turn into a qualified opportunity.
+→ New conversations happen every day.
+
+If you're posting on LinkedIn and not at least monitoring WHO engages with your posts... you're missing out.
+
+Are you currently tracking your LinkedIn engagement?
+
+P.S: We can build this workflow for you, alongside other GTM plays, including some similar to those we built for AirOps... that helped them get from $2M to $15M ARR just this year. 
+
+Book a time with our team if you're interested :)"
+31,14,What GTM tools power CEOs at $10M+ ARR?,Their stack costs less than you think 👇,252,142,394,1857,"Their stack costs less than you think 👇
+
+I asked all the 7-figure CXOs & GTM operators I know about the tools they used.
+
+Here’s what they answered:
+
+TOOLS MOST OFTEN MENTIONED:
+
+- Clay (included in 71% of the stacks)
+- n8n (48%)
+- HubSpot (39%)
+- Instantly.ai (35%)
+- HeyReach.io (35%)
+- Apollo (35%)
+- LinkedIn (32%)
+- Attio (32%)
+- Prospeo.io (29%)
+- Lovable (29%)
+- lemlist (29%)
+- Ahrefs (26%)
+- Loom (23%)
+- Fathom (23%)
+- Calendly (23%)
+- FullEnrich (19%)
+- Trigify (19%)
+- Google Analytics (19%)
+- Airtable (19%)
+- Zapier (19%)
+
+
+PEOPLE STACKS FEATURED:
+
+- Charles Tenot (CEO at lemlist | $40M+ ARR)
+- Eoin Clancy (Head of Growth at AirOps | $15M+ ARR)
+- Jonathan M (VP of GTM Momentum | $13M+ ARR)
+- Glenn Miseroy (CEO at Expandi | ~$9M ARR)
+- Benjamin Douablin (CEO at FullEnrich | ~$7M ARR)
+- Jaspar Carmichael-Jack (CEO Artisan | ~$7M ARR)
+- Michel Lieben (CEO ColdIQ | ~$7M ARR)
+- Frank Sondors (CEO at Salesforge | $5M+ ARR)
+- Hugo Fredon (Co-Founder at Prospeo.io | $5M+ ARR)
+- Kai Brandt (CEO Genesy | $3M+ ARR)
+- Jules Davies (CEO Scalerrs | $2M+ ARR)
+- Eva Johanna Egg (CEO Scripe | ~$1M ARR)
+- Nick Masters (Co-Founder at Vector)
+- Pierre Herubel (Co-Founder at ContentPath)
+- Nikola Sokolov (CEO at Influencer.club)
+- Roq Xever (Founder at PredictLeads)
+- Kathryn Wu🤝 (Co-Founder @OpenMart)
+- Eli F. (CEO @Midbound)
+- Jérémy Grandillon (CEO at TC9)
+- Noam Nisand (Founder at Leed Services)
+- Ada Beltrán (Founder at Dara Studio)
+
+
+More stacks: coldiq.com/tech-stacks ✌️
+
+Any results surprise you? 
+
+*Note: The total sample is 62 people. As a GTM Agency Founder, I know plenty of others in the exact same line of business, which strongly biases results. This isn’t intended to be a large-scale statistical study, but more so an indication/discovery of what’s out there.
+
+P.S: Want us to add you on here? 
+Send a DM with your tech stack :)"
+32,21,"In the past 85 days, 24 separate ColdIQ teammates published 581 times on LinkedIn. This generated a combined 43 473 reactions, 28 130 comments & +34 023 new followers.","It led us to sign +27 clients for our agency, adding ~$153,000 in new MRR.",203,176,379,2825,"It led us to sign +27 clients for our agency, adding ~$153,000 in new MRR. 
+
+Smarts brands already have their CEO posting. 
+Smarter brands got their exec team on board.
+
+But very few managed to build a company-wide LinkedIn program.
+
+Here’s what no one taught you about successfully turning your team into ambassadors:
+
+1. It needs to start at the top.
+
+Have a look at the leaderboard:
+
+Alex published 65+ times within the last quarter.
+I published 57 times.
+
+When we talk about consistency...
+We walk the talk.
+
+
+2. You need to crack it first.
+
+Your team needs proof to build conviction.
+
+While you can invest in external help (i.e: coaches & gurus) to grow… your team doesn’t have this luxury.
+
+You need to be their 'coach'.
+
+
+3. You need to make posting easy.
+
+There’s a recipe for “successful” LinkedIn posts:
+
+→ Strong hook
+→ Proven topic
+→ Nice visual 
+→ Breathable writing 
+
+But, brainstorming hooks & finding topics can be hit-or-miss.
+→ I encourage my team to re-use mines.
+
+Designing visuals takes time.
+→ We put designers at their disposal.
+
+
+4. You’ll need to invest in training.
+
+Making this work requires many unscalable 1:1 sessions in which we:
+- Plan content
+- Brainstorm ideas 
+- Rewrite posts & hooks.
+
+And scalable actions too:
+
+- Running team-wide sessions sharing best practices.
+- Bringing 'big' influencers (i.e: Lara Acosta, Pierre Herubel) to teach our team.
+
+Ivan Falco had 4K followers and was struggling to crack 40 likes.
+After our 1st team session, his posts started hitting 150+ likes.
+
+He then grew from 4,000 to > 18,000 followers.
+
+
+5. They need to want to grow their following
+
+We ask applicants if they’re interested in growing their brands.
+Many new joiners heard from us via LinkedIn.
+
+If we attracted them, they were more likely interested to grow.
+
+Kenny heard about ColdIQ from a post by Monika.
+He literally published on his second day working with us.
+
+He started below 1,000 followers 9 months ago.
+He’ll crack 10,000 by EOY.
+
+
+6. You need to incentivize your team
+
+Millie came up with a scoring system based on engagement & follower growth.
+
+With the opportunity to gain:
+
+🥇 $5,000
+🥈 $2,500
+🥉 $1,500
+4️⃣ $1,000
+
+… & $500 for every person publishing 20+ times.
+
+My only beef with the scoring is that it places me second 😭
+
+
+7. It gets easier with each person who manages to grow
+
+We currently have 8 team members with 10,000+ followers:
+
+- Mich: 61,475
+- Alex: 55,137
+- Melissa: 40,392
+- Ivan: 18,568
+- Yevhen: 16,325
+- Soheil: 12,039
+- Millie: 11,796
+- Monika: 10,030
+
+Every successful internal 'audience growth' story builds conviction for the rest of the team.
+
+I believe we’ll see many similar success stories in 2026
+
+And if you want to be one of these… I’m personally offering 6-week long workshops to help you win, as a team, on LinkedIn.
+
+Send a DM if you’re interested :)"
+33,9,AI agents are replacing human employees.,"Funny enough, they operate in very similar ways:",215,161,376,2126,"Funny enough, they operate in very similar ways:
+
+The smartest agents don’t work alone.
+They work in teams.
+
+Some behave like assistants.
+Others as managers.
+
+And as with any sort of team, there are different ways to structure their collaboration.
+
+To illustrate this:
+We can look at how 3 multi-agent setups would handle the same task…
+
+For example: Scheduling a quarter business review with an important client.
+
+
+1️⃣ Hierarchical setup
+
+A manager agent assigning tasks to its agent team members.
+
+1. The manager receives a task = Schedule a business review.
+
+2. It tells a subordinate agent to check potential times to meet with the clients.
+
+3. Another agent checks product usage from the client. ""Has usage recently dropped? Is engagement still strong?""
+
+4. A 3rd agent drafts an email based on client availability & product usage: 
+
+""Hey Achilles, it's been a while - wanted to ensure you're using the product to the fullest. How about a quick chat next week, Wednesday?”
+
+5. The manager reviews everything and sends the email.
+
+
+2️⃣ 'Human-in-the-Loop' 
+
+A smart assistant tapping your shoulder when needed.
+
+1. The agent drafts the business review email and finds some available times.
+
+2. But… it sees the client gave negative feedback 2 weeks ago.
+
+3. Before sending the email, it asks you: “Do you want to review the email before I send it?""
+
+4. You make small tweaks, and you send it.
+
+
+3️⃣ 'Sequential' setup
+
+Like a factory or an assembly line where each person does one task and hands it off to the next.
+
+1. 1st Agent asks: ""Is a quarterly business review due?"" based on the client's last meeting time.
+
+2. 2nd Agent pulls client's usage data.
+
+3. 3rd Agent drafts a short email.
+
+4. 4th Agent sends the email to book the meeting.
+
+
+So, when should you use which?
+
+As a rule of thumb:
+
+- Hierarchical setups work well for complex, multi-step tasks.
+
+- Human-in-the-loop setups are recommended for high-stakes, sensitive tasks.
+
+- Sequential setups for ordered workflows with clear dependencies.
+
+
+P.S: What's one process in your team that would run better...
+with some smart agents working behind the scenes? 👇"
+34,27,The Content Marketer role changed because of AI.,"Publishing 2,000+ words used to take hours…",221,154,375,1930,"Publishing 2,000+ words used to take hours…
+Now it takes minutes.
+
+So does that make content writers any less valuable?
+
+Eoin Clancy & I think otherwise.
+But Content teams need to adapt to this shift.
+
+The Old Way:
+
+A) A Content Marketer performs keyword research on Ahrefs.
+B) They write SEO optimized blog posts 1-by-1.
+C) They acquire backlinks & wait for the pieces to rank.
+
+The New Way:
+
+A) A Content Engineer captures the best content strategies into repeatable workflows (prompts, templates, rules)
+B) They blend AI and human review to scale QUALITY content production.
+C) They automate distribution to gain high-leverage offsite placements.
+
+
+What does that mean for Content Writers?
+
+In my opinion, one of 2 things:
+
+1/ You double down on ‘deep copywriting skills’.
+
+AI isn’t coming for people who can write in-depth content pieces with a unique POV.
+
+This means more time spent on:
+
+- Storytelling
+- Researching your topics
+- Interviewing thought-leaders
+- Creatively visualising knowledge
+
+2/ You lean into the technical side of content
+
+Learn how to use AI and technologies such as AirOps, Claude & others to build Content Systems.
+
+The best Content teams have both:
+
+→ Content Engineers build systems, create in-depth content creation workflows and deploy high-quality, authoritative content at scale.
+
+→ Content Strategists anchor truth, gathering cross-functional input and preparing the knowledge foundation for workflows.
+
+That’s what we do for ourselves.
+That’s why our SEO is up, even in the age of AEO.
+That’s what companies that win at AI Search do.
+
+…and that’s why platforms like AirOps keep adding $1B+ organisations to their client portfolio.
+
+Are you seeing a similar shift?
+
+P.S: The team at AirOps wrote the most comprehensive AI Search Playbook I've read. Pretty sure it works, looking at our site shortly after implementing these strategies. Let me know if you'd like to see it, I'll send it over :)"
+35,32,I tested way too many AI Sales tools.,Here are the categories I’m closely watching in 2026:,244,123,367,2841,"Here are the categories I’m closely watching in 2026:
+
+1/ Workflow Builders
+
+Why?
+
+↳ They help you build advanced, multi-step, automated prospecting workflows.
+
+Example use-case: Running a signal-based Clay campaign that scores leads, segments them into several tiers, adds an AI-personalized first line… and pushes contacts to your favourite sequencer. For 1,000+ leads. On autopilot.
+
+Examples include:
+
+→ Relevance AI
+→ Outbond
+→ Clay
+→ n8n
+
+
+2/ MCPs
+
+Why?
+
+↳ They enable AI agents to take actions by connecting to your tools. Without you needing to manually open them.
+
+Example use-case: Connecting Claude MCP to Google Calendar so that it… 
+
+[1] checks how many sales calls you have today
+[2] researches each prospect
+[3] provides relevant talking points for the qualified ones…
+[4] cancels meetings with unqualified leads. 
+
+All that, without opening your calendar app.
+
+You can prompt via tools such as:
+→ Cursor
+→ Claude
+→ VS Code
+→ Mistral AI
+
+And connect to your apps using:
+→ Docker, Inc
+→ Pipedream
+→ Composio
+
+
+3/ All-in-One Sales Platforms
+
+Why?
+
+↳ They consolidate every essential cold outreach feature within one platform.
+
+Example use-case: Warming up domains, building a lead list, monitoring relevant signals, enriching contact data & automating email outreach (Instantly.ai) or multi-channel outreach (lemlist) without any other prospecting tool. In essence, running your entire prospecting campaign in one place.
+
+Examples include:
+
+→ Instantly.ai
+→ Expandi
+→ Artisan
+→ lemlist
+
+
+4/ Sourcing Agents
+
+Why?
+
+↳ They source data autonomously, given a set of prompts.
+
+Example use-case: Sourcing a list of Sales Leaders, based in SF, in VC-based startups that have > 5X’d revenue 2 years in a row within the last 3 years… by simply telling Exa, in plain English, that this is the list you’re trying to build.
+
+Examples:
+
+→ Relevance AI
+→ Outbond
+→ Claygent
+→ Tavily
+→ Apify
+→ Exa
+
+
+5/ Conversation Intelligence
+
+Why?
+
+↳ They record meetings & extract relevant insights from your business conversations.
+
+Example use-case: Reviewing your latest 100 sales calls via Attention’s agent to figure out the most frequent objections your sales team gets from prospects.
+
+Examples:
+
+→ Momentum.io
+→ Fireflies.ai
+→ Attention
+
+
+6/ Signal Platforms
+
+Why?
+
+↳ They monitor intent signals to help you uncover prospects in buying mode.
+
+Example use-case: Monitoring previous product buyers (champions) in Common Room, to pitch your solution when they move to a new company (that doesn’t use your product yet!)
+
+Examples:
+
+→ Common Room
+→ TheirStack
+→ Outbond
+→ Clay
+
+
+7/ AI SDRs
+
+Why?
+
+↳ They automate your prospecting entirely.
+
+Example use-case: Letting Valley write your outreach, qualify your leads, monitor replies & answer on your behalf.
+
+Examples:
+
+→ Artisan
+→ Valley
+
+P.S: What AI Sales software category are you betting on in 2026?"
+36,28,How we generated $7.8M in pipeline using this 4-channel ABM system:,Most companies run cold outbound.,223,140,363,1995,"Most companies run cold outbound.
+
+OR ads OR content.
+
+We synced all three and never went back.
+
+The issue with single channel campaigns?
+
+Potential clients see you once and forget.
+
+But when someone:
+
+1. Sees an ad.
+2. Reads your publications.
+3. Receives a personalized email.
+
+It feels like a conversation, not a pitch.
+
+Here's the exact 4-channel system we built:
+
+1. LinkedIn Ads for Awareness
+
+We run Thought Leader ads & Document ads to our ICP.
+
+Not to generate leads, but to plant seeds.
+
+Tools:
+- LinkedIn Campaign Manager 
+- Clay for Audience Building
+
+
+2. Content for Trust Building
+
+Our team posts daily on LinkedIn and generates 5M+ impressions every quarter.
+
+This makes us familiar before the first email even lands.
+
+Tools:
+- Taplio for content inspiration.
+- Claude for content ideation.
+- Figma for designs.
+
+
+3. Intent Tracking for Timing
+
+We monitor social engagement and site visits. 
+When a qualified person or company shows interest, they get added to our outreach sequences.
+
+Tools:
+- Midbound for visitor identification.
+- Teamfluence™ for social tracking.
+- Clay for lead segmentation.
+
+
+4. Personalized Outbound for Conversion
+
+Emails & DMs reference their ad engagement, content interaction, or website behaviour, on top of additional buying signals we identify.
+
+It's not cold anymore.
+
+Tools:
+- Instantly.ai, lemlist for sending.
+- Clay for enrichment.
+
+
+The results of implementing such a system for AirOps in the last 10 months:
+
+→ $7.83M in qualified pipeline
+→ $1.52M in closed-won
+→ 164 deals created
+→ 30 deals won.
+
+The magic happens when channels reinforce each other:
+
+Your LinkedIn ad mentions a specific framework.
+Your content breaks down that framework.
+Your website offers a deeper dive.
+Your email ties it all together.
+
+By the time someone books a call, they already know your company.
+
+I'm curious:
+
+Which channels are working best for you?
+
+P.S: Want to implement the same GTM system? Connect with our team via our site, and we'll show you how :)"
+37,12,GTM Engineer is the hottest role in tech sales. We ramped up 100+.,"Today, we’re launching a marketplace to help you hire them.",253,109,362,1529,"Today, we’re launching a marketplace to help you hire them.
+
+Now there's a reason why this role has exploded over the last 2 years:
+
+A single strategic GTM Engineer can replace 5+ extra hires by owning the full data lifecycle:
+
+- Data Aggregation: pulling signals from CRMs, intent data, databases, and 5+ sources
+- Data Enrichment: filtering, scoring, and qualifying leads with AI agents and waterfall enrichments
+- Data Activation: turning all of it into pipeline through outbound, RevOps, content & ads
+
+The best ones master tools like: Clay, Apify, Claude Code, Relevance AI, lemlist, Instantly.ai, Expandi, PredictLeads, Common Room, Attio, AirOps... stitching them together into workflows that outperform entire teams.
+
+The problem? Finding these people is still surprisingly hard.
+
+Companies come to us every week looking to hire the kind of GTM talent we’ve built at ColdIQ. 
+
+But they don’t know where to start. 
+
+Meanwhile, talented operators are looking for their next opportunity in a space that’s evolving fast.
+
+So we built something to fix that: 
+→ A dedicated talent marketplace for GTM roles.
+
+This isn’t a typical hiring agency. 
+
+Our marketplace is integrated directly with ColdIQ, which means we’re already plugged into a network of world-class GTM operators. 
+
+We know who’s out there, what they’re good at, and what they’re looking for.
+
+Whether you’re hiring or exploring your next role... the process starts the same way.
+
+P.S: Interested in hiring or getting hired? 
+Link to the form is in the comments 👇"
+38,19,How I get > 30% replies via LinkedIn DMs,By doing the opposite of the 100+ weekly pitches I get:,210,143,353,2954,"By doing the opposite of the 100+ weekly pitches I get:
+
+CONTEXT
+
+I sent 5M+ outbound messages for my $6.5M+ ARR Agency.
+
+Nowadays...
+
+Answering DMs costs me more time than running campaigns.
+
+I'm the CEO at a 33-person company.
+(I can't imagine how much outreach execs in big orgs get)
+
+That said, I know most execs check their inbox.
+And many reply.
+
+Here's how I decide whether I'll respond or not...
+
+And how I changed my own outreach because of this ↓
+
+
+✅  DMs offering free work
+
+Some DMs offered a free landing page rewrite or samples of already-made work.
+
+I ran prospecting campaigns and pitched free custom lead lists.
+(These were getting me more positive replies than I could handle)
+
+My recommendation: Imagine your prospect is an existing client. What's the first thing you'll do for them? Do it already and send it over!
+
+
+✅ DMs asking to be referred
+
+Let's say you:
+1. Send a message based on a current initiative of ColdIQ
+2. Searched who is in charge of this initiative.
+↳ I'll gladly refer you to said person
+
+PS: You can automate this 'play' via Clay by combining intent signals & retrieving a leader/manager in a specific department.
+
+
+❌ DMs asking for time on the 1st touchpoint
+
+Meetings are my personal hell.
+I'm fighting every day to eliminate as many of them as possible.
+
+If you're ""just asking 15 min of my time"" to pick my brain, I won't answer.
+
+
+✅ DMs from ‘known’ people
+
+An unfair truth in cold outreach: $WHO sends a message matters even more than WHAT the message is.
+
+If you're a well-known executive, I'll most likely reply.
+
+I saw this firsthand as I grew my LinkedIn to 60K+ followers...
+
+The exact same message would perform better, without changing anything.
+
+Pro tip: If you sell B2B products, build your brand on LinkedIn.
+
+
+❌ Generic templated outreach
+
+The only way to make impersonal, generic outreach work is to send at a massive volume (millions of messages).
+
+LinkedIn doesn't allow such volume.
+
+So you'd be better off doing this by email.
+Or better yet... not at all.
+
+
+✅ DMs sharing valuable insights
+
+Jihad explained this better than I could under one of my posts:
+
+""
+The best ""free work"" isn't actually work → it's insights.
+
+I send technical audits of prospects' platforms.
+→ 5-minute analysis
+→ 3 specific optimization opportunities 
+→ No strings attached
+
+Example: ""Your checkout flow has a 23% drop-off at payment verification. Here's why + 2 quick fixes.""
+
+- Takes me 10 minutes.
+- Shows immediate value.
+- Demonstrates expertise without asking for anything.
+
+The key: Make it so valuable they'd typically pay for it.
+
+Generic ""free consultation"" = everyone does this.
+Specific actionable insight = rare.
+""
+
+Solving prospects' issues before they pay you a dime is the fastest way to gain their trust.
+
+
+🔘 Videos or Voice Notes
+
+I listen to voice notes or watch videos.
+
+It annoys people.
+But if they're well done, they'll grab attention.
+
+What's a DM you receive you could NOT ignore?
+
+Share it 👇"
+39,38,Me at Christmas Dinner when I realize no one gives a sh** about the newest ai tool I tried last week,PS: Merry Christmas everyone 🎅🏾,252,95,347,31,PS: Merry Christmas everyone 🎅🏾
+40,15,The best B2B data is the one your competition can’t find,...and you can source it for less than $29/mo ↓,190,138,328,505,"...and you can source it for less than $29/mo ↓
+
+With just an Apify subscription & a bit of creativity:
+
+Whether you want to target…
+
+→ Prospects complaining about your competitors (by monitoring Reddit, Inc.).
+
+→ Companies outgrowing their current tools (by monitoring G2 reviews).
+
+→ Companies launching new products (by monitoring ProductHunt).
+
+→ Technical buyers (via GitHub)
+
+→ Agencies (via Clutch)
+
+... there's an easy-to-setup workflow for it 👇
+
+P.S: What's your favourite data sourcing use-case?"
+41,4,Introducing ColdIQ's GTM Free Tools:,"Try every growth use-case, for Free 👇",195,123,318,1281,"Try every growth use-case, for Free 👇
+
+There are 1000s of GTM software solutions across 10s of thousands of use cases.
+
+Trying these out usually entails:
+- Signing up for a bunch of random solutions
+- Trying them out (with a free trial if you're lucky)
+- Singling out the right solution for your use-case
+- Repeating the process over & over.
+
+So we wanted to solve that.
+
+By building a centralised place that doesn't require credits or signing up, and that lets you experience tech for:
+
+- Enriching leads
+- Sourcing signals
+- Finding phone numbers
+- Finding email addresses
+- Uncovering org. tech stacks
+
+... & more.
+
+You can already test out the following solutions to test out against our GTM use-cases:
+
+1. A Free Email Finder
+2. A Free Email Verifier
+3. A Free Phone Finder 
+4. A Free Spam Checker
+5. A Free Lookalike Finder
+6. A Free GTM Strategizer
+7. A Free Tech Stack Finder
+8. A Free Email Copy Optimizer
+9. A Free Intent Signals Sourcer
+10. A Free Campaign Ideation Tool
+11. A Free LinkedIn Post Previewer
+12. A Free Outbound ROI Calculator
+13. A Free People or Job Title Finder
+
+Along with step-by-step guides on how to properly leverage this tech.
+
+It's here: coldiq.com/free-tools ✌️
+
+P.S: Which Free Tool would be helpful to you? 
+Let us know, and we'll get on it :)"
+42,1,44 data sources to find prospects in any niche...,...and 7 different ways to source this data:,186,124,310,1595,"...and 7 different ways to source this data:
+
+
+1. Leverage sourcing agents
+
+Use platforms like Airtop, Clay, Exa, Perplexity, Manus AI or Relevance AI and describe in plain/natural language what you're looking for.
+
+Their agents handle the rest.
+
+
+2. Use 'standard' B2B databases
+
+Use filters such as “job title”, “location”, “employee count”, “headcount growth” within standard databases like Prospeo, Wiza, Apollo, LinkedIn & DiscoLike 
+
+…or using niche databases like Openmart, influencers.club… 
+
+to find your target data.
+
+
+3. Target by technology
+
+Use APIs like PredictLeads, or platforms like TheirStack, BuiltWith & BuyerCaddy to find companies using a specific technology.
+
+Their use of this tech should suggest they’re a great lead for you.
+
+
+4. Target companies showing buying intent for your offering category.
+
+Monitor companies’ activity, including:
+- Job openings
+- Funding events
+- Social engagement
+- Tech/software changes
+
+Via tools like Clay, PredictLeads, Common Room, and Trigify.io to infer potential buying willingness. 
+
+
+5. Custom data extraction
+
+Extract data from popular websites, specific pages, or any site using Apify actors or tools like Instant Data Scraper, Firecrawl, ZenRows & Airtop.
+
+
+Once you sourced your target people & companies, you’ll want to:
+
+→ Find their email addresses & phone numbers with point solutions (e.g: Prospeo, Wiza, LeadMagic) or…
+
+→ Find their contact data via data waterfalls (e.g: FullEnrich, Clay, Enginy (formerly Genesy), Outbond)
+
+More details included in the carousel below ↓
+
+P.S: Who's your go-to to source accurate B2B data?"
+43,6,Now live on ColdIQ’s website:,Tech stacks of GTM Titans.,161,92,253,283,"Tech stacks of GTM Titans.
+
+Gain inspiration from the Tools 8-figure CEOs & Founders use to run their companies.
+
+(Perfect for some last minute Christmas software shopping!)
+
+
+It’s right here: coldiq.com/tech-stacks ✌️
+
+
+P.S: Want to be added on here? Send me a DM with your stack :)"

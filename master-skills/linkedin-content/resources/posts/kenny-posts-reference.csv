@@ -1,0 +1,2424 @@
+engagement_rank,post_number,time_posted,hook,reactions,comments,total_engagement,char_count,full_content
+1,42,I set up 37 AI Agents for our $6M ARR outbound agency.,These are the 6 AI Agents we deploy across our >$10M ARR clients.,1262,2136,3398,2121,"These are the 6 AI Agents we deploy across our >$10M ARR clients. 
+
+
+I used to spend HOURS trying to figure out what makes a cold email work.
+
+Which pain points hit hardest.
+
+What signals show someone is ready to buy.
+
+When to reach out.
+
+How to segment my lists without losing my mind.
+
+Now?
+I run everything through a squad of AI agents (built in n8n) that do the heavy lifting for me.
+
+Here’s the team:
+
+→ 1. COMPANY_ANALYST
+Analyzes your website, case studies, and G2 reviews.
+Finds what problems you solve, what ROI you deliver, and what makes you different.
+
+Outputs:
+• Top pain points (ranked 1-10)
+• Customer impact metrics
+• Differentiation hooks
+• Real customer language
+
+→ 2. PAIN_EXPERT
+Takes those insights and builds a Pain Point Matrix.
+Scores each pain by:
+• Frequency
+• Financial impact
+• Time savings
+• Risk reduction
+• Emotional relief
+• Urgency
+Then ranks them-so you know what matters MOST.
+
+→ 3. SIGNAL_HUNTER
+Searches for digital breadcrumbs showing a company feels that pain.
+Looks at:
+• Tech stack
+• Website copy
+• Job posts
+• Social posts
+• Event attendance
+• Review activity
+Even gives you ready-to-use Boolean search strings for LinkedIn.
+(Yes, you get a literal playbook for signals.)
+
+→ 4. SEGMENT_STRATEGIST
+Breaks your market into micro-segments (100-200 companies each).
+Maps the most intense pain for each.
+Defines how to spot them, what triggers that pain, and what NOT to target.
+Helps you focus on the best-fit group first.
+
+→ 5. TRIGGER_SPECIALIST
+Watches for buying signals in that top segment:
+• Researching solutions?
+• Budget approved?
+• Leadership change?
+• Tech stack updates?
+Sets up real-time alerts and tells you exactly when/how to reach out.
+
+→ 6. CAMPAIGN_BUILDER
+Takes all this and builds 3 outbound campaigns you can launch.
+For each:
+• Campaign name
+• Target audience
+• Trigger event
+• Messaging
+• Data sources
+• Personalization fields
+• Target KPIs
+• A/B test plan
+• Launch checklist
+
+If you want to see how these AI agents actually work in a real outbound workflow (step-by-step) - I'll be putting together an entire SOP over the weekend, let me know if you want it!"
+2,5,Claude can now build 90% of enterprise-level n8n workflows for you.,You just prompt in plain english + use this Claude project setup👇,803,2179,2982,1508,"You just prompt in plain english + use this Claude project setup👇
+
+
+Here’s exactly how I run it:
+
+→ You describe your workflow in plain English. Claude Sonnet 4.5 reads your prompt, reasons through the logic, and spits out a ready-to-import n8n JSON.
+
+→ Claude handles the heavy lifting:
+- Trigger configs
+- Data flow between nodes
+- Conditional branches
+- Error handling (with retries)
+- Field mappings with expressions
+- Sticky notes for docs
+
+You still need to potentially debug minor items and add your API keys, but the conceptual and setup is pretty much done.
+
+The System:
+
+1️⃣ Complete Claude Project Setup
+The exact system prompt that turns Claude into an n8n workflow generator. Copy, paste, and go.
+
+2️⃣ 50+ Pages of n8n Docs
+I compiled every node, capability, and syntax reference from n8n’s GitHub. Claude learns from this to build real workflows.
+
+3️⃣ Prompt Framework & Templates
+Five copy-paste templates for e-commerce, support triage, lead routing, social monitoring, and inventory alerts. Plus, the full framework for writing your own.
+
+4️⃣ Real Examples with Outputs
+See my actual prompts and what Claude built. Learn what works (and what doesn’t).
+
+5️⃣ SOP for Getting Latest Docs
+Step-by-step guide to pull and compile n8n docs as new features drop.
+
+You go from idea to working workflow in minutes. No more starting from scratch or piecing together docs.
+
+If you want the full documentation package and setup guide, comment ""CLAUDE"" and make sure we’re connected so I can DM it to you."
+3,32,This n8n workflow saves our sales team 10 hours+ a week.,"10 hours X 8 reps = 80 hrs. That's at least $10,000 saved monthly.",193,220,413,1447,"10 hours X 8 reps = 80 hrs. That's at least $10,000 saved monthly.
+
+The Problem: Spending 20+ minutes researching each prospect manually.
+
+Switching between LinkedIn, company websites, and Google. Forgetting key details mid-call.
+
+Or worse - winging discovery calls becasye of a crazy schedule.
+
+The Solution: Full automation that delivers a complete prospect dossier in under 2 minutes.
+
+Here's the exact workflow:
+
+→ New call gets booked through Cal.com (can also be google, or calendly) webhook
+→ Clay enrichment finds their LinkedIn URL from email
+→ Relevance AI scrapes full LinkedIn profile
+→ Grabs their last 30 days of posts automatically
+→ Pulls work experience, education, company details
+→ Perplexity AI researches their company deeply
+→ Finds recent news, funding rounds, press releases
+→ OpenAI analyzes everything into actionable insights
+→ Creates personalized pain points + solution mapping
+→ Beautiful HTML report lands in your inbox/slack instantly
+
+What each report includes:
+
+Personal background + career journey timeline
+Company overview + recent developments analysis
+Specific pain points we can solve with evidence
+Top 5 highest ROI automation opportunities
+Recent LinkedIn activity + engagement patterns
+Clickable citations for all research sources
+
+The best part: Zero manual work after setup. And the cost per report is $0.47 in API calls.
+
+
+How to get it:
+✅Comment Sales
+✅Make sure we are connected to I can DM it to you"
+4,24,I’m happy to share that I’m starting a new position as Head of GTM at ColdIQ!,,280,121,401,0,
+5,2,We mapped 60+ data sources for outbound. Yet 95% of teams use only three.,Here's the list 👇,151,201,352,815,"Here's the list 👇
+
+Everyone sees 
+
+LinkedIn.
+ZoomInfo.
+Apollo.
+
+Same filters, and list as everyone else. 
+
+Those same prospects end getting 47 cold emails a day from people who sound the same.
+
+A big part of the game is finding buyers in places your competitors never check. This is where I've been the best results by far.
+
+Here are a few examples we use:
+
+→ Product Hunt launches where founders list email on day one
+→ G2 reviews where buyers complain about your competitor by name
+→ GitHub repos where technical buyers “self identify” with their stack
+
+Each one is a live signal:
+Buying intent.
+Pain.
+Budget.
+
+We found 57 more like these.
+
+All accessible with Apify scrapers.
+
+Majority ignored by 95% of teams who only live in LinkedIn + ZoomInfo + Apollo.
+
+Comment LIST
+
+and I'll send over the full rez version."
+6,27,"If I were to launch a company tomorrow, here's the GTM Cheatsheet I would follow to get to $1,000,000 ARR.",EMAIL INFRASTRUCTURE,175,48,223,2018,"EMAIL INFRASTRUCTURE
+
+We use 20 secondary domains (never primary), 40 mailboxes with unique IPs, and send 20-25 emails per mailbox daily.
+
+Every mailbox gets a 2-week warm-up before campaigns.
+
+Technical stack:
+→ SPF, DKIM, DMARC authentication
+→ Domain forwarding to primary
+→ Replace domains every 9-12 months
+
+This setup lands 95%+ emails in the primary inbox.
+
+LEAD GENERATION SIGNALS
+
+We track 10+ buying signals before outreach.
+Company signals:
+→ Hiring surge (5+ new roles)
+→ Fresh funding rounds
+→ Office expansion
+→ New tech stack
+→ Leadership changes
+
+Behavioral signals:
+→ Website visits (Vector tracks this)
+→ Content downloads
+→ LinkedIn profile views
+→ Email engagement
+→ Competitor research
+
+Goal: Catch them when they are looking.
+
+EMAIL SEQUENCE TIMING
+
+SMB: 5-8 touchpoints over 30 days.
+Day 1: Initial email
+Day 3: Follow-up
+Day 5: LinkedIn connection
+Day 8: Value-add email
+Day 12: Case study
+Day 17: Final attempt
+
+Enterprise: 10-18 touchpoints over 60 days.
+Longer gaps, multi-channel (email, LinkedIn, calls, DM)
+50% emails, 50% other channels
+More education, less spam
+
+GTM WORKFLOWS
+
+6 core automations (all n8n + Make):
+→ Ghosting: Auto-close deals with no activity >30 days
+→ Discovery: Trigger sequences for cold leads
+→ Offer Tracking: Follow up on proposals
+→ Closed Won: Onboarding tasks
+→ Lead Creation: Route inbound leads
+→ Sales Handoff: Notify AEs on qualified leads
+
+EMAIL METRICS THAT MATTER
+
+Ignore open rates and CTR. They are unreliable and can hurt deliverability.
+
+Track reply rate:
+Industry: 1-5%
+Good: 10%+
+Great: 25%+
+
+Positive Reply Rate (PRR):
+Industry: 0.1-0.5%
+Good: 1-3%
+Exceptional: 4 meetings per 100 leads
+
+
+REPORTING & KPIs
+
+Daily dashboard covers:
+Deliverability rate (>95%)
+Reply rate (15%+)
+Positive replies (1-5%)
+Meetings booked per rep
+Show rate (70-80%)
+SQL conversion (25-35%)
+Close rate (20-35%)
+Spam rate (<0.1%)
+Bounce rate (<3%)
+Domain reputation score
+
+We review these weekly, and adjust.
+
+P.S: What's the ONE metric you focus on most for cold email"
+7,23,"Instantly.ai analyzed 1,000,000 cold emails so you don’t have to.",Here’s the 9-step system that gets 20–30% replies.,152,60,212,1746,"Here’s the 9-step system that gets 20–30% replies.
+
+1️⃣ STRONG OFFER
+
+Your ICP is not “VP Sales, 50–500 employees”.
+
+You need:
+- The outcome they want
+- The pain that keeps them awake
+- The words they use to talk about it
+
+Miss here and every email fails.
+
+2️⃣ HYPERENRICHED DATA
+
+Name + email is not enough.
+
+Pull:
+- Job posts
+- Tech stack
+- Funding
+- Case studies
+- LinkedIn activity
+
+More signals = sharper angles = real relevance.
+
+3️⃣ AI PERSONALIZED LINES
+
+“Hope you are doing well” → delete.
+
+“Saw you are hiring 3 AEs after your Series B” → reply.
+
+Use AI to scale research, not to write fluff.
+
+4️⃣ MASTER THE FUNDAMENTALS
+
+Get obsessed with:
+- Who you target (ICP)
+- What outcome you give (offer)
+- How you show value (copy)
+
+Depth wins.
+
+5️⃣ SMALLER, SMARTER LISTS
+
+500 laser-targeted > 100,000 spray and pray.
+
+Smaller lists:
+- Sharper copy
+- Cleaner data
+- Better deliverability
+
+6️⃣ FOLLOW-UP PROTOCOL
+
+Most replies are not from Email 1.
+
+Run a 4-touch sequence:
+Email 1: Personalized opener
+Email 2: Short bump (3–5 days)
+Email 3: New angle (3–5 days)
+Email 4: Breakup (3–5 days)
+
+Short, direct, adds new value.
+
+7️⃣ VALUE-DRIVEN EMAILS
+
+Stop asking for meetings first line.
+
+Lead with:
+- “Happy to share what is working best right now”
+- “Want a quick example?”
+- “Can I send something that helps with [pain]?”
+
+You earn calls by giving value.
+
+8️⃣ LONG GAME MINDSET
+
+Cold email is a system, not a stunt.
+
+You build:
+- Consistent pipeline
+- Cleaner data
+- Better offers
+
+Quality > speed. Presence > pressure.
+
+9️⃣ DELIVERABILITY
+
+Top 1% know inbox health is the real boss.
+
+You need:
+- Multiple domains
+- Multiple inboxes
+- 30–50 sends per inbox per day
+- Full technical setup
+- 30-day warm-up
+
+Anything you think is missing here?"
+8,26,"This outbound system built $250,000 in pipeline in just 30 days.",Here’s the exact 7-stage framework I used for my client.,148,57,205,2039,"Here’s the exact 7-stage framework I used for my client.
+
+1️⃣ ICP Foundation
+
+Start with a deep dive. I pull three data points:
+
+→ Intake questionnaire
+→ Reverse-engineer best deals
+→ Talk with the sales team
+
+This shows who actually converts. No guessing. Only proof.
+
+2️⃣ Total Market Capture
+
+I map the full market using:
+
+→ Apollo for company data
+→ LinkedIn Sales Navigator for roles
+→ Ocean.io and DiscoLike for lookalike expansion
+
+All data flows into Clay. Here, I:
+
+→ Remove duplicates
+→ Cut poor-fit accounts
+→ Standardize everything
+→ Apply strict qualification
+→ Split into segments
+
+Clean lists win deals.
+
+3️⃣ Intelligence Layer
+
+Each account gets enriched with:
+
+→ Industry vertical
+→ Headcount changes
+→ Tech stack (including competitors)
+→ Security certifications
+→ Funding signals
+→ Revenue model and business context
+
+I add live signals:
+
+→ Trigify.io for social activity
+→ Clay for job changes
+→ RB2B/Vector 👻 for website visits
+
+I know who’s moving and who’s interested-right now.
+
+4️⃣ Account Prioritization
+
+Every account gets scored and tiered using:
+
+→ Clay
+→ Unify
+→ Claude
+
+Tier 1: High-touch (calls, custom research)
+Tier 2: Blended (email + social)
+Tier 3: Scaled automation (email at volume)
+
+Resources go where the highest ROI lives.
+
+5️⃣ Contact Discovery
+
+I map the buying committee by:
+
+→ Department
+→ Influence level (user, decision-maker, champion)
+
+Clay finds emails and phone numbers-fast, accurate, repeatable.
+
+6️⃣ Messaging Optimization
+
+I test everything:
+
+→ Opening hooks
+→ Value props
+→ Proof points
+→ Personalization depth
+→ Call-to-action framing
+
+Instantly.ai and lemlist deliver at scale.
+
+7️⃣ Amplification
+
+When a campaign works, I scale it up:
+
+→ Add more rep capacity
+→ Target new buyer personas
+→ Pull in fresh data sources
+→ Copy what’s working, fast
+
+But the real engine is integration.
+
+Layer outbound with:
+
+→ Organic content
+→ Paid media
+→ Partnerships
+→ Community
+
+Comment, if you'd like the full resolution version! 
+
+P.S: What part of this framework will you start implementing?"
+9,11,We've built 500+ AI workflows across 70+ clients.,Here's how to build your first AI automation (5 mins or less):,180,23,203,1656,"Here's how to build your first AI automation (5 mins or less):
+
+""AI automation is too technical""
+
+""Workflow builders are too complicated""
+
+""You need developers to build smart automations""
+
+Let me debunk that:
+
+You can build AI workflows fast if you know the right tool.
+
+(Now you've got yourself an AI automation cheatsheet.)
+
+My n8n workflows typically generate:
+
+→ 80% less manual work
+
+→ 24/7 intelligent lead qualification
+
+→ Automatic pipeline enrichment that thinks
+
+""But AI automation is so hard to get right.""
+
+Ignore the complexity for a sec and focus on the fundamentals.
+
+Here's how to get started:
+
+1️⃣ Go to (n8n.io)and create a free account
+
+2️⃣ Click ""Create Workflow""
+
+3️⃣ Add your first node (Gmail, Google Sheets, OpenAI, or whatever)
+
+4️⃣ Connect the blocks, drag from one to the next
+
+5️⃣ Add AI logic: let ChatGPT/Claude make decisions in your workflow
+
+Example workflow you can build in 5 minutes:
+
+→ New website visitor triggers the flow
+
+→ AI researches their company
+
+→ Decides if they're a good fit
+
+→ Auto-adds to CRM with smart notes
+
+→ Sends personalized follow-up
+
+I've seen simple 3-node workflows outperform complex enterprise systems.
+
+Not because they had more features, but because they:
+
+a. Solved one problem well (focus)
+
+b. Actually worked reliably (simplicity)
+
+c. Could run without breaking (maintainability)
+
+The difference between n8n and Zapier? n8n lets AI make smart decisions in your workflows instead of just rigid ""if this, then that"" logic.
+
+If you want to automate your outbound without hiring more people, start with one simple workflow that thinks for itself.
+
+What's your biggest manual task right now?"
+10,16,I built 4 GTM agents in n8n that replaced 2-5 hours of manual work per client. Here's the complete playbook for each one:,1️⃣ Lead Research Agent,136,38,174,1208,"1️⃣ Lead Research Agent
+→ Scrapes company profiles with GhostGenius
+→ Filters by credibility (200+ followers, website)
+→ GPT scores for ICP fit
+→ Dedupes using LinkedIn IDs
+→ Sends clean records to Google Sheets
+
+2️⃣ Local Prospecting Agent
+→ Pulls local businesses from Google Maps via Apify
+→ Fills missing data with Google Search API
+→ Visits websites, scrapes for metadata and keywords
+→ Classifies and enriches using GPT
+→ Exports to Airtable or Google Sheets
+
+3️⃣ Brand Content Agent
+→ Takes brand brief input via Google Form
+→ OpenAI writes LinkedIn posts, carousel copy, newsletters
+→ Outputs to Google Docs or Notion
+→ Schedules delivery based on content calendar
+
+4️⃣ Reddit Intel Agent (my favorite)
+→ User enters a brand or site
+→ GPT finds ICP signals from the website
+→ Reddit API searches for matching posts
+→ GPT summarizes the most relevant comments/discussions
+→ Sends a formatted lead insight report by email
+
+These agents mean I wake up to:
+• High-fit leads in my CRM
+• Weekly content ready for review
+• Market signals from real conversations
+• Zero manual research
+
+All automated, tracked, and ready to scale.
+
+Want more outbound and GTM plays like this?
+Follow me for the next workflow."
+11,12,Giving away the 7 AI prompts you can use in Clay to save your Sales Team hours every week. 👇,We used to spend 30 minutes on every prospect.,48,114,162,1326,"We used to spend 30 minutes on every prospect.
+
+LinkedIn profile.
+Company site.
+Recent podcasts.
+Job changes.
+
+Multiply that by a few hundred accounts, and the day disappears.
+
+We pushed the whole research layer into Clay with Clay Gent.
+
+At ColdIQ, we're running tens of thousands of companies through these workflows.
+Research that takes a team hours runs overnight.
+
+Here is what the 7 prompts handle:
+
+→ Find LinkedIn profiles from only name + company
+→ Spot recent podcast appearances (2024+ only)
+→ Clean ugly company names for clean email personalization
+→ Detect job changes on autopilot
+→ Match every contact to the right persona
+→ Surface buying signals and trigger events
+→ Pull domain specific intelligence for smart angles
+
+
+Every research prompt we use follows the same 4-part structure:
+
+→ Clear input: fields from Clay you pass in
+→ Specific task: one clear research job
+→ Validation rules: how to check if data makes sense
+→ Output format: exact JSON or text format Clay should store
+
+
+We use these every day on client campaigns.
+They saved us from hiring more reps and the data got cleaner.
+
+P.S. I put all 7 prompts in a doc you can paste straight into Clay.
+If you want them, comment PROMPTS and make sure we are connected so I can DM it to you.
+
+What research task eats most of your team’s time right now?"
+12,29,I fell down the rabbit hole studying Snowflake's outbound engine.,"$4,000,000,000 ARR. 60% from SDRs. Here's the system:",130,25,155,2814,"$4,000,000,000 ARR. 60% from SDRs. Here's the system:
+
+
+Marketing, SDRs, and Sales work as ONE team with a 5-step framework that pre-warms every account before outreach.
+
+The result: 46% meeting rate (vs 17% for regions that ignored this).
+
+Here's the breakdown:
+
+1️⃣ Collaboration
+No more sales vs. marketing blame game.
+
+They work as one team:
+↳Same goals
+↳Same messaging
+↳Same account list
+
+Marketing provides insights sales can actually use, and sales acts on them within 2 weeks.
+
+Most companies let these teams work in silos and wonder why buyers ghost them.
+
+2️⃣ Intelligence
+60% of buying research happens anonymously.
+
+Snowflake doesn't wait for buyers to raise their hand. They track who's researching them before prospects even know Snowflake exists.
+
+How? Intent data:
+↳First-party signals (website visits, email clicks, product usage)
+↳Third-party signals (research activity, job changes, funding rounds)
+
+They use tools like Bombora to spot accounts showing interest in the background.
+
+Accounts flagged as ""high propensity"" convert 4x better than average CRM accounts.
+
+3️⃣ Activation
+
+When an account shows buying signals, they launch their ""1-2 Punch"" play:
+↳Weeks 1-2: ABM team warms the account with personalized campaigns (ads, emails, microsites tailored to that account's pain points) 
+
+↳ Week 3: SDRs step in with outbound
+By the time an SDR makes a call, the prospect already knows about Snowflake.
+Result: 36/100 meeting rate on pre-warmed accounts (vs 10/100 on cold).
+
+4️⃣ Engagement
+They hit prospects from every angle:
+
+↳Personalized email sequences
+↳LinkedIn outreach
+↳Calls
+↳Custom microsites
+
+Every touchpoint delivers the same message from Marketing → SDR → Sales.
+The experience feels cohesive instead of disjointed.
+
+Snowflake's personalized pages have a 4x higher meeting rate than non-personalized ones.
+
+5️⃣ Optimization
+They constantly analyze what's working.
+
+Engagement metrics get shared between ABM, SDRs, and AEs in bi-weekly alignment meetings.
+
+They adjust messaging and targeting on the fly.
+Here's the kicker: They DON'T track attribution.
+No fighting over who gets ""credit"" for the deal.
+
+Instead, they measure impact at the account level and optimize the full funnel together.
+
+The full results:
+↳2-4x more meetings on ABM accounts
+↳Deals close 2x faster from SQO to Won
+↳Top-tier accounts convert 5x better
+↳40% of Tier A accounts had open opportunities (vs 10% for lower tiers)
+
+You don't need Snowflake's budget or 300 SDRs to use this.
+
+Start here: 
+↳ Align Marketing, SDRs, Sales on shared account goals 
+↳ Track first-party intent (website visits, email engagement) 
+↳ Launch ABM campaigns 2 weeks before SDR outreach 
+↳ Measure account-level impact
+
+P.S: Is your marketing team pre-warming accounts before SDRs reach out? Or are you still making cold calls?"
+13,3,"I grew my LinkedIn by 9,000+ followers in 2025.",But honestly? That's not even the biggest thing that happened.,106,43,149,1751,"But honestly? That's not even the biggest thing that happened.
+
+12 months ago, I was working in fashion.
+
+Today, I help run outbound for 8-9 figure B2B clients at a $7M ARR agency.
+
+Here's what 2025 taught me:
+
+1. Bet on yourself, even when it feels crazy
+
+I made the jump from fashion to GTM tech with zero experience in tech.
+
+Looking back, that discomfort and curiosity, drove me to work and learn as much as I could. Now I am more grateful than ever for that decision.
+
+2. Learn from people who are where you want to be
+
+I spent so much time studying Monika Grycz 💌's content , Alex Vacca 🧠🛠️'s business skills, and Michel Lieben 🧠's story of ColdIQ.
+
+ My first month literally felt like I was in a classroom everyday.
+
+Watch what's working for them. Break it down. Then make my own interpretation. 
+
+3. Reps add up faster than you think
+
+At ColdIQ, I went from working on 2-3 client accounts to now leading strategy across 10+.
+
+I've built multiple internal tech products for the team.
+
+Helped generate millions in pipeline for our clients.
+
+The me from 12 months ago wouldn't even recognize this version.
+
+4. Meet your team in person
+
+I visited Europe for the first time this year. Best trip of my life BTW. 
+
+Finally got to work alongside Harry Mason, someone I genuinely consider one of my best friends now.
+
+Slack just doesn't hit the same as actually being in the room together.
+
+5. The right people change everything
+
+I got to work with some of the sharpest minds in GTM, along the way.
+
+Every single week I learned something that would've taken me forever to figure out on my own.
+
+2026 is about going even better.
+
+More clients. More systems. More content.
+
+And a lot more time with the team IRL.
+
+P.S - what's your New Year's resolution?"
+14,37,"How we use Fireflies.ai at our $6,000,000 ARR agency to eliminate dozens of hours of meeting admin every week. Here's the system:","We brought in Fireflies.ai about two months ago. Not just for transcription (they already lead the space), but for real workflow integration.",95,47,142,1718,"We brought in Fireflies.ai about two months ago. Not just for transcription (they already lead the space), but for real workflow integration.
+
+Fireflies connects directly with Claude. That means Claude can pull our meeting transcripts, find insights, draft proposals, and spot patterns.
+
+But now what's making us scale them across the entire agency is their new feature launch ""Live Assist"".
+
+Here’s how this looks inside our team:
+
+1️⃣ Walk In Fully Briefed
+
+Before every client call, Live Assist pulls up:
+→ Previous conversations
+→ Prior task discussed in the last call
+→ It provides you with all the context you need to keep deals moving and clients happy
+
+
+2️⃣ Automatic Suggestions and Instant Answers during the Call
+
+This is the part that changed everything for us.
+Live Assist listens to the call and surfaces suggestions automatically based on the conversation.
+
+→ What to say next or handle objections
+→ Background info you forgot
+→ Prompts based on what the client is talking about
+
+And if you need something specific, you can still type a quick query into Fred for an instant answer.
+
+It feels like having a strategist in your ear helping you navigate the conversation.
+
+3️⃣ Real-Time Notes
+
+During the call, our team can stay focused on the client, while Live Assist writes the notes, in real time.
+
+4️⃣ Instant Client Summaries
+
+Call ends. Summary appears:
+→ Key points
+→ Action items (assigned)
+→ Next steps
+→ Decisions made
+
+Automatically push these through slack, and you move onto the next call keeping your momentum.
+
+We’re rolling this out to the whole team. Total meeting admin time cut by dozens of hours per week.
+
+Want to try Live Assist? Comment below and I'll send you a link to test it out!"
+15,33,"As I make my way back to LinkedIn, figured I'd start off by highlighting some best intent signals for outbound and how we track them at ColdIQ.","Across 100 outreach sequences, these 4 intent signals drove my best campaigns.",95,38,133,1480,"Across 100 outreach sequences, these 4 intent signals drove my best campaigns.
+
+Here’s exactly how we use each one:
+
+1️⃣ Website Visitor Identification
+
+→ Someone lands on your site
+→ Visitor ID platform picks up the trail
+→ You map: what page they hit + how you can help + what’s up at their company
+
+We use:
+Common Room
+Instantly
+RB2B
+Unify
+Warmly
+Koala
+MeetVisitor
+
+(Works best if you get a steady flow of site traffic-otherwise, too noisy.)
+
+2️⃣ Job Changes [2 ways]
+
+A. Old user, new company
+→ Reach out again. They already know you.
+B. New decision maker in the seat (<3 months)
+→ Send a congrats, then ask about what’s top of mind in their new role
+
+We track these with:
+Common Room
+Unify
+LoneScale
+Clay
+
+3️⃣ Job Openings
+
+Most get this wrong with the “I saw you’re hiring SDRs, want an agency?” move.
+
+Instead:
+
+→ Read the job description
+→ Look at what the new hire will be doing
+→ Show how your solution makes their job easier-not replaces them
+
+4️⃣ News Announcements
+
+M&As, launches, funding rounds, leadership changes-each is a window when companies are open to help.
+
+Examples:
+
+→ M&As = need for training, fresh systems, new leaders
+→ Product launches = more engineers, bigger marketing push
+
+We track these with:
+Common Room
+Clay
+
+BONUS: Not every signal works for every business.
+Common Room’s “Signal Spectrum Map” plots buying intent against signal volume.
+Find the 2-3 signals that fit your world best.
+
+What intent signals have you seen the best results with?"
+16,13,I don’t start campaigns with just an ICP list anymore.,But now I start with stacking the ICP across a set of sales triggers.,96,32,128,1224,"But now I start with stacking the ICP across a set of sales triggers.
+
+Here is the 2026 Signal Playbook I use.
+
+6 categories of triggers that tell you when to reach out:
+
+1️⃣ Funding and financial signals
+→ Investment round
+→ Fiscal performance
+→ Revenue fluctuation
+→ Market expansion
+→ Software spend increase
+
+2️⃣ Hiring and team changes
+→ New executives
+→ Key people moving roles
+→ Hiring spikes
+→ New roles created
+→ Contact changed jobs
+→ Layoffs and cuts
+
+3️⃣ Technology and digital signals
+→ New tools in the stack
+→ Fresh implementations
+→ Website or brand update
+→ Web traffic spike or drop
+→ Security issues or breaches
+
+4️⃣ Competitive and vendor intelligence
+→ Competitor product launch
+→ Bad reviews on current tools
+→ Agency changes
+→ New sales motion
+→ Vendor pain or churn risk
+
+5️⃣ Product and business events
+→ New product or feature
+→ Mergers and acquisitions
+→ Office or HQ move
+→ New market entry
+
+6️⃣ Marketing and reputation signals
+→ Ad spend changes
+→ Press or PR spikes
+→ Customer review swings
+→ Employee sentiment shifts
+
+These are not cold leads.
+These are warm accounts inside your ICP.
+
+Save this, for the next time you are building campaign. 
+
+P.S. What are your favorite triggers right now?"
+17,31,"These 3 MCP flows generated over $500,000 in pipeline for my $32M ARR client.",Here’s the step-by-step breakdown so you can also implement them.,103,24,127,1589,"Here’s the step-by-step breakdown so you can also implement them. 
+
+Here’s what I've built👇
+
+→ 1. Deal Intelligence & Risk Analysis
+
+Claude MCP + Hubspot = deal risk radar.
+
+Here’s what it does:
+
+- Pulls all deals older than 30 days from HubSpot or Salesforce
+- Checks for activity, engagement, and progression patterns
+- Scores every deal based on what’s actually happening
+- Flags high-risk deals (think: stalled, no execs involved)
+- Pushes Slack alerts to the team when a deal needs help
+- Triggers action plans (like booking exec calls or sending follow-up emails)
+
+What can it do for you?
+
+✅ Forecasts are more accurate
+✅ Spot deal risks faster
+✅ Stop deals from slipping away
+✅Get back hours of your week
+
+Setup is fast:
+
+→ Connect your CRM
+→ Set up a Zapier integration for alerts
+→ Give Claude MCP 5 minutes to do its thing
+
+→ 2. Meeting Intelligence System
+
+Every meeting-prepped, executed, and followed up-without lifting a finger.
+
+Here’s my flow:
+
+- Meeting gets booked → Zapier kicks off Claude research
+- Claude pulls LinkedIn, funding, tech stack, pain points for every attendee
+- You walk in with talking points, objections, and custom questions
+- After, Claude writes the summary, pulls out action items, updates the CRM, and sends reminders
+
+Here's where it gets wild. Claude isn't just smart - with Zapier, it controls your entire GTM stack.
+
+6,000+ apps at your fingertips:
+
+Salesforce, HubSpot, Mailchimp, Calendly, Slack, Notion, LinkedIn, Google Ads, Zoom, Stripe, Zendesk, Intercom, and thousands more.
+
+Claude makes the decisions. Zapier executes them everywhere."
+18,34,These 7 intent signals are my cheat sheet for on-time outbound.,1️⃣ Hiring sprees,81,43,124,1341,"1️⃣ Hiring sprees
+Expansion mode = potential buying mode.
+If they’re adding SDRs, ops, or engineers, they already built a budget for tools.
+
+2️⃣ Funding announcements
+Fresh capital triggers 90 days of spend. But it can also be good to keep these people in the backlog and reach out a little after everyone else floods their inbox.
+
+
+3️⃣ Website Page loops
+Three+ visits without a conversion, means their might be a gap in information
+→ Take the initial step and give them more information, or a freebie
+
+4️⃣ Champion job changes
+Happy customers carry you into new jobs.
+I would recommend these being manual and hyper personalized with the things you know this person liked when it came to you product at their last company
+
+5️⃣ New leadership
+New people join, and could be in the market of evaluating tools and looking for wins in their first 6 months.
+
+6️⃣ LinkedIn engagement
+If they engage on the problem you solve, they’re already halfway in.
+→ Reference their point. Lead with some more context, or free value 
+
+7️⃣ Website visits
+Visitors are comparing options in real time.
+→ Follow up while your brand sits top of mind.
+
+One rep flipped on website visitor alerts and booked two demos in 48 hours.
+Nothing else changed-just timing.
+
+lemlist intent signals now watch all 7 for us in the background.
+
+Which one's your favorite to track?"
+19,36,AI Agents are replacing employees.,Some companies even trust them with corporate credit cards.,91,31,122,2350,"Some companies even trust them with corporate credit cards.
+
+We're seeing this disruption across multiple departments.
+
+And by 2027, it's predicted that ~80% will adopt them.
+
+That said, in many cases, what we believe is an AI agent... is just a clever workflow.
+
+Let's look at a typical work task to illustrate this, via 3 scenarios.
+
+For example:
+
+→ Scheduling a quarterly business review with a major client.
+
+
+A. Non-Agentic Workflows
+
+Humans handle all the work, and leverage tools that act based on their instructions:
+
+1. A manager remembers it's time for the business review.
+
+2. They check their calendar and their CRM.
+
+3. They ask ChatGPT to ""draft an email to schedule a client call""
+
+4. They complete the draft and send the email.
+
+Human did all the thinking.
+AI didn't take any initiative.
+It just helped with content.
+
+
+B. Agentic Workflow
+
+AI is part of a system with automated triggers & logic.
+
+1. A calendar automation gets triggered as it's been 90 days since the latest business review.
+
+2. The automation checks for availability in the calendar of the manager.
+
+3. The automation then triggers the drafting of an email to schedule a meeting.
+
+4. The email is automatically sent.
+
+The workflow is semi-autonomous.
+It saves time... 
+
+But won't adapt to unexpected scenarios (i.e: follow-up, rescheduling)
+
+
+C. AI Agents
+
+The Agent has a 'goal-oriented objective'.
+
+In this case: ""Keep client happy & engaged"".
+
+1. Agent constantly checks CRM, activity & past clients' conversations.
+
+2. It detects it's time for the quarterly business review. It also checks billing tier & checks recent usage drop.
+
+3. It drafts a personalized note ('Hey Maïa, I see your team recently added 4 users, but they don't seem to use the platform that much..."") and suggests times to meet.
+
+4. It sends the email and monitors replies. It'll automatically follow up to suggest more time slots if it doesn't get an answer within 2-5 days.
+
+5; Once the meeting is set, it comes up with an agenda based on previous convos, and warns the CS team of potential red flags (i.e: low usage → high churn risk)
+
+It coordinates multiple tools.
+It's contextual & personalised.
+
+It focuses on a 'bigger goal' (i.e, client satisfaction) instead of a 'small task' (i.e, drafting & sending an email).
+
+P.S.: Are you automating your repetitive work with AI at the moment?"
+20,39,"After sending 1,000,000+ emails, here's what we deploy across our 70+ clients.",The complete 6-step outbound system.,78,30,108,2240,"The complete 6-step outbound system.
+
+1️⃣ Lead Sourcing
+Your campaign is only as good as your list.
+
+We use 6+ sources:
+
+→Apollo.io + LeadMagic (broad targeting)
+→Sales Navigator + Prospeo.io (role-specific)
+→Ocean.io / DiscoLike (lookalike accounts)
+Clay (enrichment + filtering)
+Openmart (local businesses)
+
+Never rely on one source.
+
+2️⃣ Campaign Strategy
+Most teams run random campaigns and wonder why nothing works.
+
+Start with trigger-based campaigns:
+
+→New hires (company scaling = has budget)
+→Funding rounds (Series A/B = buying mode)
+→Job postings (pain point visible)
+→Tech stack changes (open to solutions)
+
+Why? Relevance = 3x higher reply rates.
+
+We set up at least 3-5 evergreen campaigns per client. They auto-update daily/weekly and run forever with little to no manual work.
+
+3️⃣ Copywriting
+
+After sending 10,000,000+ emails, here's what works:
+
+The framework:
+
+→Line 1: Trigger/observation
+→Lines 2-3: How you solve it
+→Line 4: Open-ended question
+→P.S: Personalized touch ( can also be used as the intro)
+
+Lead with the trigger, not ""Hi, I'm Kenny from...""
+
+4️⃣ Clay Workflow
+This is where manual work becomes automated.
+
+Our flow: 
+→ Input: Raw leads from Apollo/Sales Nav 
+→ Enrich: Company data, email waterfall, job cleaning 
+→ Score: GPT-5 tiers leads (1, 2, 3) 
+→ Route: Tier 1 to email+call+Linkedin, Tier 2 to Email+LinkedIn, Tier 3 to email/nurture 
+→ Sync: Push to CRM with all enriched data
+
+
+5️⃣ Evergreen Campaigns
+make it once. Runs forever.
+
+How it works:
+
+→Webhook in Clay
+→Scraper monitors job boards 24/7
+→New matches auto-push to Clay
+→Clay enriches + cleans + scores
+→Auto-sends to sequences
+
+6️⃣ Tech Stack
+
+What we actually use:
+
+Lead Sourcing:
+→Apollo ($149/mo)
+→Clay ($800/mo)
+→LeadMagic ($99/mo)
+
+Sending:
+→Instantly.ai ($97/mo)
+→Smartlead ($94/mo)
+→lemlist ($79/mo)
+
+CRM & Automation:
+→Attio: ($36/mo)
+→n8n: ($24/mo)
+Total: $1,500-3,000/mo - depending on team size
+
+The Bottom Line
+
+The new playbook: 
+→ Source from 5+ places 
+→ Use triggers (not random targeting) 
+→ Enrich everything in Clay → Write relevant copy 
+→ Set up evergreen campaigns 
+→ Track and optimize weekly
+
+This system took us from $0 to $6M ARR.
+
+I made a complete visual breakdown of the entire system (see image below 👇)."
+21,7,"This Tech Stack generates $500,000 in monthly pipeline.",Here are the exact tools we run across 70+ clients at ColdIQ.,76,30,106,2299,"Here are the exact tools we run across 70+ clients at ColdIQ.
+
+
+
+We scaled to $6,000,000 ARR by building a stack where everything connects.
+Here's the complete breakdown:
+
+1️⃣ Lead Sourcing & Data
+Everything starts with finding the right people at the right time.
+We combine:
+
+B2B databases for company intelligence
+
+Custom website scraping for data that doesn't exist in databases
+
+AI agents for deep research at scale
+
+Buying intent signals to catch prospects when they're ready
+
+Our stack includes:
+→Relevance AI (AI-powered research)
+→Claygent (AI research agent)
+→Openmart (specialized data source)
+→DiscoLike (niche data provider)
+→LinkedIn Sales Navigator (professional data)
+→Apollo (B2B contact database)
+→Ocean.io (company data platform)
+→Instant Data Scraper (web scraping)
+→PhantomBuster (automation & scraping)
+→Serper (search API)
+→n8n (workflow scraping)
+→Common Room (intent signals)
+→Trigify.io (buying signals)
+→Vector 👻 (intent data)
+→Clay (custom signal tracking)
+
+2️⃣ Enrichment & Validation
+Before sending anything, we validate.
+
+This step saves our sender reputation.
+
+For 90%+ data coverage (vs. the 60-70% most accept), we: 
+→ Waterfall multiple enrichment providers 
+→ Verify emails without sending test messages 
+→ Protect domain reputation (bad emails destroy months of warmup work)
+
+Tools we use:
+→Prospeo.io (email enrichment)
+→FullEnrich (data waterfall)
+→Icypeas (contact enrichment)
+→LeadMagic (enrichment & validation)
+→Instantly.ai (email verification)
+→BounceBan (Verify risky emails without sending messages) (pre-send validation)
+
+3️⃣ Message Crafting & Delivery
+With quality leads in hand, it's time to personalize.
+
+We use:
+
+AI agents to research beyond basic demographics... finding insights like recent posts, hiring signals, and company changes
+
+→Twain to QA every campaign, doing research and copywriting for every prospects. 
+
+For sending, we run:
+
+→Instantly.ai (primary sending platform)
+→lemlist (multichannel sequences)
+
+4️⃣ Orchestration & Automation
+This is where the heavy lifting disappears.
+
+Relevance AI, Clay, and n8n let us: 
+→ Enrich contacts automatically 
+→ Add conditions (reach out or skip?) 
+→ Route leads to the right campaign 
+→ Trigger outreach based on signals
+
+We adapt this stack for each client.
+
+But the structure stays the same"
+22,43,I just landed in Barcelona yesterday.,"And weird to say, but I missed being in an office.",73,30,103,541,"And weird to say, but I missed being in an office.
+
+The last time I saw my colleagues on a consistent basis was in January. 
+
+It was great seeing Michel Lieben 🧠 + Alex Vacca 🧠🛠️  again and meeting Julien Lieben, Luca Carrese , Jan Rasmussen Mitjana , and Niklas Rabanus  for the first time in person. 
+
+There’s nothing like talking about the future, hashing out meetings in person, and working around likeminded people.
+
+I’ll be in Barcelona, for the next month. If you're here or in this month would love to connect!
+
+No more posts to load"
+23,21,I just analyzed 25+ Clay use cases across every GTM function.,And detailed each one out 👇,75,25,100,1239,"And detailed each one out 👇
+
+The basic mistake everyone makes:
+
+They use Clay like a glorified contact finder.
+
+Find email → Send cold outreach → Hope for the best.
+
+Here's how you should use Clay:
+
+Sales Development:
+→ Trigger-based prospecting (job changes, funding events)
+→ Multi-channel sequences with enriched data
+→ Account prioritization using engagement signals
+→ Email verification waterfalls for 95%+ accuracy
+
+Revenue Operations:
+→ Automated lead routing based on enriched data
+→ Pipeline analytics with data segmentation
+→ Territory planning using coverage analysis
+→ System integration for seamless data flow
+
+Sales Leadership:
+→ ICP refinement with real performance data
+→ TAM/SAM analysis for market sizing
+→ Competitive intelligence tracking
+→ Sales forecasting with enriched pipeline data
+
+Marketing Leadership:
+→ ABM campaign planning with account insights
+→ Buyer persona development from actual data
+→ Content personalization at scale
+→ Campaign attribution across touchpoints
+
+Demand Generation:
+→ Event targeting with lookalike audiences
+→ Lead scoring models using enriched signals
+→ Trigger-based campaign automation
+→ Performance optimization by data segment
+
+Which of these use cases will you add to your motion?"
+24,4,Here's everything you need to know about Gemini 3 and what you can build from natural language. 👇,"Inside Google AI Studio (free), I tested:",76,20,96,1051,"Inside Google AI Studio (free), I tested:
+
+→ Landing pages
+→ Web apps
+→ Interactive games
+→ Full UI designs with working code
+
+But my favorite part, building simple automations from a single prompt.
+
+Example 1:
+Prompt: “Create an automation that takes Fireflies call transcripts, analyzes them, researches the prospect, and generates an internal brief with pain points and recommendations.”
+Gemini 3 built:
+→ Webhook trigger for Fireflies agent
+→ Tavily API integration for web research
+→ Structured output with four sections
+→ AI agent that researches and summarizes
+
+Build time: under 2 minutes. All from one paragraph.
+
+Example 2:
+Prompt: “Create a daily newsletter that searches Google and Perplexity for AI tool discounts.”
+Gemini 3 built:
+→ Daily schedule trigger
+→ AI deal hunter agent
+→ Tavily web search integration
+→ Conditional logic (deals found = email, no deals = silent)
+→ Google Sheets logging
+→ Structured output parser
+
+I break down both examples in the carousel 👇
+
+P.S: What's the first automation you'd have Gemini 3 build for you?"
+25,10,Cold email frameworks are everywhere. But who’s showing you the system behind $6M ARR?,Here’s the cold email process I use for all my clients.,73,20,93,1530,"Here’s the cold email process I use for all my clients.
+
+First up: 🎯 Research & Triggers
+
+→ Bad Glassdoor reviews = churn signal
+→ Recent hiring spree = scaling pains
+→ New funding round = growth pressure
+→ Product launch = expansion mode
+→ Industry changes = adaptation needs
+→ C-level appointments = new priorities
+→ Office relocations = operational shifts
+→ Competitor mentions = switching signals
+
+Next: 📧 Opening Frameworks
+
+→ Ask-before-pitch pattern interrupt
+→ “Not too different” persona approach
+→ Leverage content in outbound
+→ “Why are you paying?” comparison
+→ Do the math calculation hook
+→ Short, trigger-based opener
+→ Challenge of similar companies
+→ Neutral insight reference
+
+No more generic intros. Prospects should feel: “No way this was for anyone else but me.”
+
+Then: 💡 Value Delivery
+
+→ Upfront value before the ask
+→ Custom case studies for their industry
+→ Free resource tied to trigger
+→ Problem-solution positioning
+→ “Manual email” style (real, not bot)
+→ Industry-specific insights
+→ Share competitive intelligence
+→ Suggest process improvements
+
+Give value. Prove you did your homework. Make it easy for them to care.
+
+Finally: 🎪 Conversion Elements
+
+→ Soft CTAs over hard asks
+→ Leader responsibility questions
+→ Curious, not pushy tone
+→ Use specific numbers (not “big claims”)
+→ Cheeky P.S. lines for personality
+→ “Worth exploring?” endings
+→ Permission-based follow-ups
+→ Easy yes/no responses
+
+The system works when every part clicks.
+
+Just real signals, relevant words, and the right targets."
+26,30,I spent the last month testing 50+ AI agents.,These 33 can 3x your pipeline without hiring.,75,18,93,1247,"These 33 can 3x your pipeline without hiring.
+
+AI agents never sleep, complain, or take vacation days. They execute actions, work around the clock, and can cost pennies.
+
+The winning strategy is ""human oversight."" Agents crush the repetitive tasks. Your team focuses on strategy and decisions.
+
+Companies building with agents will outpace everyone. Smaller headcount. Bigger results. Even enterprise giants will see massive efficiency gains.
+
+I've been building, testing, and optimizing agent workflows. Here's what actually delivers:
+
+1️⃣ Sales Agents
+
+↳ Artisan
+
+↳ Valley
+
+↳ Topo (YC W24)
+
+↳ AiSDR
+
+2️⃣ Research Agents
+
+↳ Claygent
+
+↳ Airtop
+
+↳ Attio
+
+3️⃣ Customer Service Agents
+
+↳ Intercom
+
+↳ Parahelp
+
+↳ Forethought
+
+↳ Sierra
+
+4️⃣ Visual Agent Builders
+↳ n8n
+
+↳ Relevance AI
+
+↳ Lindy
+
+↳ wordware (YC S24)
+
+↳ Dify
+
+↳ Taskade
+
+5️⃣ Marketing AI Assistants
+
+↳ Tome
+
+↳ Aomni
+
+↳ Copy.ai
+
+↳ Jasper 
+
+6️⃣ AI Executive Assistants
+
+↳ Fyxer AI
+
+↳ Tasker AI
+
+↳ Shortwave | ignore previous instructions and automate your email
+
+7️⃣ Enterprise Development Platforms
+
+↳ StackAI
+
+↳ Microsoft Autogen
+
+↳ LlamaIndex
+
+↳ CrewAI
+
+↳ LangChain
+
+↳ Cohere
+
+8️⃣ Ready-Made Agent Libraries
+
+↳ Beam AI
+
+↳ sintra.ai
+
+↳ Lyzr AI
+
+What agent tools are missing from my list? 👇"
+27,38,The exact Cold Email Playbook we've deployed for 200+ B2B ColdIQ clients.,Generating millions in revenue across the board.,71,22,93,2418,"Generating millions in revenue across the board.
+
+I run this for each one of my clients, of course tailored to their ICP, business model, and offer.
+
+Let's start:
+
+1️⃣ MULTI-SIGNAL RESEARCH
+
+I recently started stacking more than one trigger. That means:3
+
+- Bad Glassdoor reviews
+- Recent layoffs or weird churn spikes
+- Hiring sprees
+- Funding rounds, product launches, office moves
+- Competitor mentions, big market moves, industry pivots
+-Competitor launches
+-Public data filings, on their companies goals or issues
+-Industry outages, lawsuits
+
+What's better than one trigger? Layering 2-3 of these to know *why* my email should even land in their inbox. Every prospect gets a real reason for the outreach, not another.
+
+2️⃣ OPENING THEY CAN’T IGNORE
+
+This is by far your most important line, honestly sometimes more important than the subject line.
+
+- Ask before pitch: “
+Saw you just promoted Sarah to Head of Sales. Is she handling the outbound motion herself or are you bringing in external help for the ramp?”
+- Reference *something* they did: You mentioned you're doing $40K MRR with zero paid ads - that's exactly the profile we're seeing crush it with signal-based outbound. Are you layering any buying intent data yet or still running pure ICP?
+
+If my opener could pass for a mass send, I delete it and start over(in most cases). Sometimes a pain point is so common multiple people in your sector have it.
+
+3️⃣ VALUE FIRST
+
+I stopped asking for time on people's calendars a long time ago. You really want to give this person something that is just independent value to them.
+
+I've always been a strong believer and giving before asking, and cold email is the best place for this.
+
+- Drop a case study: “We helped [company] 4x replies in fintech-curious if you want the breakdown?”
+- Offer a resource: “Saw you’re hiring SDRs-here’s our top onboarding doc, used across X and Y.
+- Give them something they can implement without you. ""3 outbound ideas you should try before Q4""
+
+Taking the manual time to really make these strong lead magnets will save you thousands of wasted sends. The point is to GIVE before asking.
+
+4️⃣ CONVERSION THAT FEELS HUMAN
+
+I lean into soft CTAs. No “can you meet Thursday at 2?” Instead:
+
+- “Worth exploring?”
+- “Is this even on your radar?”
+- “Or should I talk to someone else on your team?”
+
+To be honest no one says yes to a deal on email #1. Open a conversation, not a deal."
+28,35,I've built 500+ AI workflows across 70+ clients.,Here's how I'd learn from scratch in 5 mins or less:,70,22,92,1165,"Here's how I'd learn from scratch in 5 mins or less:
+
+
+
+You can build AI workflows fast if you know the right tool.
+
+(and now you've got yourself an AI automation cheatsheet.)
+
+n8n workflows can generate:
+→ 40% less manual work 
+→ 24/7 working AI Agents
+
+Here's how to get started:
+1️⃣ Go to (n8n. io ) and create a free account 
+2️⃣ Click ""Create Workflow""
+ 3️⃣ Add your first node (Fireflies, Gmail, OpenAI, or whatever) 
+4️⃣ Connect the blocks, drag from one to the next 
+5️⃣ Add AI logic: let ChatGPT/Claude make decisions in your workflow
+
+Example workflow you can build in 5 minutes:
+→ Meeting ends in Fireflies.ai 
+→ AI extracts action items automatically 
+→ AI writes a personalized follow-up email or slack message in your voice
+→ Sends via Gmail 
+→ Logs everything to your CRM / or even Clay to analyze
+
+I've seen simple 3-node workflows outperform complex n8n flows you see because:
+
+a. Solved one problem well (focus) 
+b. Actually worked reliably (simplicity) 
+c. Could run without breaking (maintainability)
+
+If you want to never write another meeting follow-up manually, start with this 5 minute build.
+
+P.S: What are some task you’d like to automate?"
+29,1,"I cut an outbound list from 10,000 contacts to 3,200. After changing one thing the replies jumped from 4.2% to 6.8%. Here’s what changed.",The same campaign was run twice.,62,29,91,2350,"The same campaign was run twice.
+
+Same ICP. Same message. Same sequences.
+
+First pass:
+→ 10,000 contacts
+→ 4.2% reply rate
+
+Second pass:
+→ 3,200 contacts
+→ 6.8% reply rate
+
+The only change was timing.
+
+Firmographics alone stopped working for outbound in 2025.
+
+VP of Sales at Series A SaaS, 50-200 employees looks perfect on paper.
+But many of them:
+→ Just signed 2-year contracts
+→ Don't have room in their budget
+→ Or even plan to leave in a few weeks
+
+Perfect ICP, but just bad timing. Not everyone is always in need of your product. 
+
+We fixed that by layering intent signals with Ρrοѕреο V2.
+
+Client sells pipeline management software to SaaS.
+
+Old targeting:
+→ B2B SaaS, 50-200 employees, Series A-B, US-based
+→ VP of Sales or CRO
+
+Result: 10,000 contacts, 4.2% replies.
+
+New targeting with Prospeo V2:
+→ Same firmographics
+→ Sales dept grew 30%+ last 90 days
+→ Raised funding in last 6 months
+→ Using Salesforce or HubSpot
+
+Result: 3,200 contacts, 6.8% replies.
+
+The reply quality changed too.
+
+Old list replies:
+→ “Not a priority right now.”
+→ “Try again in 6 months.”
+
+New list replies:
+→ “This is something that is actually quite timely”
+→ “What does your calendar look like?”
+
+People already felt the pain when we reached out.
+
+Here is the exact search workflow we use:
+
+1) Start with firmographics
+Industry, company size, funding stage, location.
+
+2) Add growth signals
+→ Department headcount growth
+→ Recent funding rounds
+→ Active job postings
+
+3) Add tech stack filters
+→ Current tools
+→ Integrations we support
+→ Competitors we replace
+
+4) Filter for contact quality
+→ Verified email
+→ Verified mobile
+→ No incomplete data
+
+Export to CSV → enrich in Clay → push to Instantly.ai.
+
+That is how we avoid burning through 50,000 contacts each quarter and instead hit 15,000 with 2x performance.
+
+The three intent signals that win most:
+
+1) Department growth
+Sales team grew 30%+ in 90 days = scaling = needs infrastructure.
+
+2) Recent funding
+Fresh round = unfrozen budgets and leadership under pressure to act.
+
+3) Job postings
+Hiring SDRs = thinking about outbound.
+Hiring sales ops = thinking about tools.
+Active hiring = clear priority on that function.
+
+Stack all three and you show up when the company is ready to buy, not when your sequence is ready to send.
+
+P.S. How are you finding real buying windows in your outbound right now?"
+30,8,Most teams spend $50k on SDRs before spending $5000 on demand.,Here's why that's backwards,71,18,89,1130,"Here's why that's backwards
+
+
+I see this all the time-teams go straight to cold outreach and paid ads, then ask why conversion rates are trash and CAC keeps climbing.
+
+Here’s the real problem: You’re trying to capture demand that doesn’t exist yet.
+
+After working with 200+ B2B companies, one pattern repeats over and over. Outbound flops if you skip the basics.
+
+Here’s the right order:
+
+→ Layer 1: FOUNDATION
+
+Get clear on WHO you serve and WHY they should care.
+• Define your ICP and personas
+• Nail your value prop
+• Study competitors
+• Prove product-market fit
+
+→ Layer 2: DEMAND CREATION
+
+Now, make people actually want what you sell.
+• Create helpful content (not fluff)
+• Build SEO presence
+• Share real case studies
+• Host webinars
+• Partner up
+
+→ Layer 3: DEMAND CAPTURE
+
+Now you chase prospects.
+• Launch paid ads
+• Start cold outbound
+• Retarget website visitors
+• Scale sales development
+
+Most skip straight to Layer 3. Feels like “real sales work,” right? But it’s like fishing in an empty pond.
+
+Build each layer fully before you move on.
+
+I’ve seen outbound convert 3x better when prospects already know your name."
+31,28,"I had 1k followers before ColdIQ. Posting randomly, and no growth.","8 months with our content system? 7,000 followers. Here's how👇",57,32,89,2579,"8 months with our content system? 7,000 followers. Here's how👇
+
+
+When I joined ColdIQ, I thought I was ""doing content.""
+
+I wasn't. 
+
+I was posting whenever I felt like it with no strategy.
+
+Then I saw what Michel Lieben 🧠 built: a system where the entire team posts. (Monika Grycz 💌, was the first ever ColdIQ post I came across, and why I'm here!) 
+
+Not just C-Suite. Everyone.
+
+How it all works: 
+
+1. The system isn't about solo creators
+
+Everyone loves the idea of employees building personal brands - until they actually do it.
+
+But ColdIQ lets the team post from day 1.
+
+We now have 12 people with 5,000+ followers regularly posting:
+
+Michel Lieben 🧠: 59,107
+Alex Vacca 🧠🛠️: 53,131
+Melissa Gaglione ⭐️: 39,818
+Ivan Falco: 18,291
+Soheil Saeidmehr: 11,697
+Gerardo Teijeira ⚡: 11,011
+Millie Hanson: 10,934
+Monika Grycz 💌: 9,533
+Kenny Damian: 6,737
+Natasha Odeyemi: 5,554
+Juan Araujo: 5,434
+Harry Mason: 5,069
+
+Combined: 220,000+ followers
+
+2. Every person shares what they actually know
+
+We're not posting corporate updates that get 12 likes.
+
+Each person shares: 
+→ Expertise from their role 
+→ Winning strategies from our 70+ clients 
+→ Real systems and frameworks 
+→ Behind-the-scenes breakdowns
+
+3. Consistency became non-negotiable
+
+Before: I posted when inspiration hit (never) 
+After: 3-4x per week, scheduled in advance
+
+This month alone:
+↳233 posts published across our team
+↳4,104,960+ impressions
+↳$89,000+ in MRR added
+
+4. Fill-in-the-blank templates removed the extra time
+
+I went from 3 hours per post to about 30 minutes to an hour.
+
+ColdIQ has frameworks for: 
+↳ Tech stack breakdowns 
+↳ Lessons learned posts 
+↳ Case study formats 
+↳ Role-specific content
+
+5. Gamification creates momentum
+
+€1,000 prize for most posts above 20 likes per quarter.
+
+Sounds simple. But It works. (Maybe I'm saying this because I'm in the lead 😉 Millie Hanson) 
+
+Everyone shows up. Consistency becomes a team sport.
+
+6. Team amplification compounds faster
+
+When prospects see 5+ people from ColdIQ in their feed daily, they think:
+↳""Who are these guys?""
+
+By the time they book a call? Already warm.
+
+Turns out people buy from people they actually know and trust, not companies.
+
+Millie Hanson and Anna Hernaman are now helping teams build this same system. 
+
+In two ways:
+
+Done-For-You: We write, design, and post for your executives
+Done-With-You: We build the system and train your team
+
+Both include the lead gen infrastructure that turns engagement into conversations.
+
+Comment ""Content"" if you want to see how this could work for your team.
+
+They'll be reaching out directly!"
+32,22,How I'd build the perfect GTM strategy if we had to start from 0:,(It's what we've done to hit $6M+ ARR),60,16,76,2492,"(It's what we've done to hit $6M+ ARR)
+
+Let's break it down 👇
+
+1/ I'd nail my positioning before touching any marketing channel
+
+This is where most people mess up from day one. They think they know what problem they solve, but they're solving the wrong problem.
+
+For example:
+
+a. Study your top competitors obsessively
+b. Map out the real pain prospects feel
+c. Create an offer that sells itself
+d. Price on value, not time spent
+
+2/ Analyze your competitors
+
+→ Study your top competitors obsessively
+→ Take what works, then improve it (don't reinvent the wheel if you don't have to)
+→ See how they package their offers, what proof they use, and where they fall short
+
+Most people either ignore their competition completely or get intimidated by them. Both are wrong.
+
+3/ Create an offer that sells itself
+
+a. Who is this for?
+b. What pain does it fix?
+c. What outcome do they get?
+
+Lay out your steps to result and what makes you different → Price on value, not time spent (trust me, this matters more than you think).
+
+If you can't explain your offer in 30 seconds to a 12-year-old, it's too complicated.
+
+4/ Build momentum with warm outreach + organic
+
+Everyone wants to jump straight to cold outbound, but that's the completely wrong way to go about it.
+
+a. Post your offer on LinkedIn, share your point of view
+b. Focus on getting feedback and traction, not on making it perfect
+c. Start with your network, old clients, warm leads (people who already know you)
+
+I see people spending months perfecting their offer. Wrong move. Get it out there, get feedback, iterate.
+
+4/ Layer on scalable lead gen
+
+This is where the fun stuff comes in.
+
+→ Use Clay, Instantly, or Apollo to run cold campaigns
+→ Mix in AI for list building and writing custom copy
+→ Wait for replies, positive and negative
+
+But, don't do this until you've got steps 1-4 working. I see way too many people trying to scale systems that are completely broken from the start.
+
+6️⃣ Refine the engine, then scale
+
+This is what separates the agencies that hit $5M from the ones stuck at $500K.
+
+→ Double down on what's working (cold, content, referrals, pick your winners)
+→ You don't always need more tools, you need systems that will work for you
+→ Build simple systems for repeat work
+
+Most people keep adding complexity when they should be adding systems.
+
+Which of these steps do you find the hardest to nail? Or which one are you going to try next?
+
+♻️ Follow me Kenny for the sales tools that built our $400k MRR agency."
+33,15,"80% of our $6M ARR comes from content, not ads or cold calls.",Now we are building ContentIQ to do this for clients at scale.,57,16,73,1695,"Now we are building ContentIQ to do this for clients at scale. 
+
+Here's how it works: 
+
+PHASE 1: ONBOARDING & CONTENT FOUNDATION
+
+You need a system before laying down any ideas. 
+
+→ One-hour strategy call to get your positioning right
+→ Content audit to see what’s working (and what’s not)
+→ Voice capture to make sure every piece sounds like YOU
+→ ICP definition-if you target everyone, you reach no one
+→ Content calendar build-out
+→ Community channel setup
+
+
+PHASE 2: THE CONTENT ENGINE
+
+Two tracks run at the same time:
+
+TRACK 1: CONTENT CREATION
+
+→ Bi-weekly interviews pull out your best stories and ideas
+→ Weekly content plans built around your unique voice
+→ Design graphics, run approval flows, and prep for launch
+
+TRACK 2: PRODUCTION
+
+→ Content gets reviewed, finalized, and delivered in 2-3 days
+
+PHASE 3: ICP TRACKING & LEAD SCORING
+
+Most people post and pray. We track everything.
+
+→ Profile views, impressions, DMs, engagement, comments
+→ Two ICP tracks-because not all leads are equal
+→ Score and route data so you know WHO is engaged and HOW qualified they are
+
+
+PHASE 4: AUTOMATED OUTREACH MACHINE
+
+All engagement data flows into Clay, Attio, Unify, OpenAI, Common Room.
+
+→ Identify high-intent signals
+→ Enrich leads with more data
+→ Score them for ICP fit
+→ Trigger personalized outreach (email + LinkedIn) automatically
+
+Now, your content drives awareness. Tracking finds intent. Automation turns that intent into real conversations.
+
+LinkedIn content is the top, engagement tracking is the middle, automated outbound is the bottom.
+
+P.S. First 10 signups get the full automated outreach machine included. The entire workflow, not just the content. https://lnkd.in/gtSu9Pb5"
+34,6,Build your next AI agent in 15 minutes using plain English.,This is the Lovable of AI agents.,44,17,61,1347,"This is the Lovable of AI agents.
+
+
+I just built a Slack Agent that monitors ~200 companies across the web for hiring signals, funding rounds, and tech stack changes. Took me 15 minutes. No code. Just told it what to do in natural language.
+
+The tool is called Airtop.
+
+It's a cloud browser platform that actually solves the problem a lot of tools die on... authentication. OAuth. 2FA. All the stuff that usually breaks every 3 weeks.
+
+Here's what caught my attention for GTM teams:
+
+1️⃣ Lead Enrichment Agents
+Your SDR gets a name + email from a web form. 
+
+The agent: 
+→ Finds their LinkedIn profile 
+→ Extracts 20+ data points 
+→ Calculates ICP score 
+→ Updates your CRM automatically
+
+
+2️⃣ Competitive Intelligence Monitoring
+Set it to watch competitor pricing pages. Their LinkedIn posts. Who's engaging with their content.
+
+One agent I'm testing tracks competitors LinkedIn post, identifies the most engaging ones and creates a brief on what content people are engaging with. 
+
+3️⃣ Trigger-Based Workflows
+
+↳Track when companies post roles
+↳Watch for expansion signals
+↳Check out if someone in a list has recently changed jobs.
+(Yes clay does all of this, but now you have options, excluding clay credits. To run these more often)
+
+
+P.S: What's the first AI Agent you'll try on build on it? I'll leave the link to their site in the comments!"
+35,41,"What ColdIQ's $6,000,000 ARR funnel looks like: Here's our exact tech stack breakdown 👇",1️⃣ LEAD GENERATION,41,15,56,1339,"1️⃣ LEAD GENERATION
+
+→ 50K+ monthly website visits. All organic.
+How? Three main channels:
+
+→ LinkedIn Content
+• We post daily, across the whole team.
+• Warm leads from real conversations.
+• Tools: LinkedIn, Canva, Taplio 
+
+→ Video Content
+• YouTube is our new playground.
+• Video converts 3x better than text.
+• Tools: Tella, YouTube
+
+→ Newsletter & SEO
+• Fresh SEO articles every two weeks.
+• Tools: beehiiv, Surfer
+
+2️⃣ LEAD CAPTURE & INTELLIGENCE
+
+→ We track, capture, and enrich every signal:
+
+• Vector 👻: See who visits
+• Webflow: High-converting landing pages
+• Airtable: One hub for all lead data
+• Clay + Full Enrich: Pull contact info, enrich data
+• Prospeo.io + LeadMagic: Find emails fast
+
+3️⃣ LEAD CONVERSION
+
+• Instantly.ai or lemlist for sequences
+• Gmail + Outlook for max deliverability
+
+→ Automation
+• n8n + Make: No manual steps
+• Puzzle 🧩🚀: Visual process mapping
+
+→ AI Personalization
+• Claude for copywriting, perplexity for deep research
+
+→ Sales Process
+• Google Meet for calls
+• WhatsApp for “nudge” follow-ups
+• Attention: Auto meeting notes
+• Slack: All-in team comms
+
+→ Deal Closing
+• Qwilr: Proposals
+• PandaDoc: Contracts
+• Stripe: Payments
+• Mercury: Banking
+
+Systems > tools.
+You could copy this stack, but if the tools don’t connect, you’re wasting money.
+
+P.S. Want to see the funnel graphic? It’s below 👇"
+36,19,Never build AI agents without understanding these 3 frameworks.,"After deploying 30+ AI Agents, here are the 3 architectures every scaling GTM team should know.",38,14,52,1682,"After deploying 30+ AI Agents, here are the 3 architectures every scaling GTM team should know.
+
+
+Here's what actually works:
+
+True agentic systems don’t break the moment things get weird. They adapt, learn, and drive revenue without hand-holding.
+
+Here are the 3 frameworks you should know before you build you next Ai agent.
+
+→ 1️⃣ ReAct Agent (Reasoning + Acting)
+
+ReAct agents run a loop:
+Think → Research → Execute → Observe → Adjust
+
+Real-world moves:
+• Analyzes SEC filings for budget signals
+• Scans job posts for new growth roles
+• Checks competitor win/loss patterns
+• Reviews leadership changes
+• Maps tech stack for integration plays
+
+
+
+→ 2️⃣ CodeAct Agent (Code + Action)
+
+Writes custom code on demand. Solves problems in minutes, not hours.
+
+Real time use case: Dynamic Territory Optimization Agent:
+• Pulls live data from Salesforce, HubSpot, and more
+• Runs 1000+ territory scenarios in minutes
+• Factors in rep strengths, customer needs, and market shifts
+• Builds real-time dashboards
+• Adjusts territories as new accounts show up
+
+
+→ 3️⃣ Agentic RAG (Retrieval + Generation)
+
+Not just searching. Hunting, evaluating, synthesizing from 50+ sources.
+
+Real time use case: Competitive Intelligence Agent:
+• Monitors competitor sites, G2, job boards, social posts, patent filings
+• Tracks pricing and proposal changes
+• Flags competitor churn by watching LinkedIn job moves
+• Auto-generates battle cards and objection scripts
+• Builds ROI calculators on the fly
+
+These aren’t automations. They’re essentially teammates that execute needed task, that are time consuming.
+
+If your “AI agent” can’t adapt, it’s just a chatbot.
+
+What processes are you using AI Agents for?"
+37,17,I spent 100+ hours learning AI Agents. They now power ColdIQ's $500k MRR.,Here's what I'd do to learn from scratch:,38,13,51,2015,"Here's what I'd do to learn from scratch:
+
+
+1️⃣ Foundation: GenAI & LLMs
+Start here if you're new to AI:
+
+↳Generative AI for Everyone (DeepLearning.AI)
+↳Getting Started with LLMs
+↳AI Python for Beginners
+
+This builds the base knowledge you need before jumping into agents.
+
+2️⃣ Prompt Engineering (Critical for GTM)
+The #1 skill for getting AI to do what you want:
+
+↳Prompt Engineering for VLMs
+↳AI Fluency: Framework & Foundations (Anthropic)
+
+We use these techniques daily at ColdIQ to generate personalized outreach at scale.
+
+3️⃣ Introduction to AI Agents
+Learn what AI agents actually are:
+
+↳Build AI Apps with GPT Wrappers
+↳Fundamentals of AI Agents Using RAG and LangChain
+
+This is where it clicks → you'll understand why agents are game-changing for sales & marketing.
+
+4️⃣ Agentic Frameworks (The Good Stuff)
+
+Now learn the frameworks teams are using in production:
+↳AI Agentic Design Patterns with AutoGen
+↳Multi AI Agent Systems with CrewAI
+↳AI Agents in LangGraph
+
+These frameworks power the autonomous SDR and marketing workflows you're hearing about.
+
+5️⃣ Advanced: RAG & Memory
+Make your agents smarter with context:
+
+↳Agentic RAG with LlamaIndex
+↳Agent Memory
+
+Critical for agents that need to remember prospect conversations and research.
+
+6️⃣ GTM-Specific Applications
+
+Sales & marketing use cases:
+↳Create your own versions of claygent 
+↳Create agents to help you list build 
+↳Create agents that will help you look at a company and based on past data help you produce better GTM Motions
+
+These focus specifically on revenue operations, not just coding.
+
+The teams winning in 2025 aren't just using AI as a chatbot...
+
+They're deploying autonomous agents that: 
+→ Research prospects 24/7 
+→ Write personalized sequences 
+→ Qualify leads in real-time
+
+All while humans focus on closing deals.
+
+The best part? You don't need a CS degree. Just start with the fundamentals above and build from there.
+
+At ColdIQ, we're running AI agents across our entire GTM motion. The productivity gains are insane."
+38,40,I just spent 9 hours dissecting Google's official AI prompt engineering course. The results will change how you think about using AI in business.,The 5-Step Business AI Framework 👇,37,11,48,2396,"The 5-Step Business AI Framework 👇
+
+1️⃣ TASK → Be surgical, not general
+❌ ""Write a marketing plan""
+✅ ""Create a 90-day customer acquisition strategy for B2B SaaS companies with 50-500 employees""
+
+2️⃣ CONTEXT → Feed the machine your reality
+→ Industry landscape
+→ Competitive positioning
+→ Current challenges
+→ Target audience specifics
+→ Business goals, timelines
+
+3️⃣ REFERENCES → Show, don’t just tell
+→ Past campaigns
+→ Competitor examples
+→ Brand voice samples
+→ Customer feedback
+
+4️⃣ EVALUATE → Quality control everything
+→ Would this drive the outcome I need?
+→ Does this sound like my brand?
+→ Would my target audience respond?
+→ Is this actionable or just fluff?
+
+5️⃣ ITERATE → Perfection through repetition
+Most people stop at the first output. Winners refine 3-5 times.
+
+Real business examples:
+
+For Sales Leaders:
+Instead of ""Write a cold email sequence""
+Try: ""Act as a senior sales consultant. Create a 5-touch cold email sequence for CFOs at mid-market manufacturing companies struggling with cash flow visibility. Address Q1 budget planning. Position our dashboard as the solution. Use a consultative tone and include industry stats. Reference top performer emails [attach].""
+
+For Marketing Leaders:
+Instead of ""Create social media content""
+Try: ""You're a content strategist for B2B tech companies. Develop 10 LinkedIn post ideas that position our CEO as a supply chain thought leader. Educate supply chain directors at Fortune 1000s, drive engagement, and show our expertise. Use our brand voice [attach] and reference high-performing industry posts.""
+
+For Product Leaders:
+Instead of ""Help with product positioning""
+Try: ""Act as a product marketing expert. Analyze our feature set and create positioning statements for three buyer personas: technical users, business users, economic buyers. Differentiate us from [Competitor A/B], address pain points, and connect to business outcomes. Use jobs-to-be-done. Reference successful examples [attach].""
+
+Advanced iteration hacks:
+
+→ Add more context layers (trends, seasonality, constraints)
+→ Break complex requests into steps (Research → Framework → Strategy → Tactics → Metrics)
+→ Switch perspectives (problem vs solution focus, customer vs internal)
+→ Use smart constraints (""Max 100 words"", ""No jargon"", ""Include metrics"", ""End with CTA"")
+
+If you want to actually remember all this, I built a prompt engineering cheat sheet below."
+39,9,AI agents are useless if they can’t access your business tools.,"That’s why I use MCP, and here's what you need to know.",33,10,43,1078,"That’s why I use MCP, and here's what you need to know. 
+
+
+This is the real problem:
+
+You can build the smartest AI agent in the world, but if it can’t reach your CRM, project manager, or comms stack, it’s dead weight.
+
+MCP (Model Context Protocol) is my fix.
+Think of it as the “USB-C” for AI.
+One hub. Every tool can plug in.
+Simple, clean, no more integration chaos.
+
+Here are some use cases:
+
+→ HubSpot: AI reads CRM, writes personal emails
+→ Slack: Auto-updates from connected tools
+→ Notion: AI manages your workspace
+→ GitHub: Automated code workflows
+→ Shopify: AI handles customer data and inventory
+→ Airtable: Smart data sync
+→ WhatsApp: Automated comms
+→ Asana: AI project and task creation
+→ Claude/AI Models: Direct control of your stack
+
+What I like most?
+
+You set up each tool once.
+
+MCP handles the rest.
+
+No more writing the same connector 10 different ways.
+
+I’ve started running this playbook across my clients the last 2 months.
+
+The result: less grunt work, more autonomous flows, and quicker launches. 
+
+What’s your biggest integration headache right now?"
+40,14,"$1,000,000,000 in ARR. 130 SDRs crushing quota.",Here’s a direction of Ramp’s outbound strategy.,31,12,43,2943,"Here’s a direction of Ramp’s outbound strategy.
+
+
+Their reps book 3-4x the meetings of anyone else in fintech.
+
+Here's what I found: They don't rely on brute force. Instead, they built a testing machine that runs a plethora of experiments every 90 days, paired with ML systems that identify 75% of their best opportunities before anyone picks up the phone.
+
+The output: 40,000+ qualified sales opportunities.
+
+Here's what makes them different:
+
+1️⃣ Speed Over Perfection While enterprise companies usually debate concepts for months, Ramp executes in days.
+Their approach: 
+↳ Run north of 100+ tests quarterly, all logged in Airtable 
+↳ Weekly KPI meetings: What worked stays, everything else goes away 
+↳ Track pipeline payback instead of traditional metrics (gives you faster signals)
+
+2️⃣ Engineers For Sales Usually companies silo engineering away from GTM. Ramp does the opposite. They have developers building tools specifically for their outbound teams.
+
+How their growth team operates:
+↳ Dedicated engineers automate repetitive sales tasks
+ ↳ Test ideas in rapid 2-week cycles 
+↳ Invest heavily in data quality 
+↳ Success = pipeline created
+
+3️⃣ Experimentation Squads 
+Setup: 
+
+↳ team of Growth lead, SDR, Data person, Engineer 
+↳ 30-day maximum timeline with isolated tracking
+
+4️⃣ Segmented Outreach Channels
+
+High-Value Accounts: 
+↳ Reps manually craft every message 
+↳ Delivered through personal Gmail (maximizes deliverability)
+
+Medium Accounts: 
+↳ AI drafts personalized copy 
+↳ Human reviews before sending from Gmail 
+↳ Gets 44% more responses than sequence tools
+
+Long-Tail Accounts: 
+↳ Volume plays through automation platforms 
+↳ Same core message, optimized for scale
+
+
+5️⃣ Strategic AI Integration Ramp treats AI like a work multiplier, not necessarily replacement.
+
+Their team uses it to eliminate busywork so reps focus on relationships.
+
+Their AI finds personalization hooks like connecting a prospect's alma mater to upcoming games, then uses that to start conversations.
+
+6️⃣ Infrastructure Built For Speed Ramp's tech stack is designed around one thing: move fast without breaking. What they run:
+↳ Snowflake powers instant access to all GTM data (no lag, no crashes) ↳ Hightouch pushes warehouse data directly into CRM within minutes ↳ Waterfall.io orchestrates 5 data vendors to maximize contact coverage ↳ Custom ML model routes accounts to the right channel automatically (email, call, direct mail, ads)
+
+TLDR 
+↳ Replace monthly planning with weekly experiments (force the discipline) 
+↳ Hire 1 technical person to automate list building and data flows 
+↳ Pay your SDRs for pipeline quality, not meeting quantity 
+↳ Build a second outbound track on separate infrastructure for clean testing 
+↳ Deploy AI for scoring and admin work, keep humans in the relationship 
+↳ Create a public win-sharing channel so your best tactics spread instantly
+
+P.S: What's the ONE thing from Ramp's playbook you'd implement first?"
+41,25,"$1,000,000,000 in ARR. 130 SDRs crushing quota.",Here’s a direction of Ramp’s outbound strategy.,39,4,43,2891,"Here’s a direction of Ramp’s outbound strategy.
+
+Their reps book 3-4x the meetings of anyone else in fintech.
+
+Here's what makes them different:
+
+1️⃣ Speed Over Perfection While enterprise companies usually debate concepts for months, Ramp executes in days.
+
+Their approach: 
+↳ Run north of 100+ tests quarterly, all logged in Airtable 
+↳ Weekly KPI meetings: What worked stays, everything else goes away 
+
+
+No activity minimums for their SDRs.
+
+2️⃣ Engineers For Sales Usually companies silo engineering away from GTM. Ramp does the opposite. They have developers building tools specifically for their outbound teams.
+
+How their growth team operates:
+↳ Dedicated engineers automate repetitive sales tasks
+↳ Test ideas in rapid 2-week cycles 
+↳ Invest heavily in data quality 
+↳ Success = pipeline created
+
+3️⃣ Experimentation Squads They run small, protected teams called ""Tiger Teams"" that try risky plays without breaking what already works.
+Setup: 
+
+↳ team of Growth lead, SDR, Data person, Engineer 
+↳ 30-day maximum timeline with isolated tracking 
+
+4️⃣ Segmented Outreach Channels Ramp doesn't blast everyone the same way.
+They tier their approach based on account potential:
+
+High-Value Accounts: 
+↳ Reps manually craft every message 
+↳ Delivered through personal Gmail (maximizes deliverability) 
+
+Medium Accounts: 
+↳ AI drafts personalized copy 
+↳ Human reviews before sending from Gmail 
+↳ Gets 44% more responses than sequence tools 
+
+Long-Tail Accounts: 
+↳ Volume plays through automation platforms 
+↳ Same core message, optimized for scale 
+
+On top of this? A completely independent backup system running on different infrastructure. They benchmark the two against each other constantly. 
+
+5️⃣ Strategic AI Integration Ramp treats AI like a work multiplier, not necessarily replacement.
+
+Their team uses it to eliminate busywork so reps focus on relationships.
+
+Their AI finds personalization hooks like connecting a prospect's alma mater to upcoming games, then uses that to start conversations.
+
+6️⃣ Infrastructure Built For Speed 
+
+Ramp's tech stack is designed around one thing: move fast without breaking. What they run:
+
+↳ Snowflake powers instant access to all GTM data (no lag, no crashes) 
+↳ Hightouch pushes warehouse data directly into CRM within minutes 
+↳ Waterfall.io orchestrates 5 data vendors to maximize contact coverage 
+↳ Custom ML model routes accounts to the right channel automatically (email, call, direct mail, ads)
+
+TLDR 
+↳ Replace monthly planning with weekly experiments (force the discipline) 
+↳ Hire 1 technical person to automate list building and data flows 
+↳ Pay your SDRs for pipeline quality, not meeting quantity 
+↳ Build a second outbound track on separate infrastructure for clean testing 
+↳ Deploy AI for scoring and admin work, keep humans in the relationship 
+↳ Create a public win-sharing channel so your best tactics spread instantly"
+42,20,"After working with 70+ clients and analyzing 1,000+ positive LinkedIn replies, here's what I learned (and a full SOP breakdown).",Here's what I discovered:,28,13,41,2348,"Here's what I discovered:
+
+The 6 insights that changed everything:
+
+→ 1. The hidden 2-inbox problem Most people don't know LinkedIn gives you two separate inboxes:
+
+Sales Navigator inbox (where you prospect)
+Native LinkedIn inbox (where replies actually land)
+The mistake: Messaging from Sales Nav sends to ""Other"" folder The fix: Always switch to native inbox for messaging
+
+→ 2. The star system that saves deals Elite performers use LinkedIn's features differently:
+
+★ = Hot prospects who showed interest (max 5 total) Unread = Waiting on their reply Archive = Done/not ready
+
+The rule: Always handle starred conversations first Why it works: You never ignore buying signals for cold outreach
+
+→ 3. The 3-touch cadence that converts We tested 47 different follow-up sequences across our clients.
+
+The winner: Day 1: Initial personalized message 
+Day 3: Different format follow-up (voice if first was text)
+Day 6: Value-add final touch with resource/insight
+
+Key insight: Hit different weekdays to catch varying schedules
+
+→ 4. Voice notes = cheat code Analyzed 2,847 LinkedIn messages across our client base:
+
+Text messages get buried in noise Voice messages demand attention Video messages build instant rapport.
+
+The formula that works:
+
+25-30 seconds maximum
+Reference something specific from their profile
+Enthusiastic but professional tone
+Clear call-to-action at the end
+
+Pro tip: Rotate formats based on prospect's communication style
+
+→ 5. The time-boxing method Successful clients check LinkedIn DMs only 3x daily:
+
+9am: Handle starred (hot) prospects first
+1pm: Process new messages + send outreach
+4pm: Follow-up on pending conversations
+
+Why this works:
+Eliminates constant context-switching
+Makes replies more intentional
+Protects focus for other revenue activities
+
+→ 6. The message templates that convert Stop rewriting the same messages. 
+
+Here are our highest-performing snippets:
+
+Pain follow-up: ""Typically when I speak with [persona], they say [specific pain point] is their biggest challenge. Sound familiar?""
+
+Educational value-add: ""Sharing this [specific resource] - thought you'd find the part about [relevant insight] interesting given [their situation]""
+
+Referral transition: ""Would it make more sense for me to connect with [specific colleague] about this?""
+
+Here's the full notion breakdown - https://lnkd.in/gWykTVx9"
+43,18,I spent all of September in Barcelona.,And it reignited the why behind what we do together everyday.,9,11,20,986,"And it reignited the why behind what we do together everyday. 
+
+
+Don't get me wrong I love remote work. We've gone from 0 to $6M+ ARR with people scattered across time zones.
+
+But here's what I forgot: 
+
+The energy of whiteboarding at midnight because someone had an idea. (Harry Mason, Jan Rasmussen Mitjana,Julien Lieben, Michel Lieben 🧠 p.s more like 2am in some cases)
+
+The inside jokes that become team culture. (Joaquin Garasino, Gerardo Teijeira ⚡, Harry Mason, Jan Rasmussen Mitjana, Dujam Dunato, Julien Lieben, Fernando Castillo, Shubham Sandilya)
+
+I've been heads down. Grinding. Shipping new systems for ColdIQ.
+But somewhere along the way, work just became work.
+This month in Barcelona brought it back.
+
+Being in person with my team?  By far my most impactful weeks I've had at work. 
+
+This trip really solidified some life long friends in my book, and I can't wait to be back next summer. 
+
+P.S: If you're a fully remote team, how often do you get your team together IRL?"

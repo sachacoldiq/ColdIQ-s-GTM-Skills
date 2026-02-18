@@ -21,6 +21,30 @@ Analyze the user's request and delegate to one or more sub-skills:
 | End-of-post CTAs, driving saves/comments/follows, profile conversion | **cta** | Read `linkedin-content/.claude/skills/cta/SKILL.md` |
 | Turning one piece into many formats, creator tools, newsletters | **repurposing** | Read `linkedin-content/.claude/skills/repurposing/SKILL.md` |
 
+## Cross-Cutting Resources
+
+These resources contain deep knowledge shared across all sub-skills:
+
+- **ColdIQ writing voice, tone, formatting rules, content pillars, pre-publish checklist** → Read `linkedin-content/resources/voice/coldiq-writing-guide.md`
+- **5 production-ready post structure templates (A-E) with character counts** → Read `linkedin-content/resources/templates/post-structure-templates.md`
+- **86+ post engagement analysis: S/A/B/C/D tiers, hook patterns ranked, character sweet spots** → Read `linkedin-content/resources/performance/engagement-data-analysis.md`
+- **Graphic design brief templates (infographic, carousel, animated)** → Read `linkedin-content/resources/design/graphic-design-briefs.md`
+- **Kenny's 43 posts with full content + engagement data** → Read `linkedin-content/resources/posts/kenny-posts-reference.csv`
+- **Mich's 43 posts with full content + engagement data** → Read `linkedin-content/resources/posts/mich-posts-reference.csv`
+- **Hook formulas, storytelling frameworks, profile optimization** → Read `linkedin-content/resources/references/content-strategy.md`
+- **Algorithm mechanics, format performance, posting strategy** → Read `linkedin-content/resources/references/linkedin-algorithm.md`
+- **Platform limits, DM sequences, campaign targeting** → Read `linkedin-content/resources/references/linkedin-campaigns.md`
+
+## Content Pillars (Rotate These)
+
+| Pillar | Weight | Examples |
+|--------|--------|---------|
+| Tech Stack Reveals | 30% | Tool breakdowns, system architectures, API workflows |
+| Growth Playbooks | 25% | LinkedIn growth, sales systems, outbound frameworks |
+| Lessons & Frameworks | 20% | Things I learned, mistakes to avoid, principles |
+| Results & Case Studies | 15% | Campaign metrics, pipeline generated, before/after |
+| Behind-the-Scenes | 10% | Team culture, hiring, building in public |
+
 ## Routing Rules
 
 1. **"Write me a LinkedIn post"** --> Use **hooks** (for the opener) + **storytelling** (for the body) + **cta** (for the ending). Optionally add **formats** if the user hasn't specified a format.
@@ -28,6 +52,8 @@ Analyze the user's request and delegate to one or more sub-skills:
 3. **"Optimize my LinkedIn profile"** --> Use **cta** (profile optimization section) as the primary skill.
 4. **"Review my LinkedIn post"** --> Use **hooks** (audit the first line) + **storytelling** (audit the structure) + **cta** (audit the ending).
 5. **Single-topic questions** (e.g., "best time to post?") --> Route to the single most relevant sub-skill.
+6. **"Create a graphic design brief"** --> Use **formats** (graphic design brief workflow) + relevant content from post.
+7. **"What content should I write about?"** --> Check content pillars above + engagement analysis for what performs best.
 
 ## Workflow for Full Post Creation
 
@@ -40,6 +66,7 @@ Step 3: [storytelling]  Structure the body with the best-fit framework
 Step 4: [cta]          Add a clear call-to-action matched to the goal
 Step 5: [formats]      Recommend optimal format (text, carousel, video)
 Step 6: [scheduling]   Suggest posting time and Golden Hour plan
+Step 7: [formats]      If visual: generate graphic design brief for designers
 ```
 
 ## Key Numbers to Always Reference
@@ -53,6 +80,14 @@ Step 6: [scheduling]   Suggest posting time and Golden Hour plan
 - Saves/bookmarks weighted **5x** -- strongest signal
 - External links reduce reach by **40-60%**
 
+## Content Philosophy
+
+1. **Educate, don't sell** — teach frameworks people can implement immediately
+2. **Data over opinions** — every claim backed by specific numbers
+3. **Transparency wins** — share real revenue, metrics, behind-the-scenes
+4. **Actionable depth** — readers should be able to DO something after reading
+5. **Visuals multiply reach** — infographics get 2-3x the engagement of text-only
+
 ## Response Quality Standards
 
 - Every post recommendation must include a specific hook, framework, and CTA
@@ -60,3 +95,5 @@ Step 6: [scheduling]   Suggest posting time and Golden Hour plan
 - Include specific numbers (character counts, reach multipliers, timing)
 - Tailor advice to B2B context -- no generic social media tips
 - One idea per post, 6th-grade reading level, short sentences
+- Reference engagement data to justify recommendations (which tier does this pattern usually hit?)
+- When writing posts, follow the ColdIQ writing voice guide (conversational, first person, specific numbers, no jargon)

@@ -10,6 +10,8 @@ You are a specialist in crafting LinkedIn call-to-actions that drive saves, comm
 ## Reference
 
 Load `linkedin-content/resources/references/content-strategy.md` for the complete CTA patterns, profile optimization frameworks, and headline formulas.
+Read `linkedin-content/resources/voice/coldiq-writing-guide.md` for comment gating patterns, P.S. question templates, and continuation tease formulas proven on ColdIQ accounts.
+Read `linkedin-content/resources/performance/engagement-data-analysis.md` for data on which CTA styles drive S/A-tier engagement (comment-gating = 3-5x normal comment volume).
 
 ## CTA Types by Goal
 
@@ -81,6 +83,31 @@ Max 3-5 items. Most important = leftmost. Update monthly.
 - Dimensions: **1584 x 396 pixels** (4:1 ratio)
 - Keep critical text in center (edges cropped on mobile)
 - Include: tagline, website URL, key offering, or social proof
+
+## Comment Gating (Highest Engagement CTA)
+
+Comment-gated posts drive 3-5x normal comment volume. The algorithm sees massive comments → boosts distribution.
+
+**Keyword Comment Gate:**
+```
+Comment "INTENT" below and I'll share it.
+Comment "STACK" and I'll send you the full breakdown.
+Comment "CLAUDE" and make sure we're connected so I can DM it to you.
+```
+
+**P.S. Question Closers (proven highest-performing):**
+```
+P.S: What tool should I add to this stack?
+P.S: How are your cold email campaigns doing right now?
+P.S: What's the ONE tool you can't live without?
+P.S: Which part of this system would you want more detail on?
+```
+
+**Continuation Tease:**
+```
+I'm running out of space... Continuing in the comments 👇
+Make sure to follow so you don't miss the next breakdown.
+```
 
 ## Examples
 

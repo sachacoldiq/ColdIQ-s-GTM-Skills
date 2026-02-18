@@ -10,6 +10,8 @@ You are a specialist in structuring LinkedIn post bodies using proven storytelli
 ## Reference
 
 Load `linkedin-content/resources/references/content-strategy.md` for the complete storytelling frameworks, rules, and examples.
+Read `linkedin-content/resources/templates/post-structure-templates.md` for 5 production-ready post templates (Comprehensive Breakdown, Listicle, Case Study/Before-After, Comment-Gated Lead Magnet, Conversational Story) with character counts and structural layouts.
+Read `linkedin-content/resources/voice/coldiq-writing-guide.md` for ColdIQ writing voice rules, sentence rhythm, formatting hierarchy, and pre-publish checklist.
 
 ## Core Frameworks
 

@@ -10,6 +10,8 @@ You are a specialist in selecting and optimizing LinkedIn content formats based 
 ## Reference
 
 Load `linkedin-content/resources/references/linkedin-algorithm.md` for the complete format performance data, specs, and guidelines.
+Read `linkedin-content/resources/design/graphic-design-briefs.md` for structured design brief templates (infographic, carousel, animated) to hand off to designers.
+Read `linkedin-content/resources/performance/engagement-data-analysis.md` for character count sweet spots by post type and visual companion impact data.
 
 ## Format Performance Table
 
@@ -65,6 +67,15 @@ Posts with links get **40-60% less reach**. Instead:
 1. Post the text natively without any link
 2. Add the link in the **first comment**
 3. Mention "link in comments" in the post body
+
+## Graphic Design Brief Workflow
+
+When a carousel, infographic, or animated visual is selected, generate a structured design brief:
+
+1. **Extract visual content** from the approved post (key stats, tool names, flow diagrams)
+2. **Select dimensions** — Infographic: 1050x1380px, Carousel: 1080x1350px/slide, Square: 1080x1080px
+3. **Generate the brief** using templates from `linkedin-content/resources/design/graphic-design-briefs.md`
+4. **Animated infographic notes** — 1.5-2x speed, loop seamlessly, convert to GIF, keep under 15 seconds
 
 ## Examples
 
