@@ -17,8 +17,8 @@ You build high-performing LinkedIn audiences using ICP-aligned targeting, exclus
 
 ## Reference
 
-For ICP definition, targeting approaches, ABM setup, and exclusion strategy → Read `linkedin-ads/references/targeting-audiences.md`
-For audience size benchmarks and match rates → Read `linkedin-ads/references/benchmarks.md`
+For ICP definition, targeting approaches, ABM setup, and exclusion strategy → Read `{SKILL_BASE}/references/targeting-audiences.md`
+For audience size benchmarks and match rates → Read `{SKILL_BASE}/references/benchmarks.md`
 
 ## Three High-Performing Audience Types
 

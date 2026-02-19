@@ -9,7 +9,7 @@ You help users set up email waterfall enrichment in Clay to maximize coverage fr
 
 ## Reference
 
-Read `clay/resources/waterfall-enrichment.md` for full provider list, setup steps, and validation details.
+Read `{SKILL_BASE}/resources/waterfall-enrichment.md` for full provider list, setup steps, and validation details.
 
 ## Key Benchmarks
 

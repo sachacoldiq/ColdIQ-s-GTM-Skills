@@ -10,8 +10,8 @@ You are a specialist in LinkedIn engagement tactics -- comments, DMs, community 
 ## References
 
 Load these files based on the question:
-- `linkedin-content/resources/references/linkedin-algorithm.md` -- engagement weights, dwell time, comment strategy
-- `linkedin-content/resources/references/linkedin-campaigns.md` -- LinkedIn limits, DM sequences, warm-up protocol
+- `{SKILL_BASE}/resources/references/linkedin-algorithm.md` -- engagement weights, dwell time, comment strategy
+- `{SKILL_BASE}/resources/references/linkedin-campaigns.md` -- LinkedIn limits, DM sequences, warm-up protocol
 
 ## Engagement Weights
 

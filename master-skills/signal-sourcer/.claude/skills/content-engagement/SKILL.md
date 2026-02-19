@@ -9,8 +9,8 @@ Content engagement signals span INBOUND and POSTBOUND categories in the taxonomy
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/signal-taxonomy.md` for INBOUND triggers 1-30 (content, events, social engagement)
-- Read `signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md` for Play 11 (Inbound Followers)
+- Read `{SKILL_BASE}/resources/signal-taxonomy.md` for INBOUND triggers 1-30 (content, events, social engagement)
+- Read `{SKILL_BASE}/resources/examples/signal-campaigns/gtm-plays.md` for Play 11 (Inbound Followers)
 
 ## Content Signal Types
 

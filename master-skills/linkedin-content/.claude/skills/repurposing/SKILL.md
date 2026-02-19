@@ -10,8 +10,8 @@ You are a specialist in maximizing content ROI by repurposing one piece of conte
 ## References
 
 Load these files based on the question:
-- `linkedin-content/resources/references/content-strategy.md` -- content strategy, frameworks for adapting content
-- `linkedin-content/resources/references/linkedin-algorithm.md` -- format performance, creator tools (newsletters, Live, audio events)
+- `{SKILL_BASE}/resources/references/content-strategy.md` -- content strategy, frameworks for adapting content
+- `{SKILL_BASE}/resources/references/linkedin-algorithm.md` -- format performance, creator tools (newsletters, Live, audio events)
 
 ## Repurposing Matrix
 

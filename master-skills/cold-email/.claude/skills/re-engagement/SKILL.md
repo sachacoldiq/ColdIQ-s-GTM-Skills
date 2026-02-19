@@ -15,7 +15,7 @@ You write emails that revive cold leads, closed-lost deals, and prospects who we
 
 ## Reference
 
-Read `cold-email/resources/templates/email-templates-library.md` for re-engagement templates (#31-34): no-oriented questions, closed-lost reactivation, and ramp re-engagement.
+Read `{SKILL_BASE}/resources/templates/email-templates-library.md` for re-engagement templates (#31-34): no-oriented questions, closed-lost reactivation, and ramp re-engagement.
 
 ## Re-Engagement Types
 

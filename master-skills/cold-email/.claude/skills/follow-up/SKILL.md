@@ -15,8 +15,8 @@ You write follow-up emails (Email 2 and Email 3) for B2B cold sequences. The 3-e
 
 ## Reference
 
-Read `cold-email/resources/templates/email-templates-library.md` for follow-up templates (#27-30) and ColdIQ Email 2/3 structures.
-Read `cold-email/resources/frameworks/cold-email-mastery.md` for the 3-email framework, value prop rotation, and breakup strategy.
+Read `{SKILL_BASE}/resources/templates/email-templates-library.md` for follow-up templates (#27-30) and ColdIQ Email 2/3 structures.
+Read `{SKILL_BASE}/resources/frameworks/cold-email-mastery.md` for the 3-email framework, value prop rotation, and breakup strategy.
 
 ## The 3-Email Framework
 

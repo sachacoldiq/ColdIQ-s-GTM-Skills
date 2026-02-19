@@ -18,8 +18,8 @@ You set up comprehensive measurement and attribution for LinkedIn Ads campaigns.
 
 ## Reference
 
-For measurement framework, attribution stack, and business metrics → Read `linkedin-ads/references/measurement-attribution.md`
-For campaign health indicators and benchmarks → Read `linkedin-ads/references/benchmarks.md`
+For measurement framework, attribution stack, and business metrics → Read `{SKILL_BASE}/references/measurement-attribution.md`
+For campaign health indicators and benchmarks → Read `{SKILL_BASE}/references/benchmarks.md`
 
 ## Core Equation
 

@@ -9,7 +9,7 @@ You help users leverage Claygent for research tasks that require web browsing an
 
 ## Reference
 
-Read `clay/resources/prompts/claygent-guide.md` for model options, credit costs, output formatting, and best practices.
+Read `{SKILL_BASE}/resources/prompts/claygent-guide.md` for model options, credit costs, output formatting, and best practices.
 
 ## When to Use Claygent vs Standard Enrichment
 

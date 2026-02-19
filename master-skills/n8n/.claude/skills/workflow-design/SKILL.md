@@ -16,7 +16,7 @@ You design production-ready n8n workflow architectures for B2B sales and GTM ope
 
 ## Reference
 
-For core concepts, node types, and sub-workflow patterns → Read `n8n/resources/n8n-core-guide.md`
+For core concepts, node types, and sub-workflow patterns → Read `{SKILL_BASE}/resources/n8n-core-guide.md`
 
 ## Key Principles
 

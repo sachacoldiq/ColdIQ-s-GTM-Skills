@@ -17,8 +17,8 @@ You configure bidding strategies and budget allocation for maximum LinkedIn Ads 
 
 ## Reference
 
-For bidding strategies, objective selection, and budget guidelines → Read `linkedin-ads/references/bidding-objectives.md`
-For cost benchmarks and campaign health indicators → Read `linkedin-ads/references/benchmarks.md`
+For bidding strategies, objective selection, and budget guidelines → Read `{SKILL_BASE}/references/bidding-objectives.md`
+For cost benchmarks and campaign health indicators → Read `{SKILL_BASE}/references/benchmarks.md`
 
 ## Bidding Strategy Selection
 

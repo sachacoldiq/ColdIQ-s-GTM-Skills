@@ -9,8 +9,8 @@ You help users diagnose and fix problems in their Clay tables, enrichments, and 
 
 ## References
 
-- Read `clay/resources/expert-tips-eric-noski.md` for the 6 table rules and 8 AI prompting rules.
-- Read `clay/resources/workflow-patterns.md` for auto-update behavior and run settings.
+- Read `{SKILL_BASE}/resources/expert-tips-eric-noski.md` for the 6 table rules and 8 AI prompting rules.
+- Read `{SKILL_BASE}/resources/workflow-patterns.md` for auto-update behavior and run settings.
 
 ## Top 10 Common Mistakes
 

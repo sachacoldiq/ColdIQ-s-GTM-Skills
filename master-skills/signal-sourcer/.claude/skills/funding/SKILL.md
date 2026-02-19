@@ -9,8 +9,8 @@ Funding rounds are the #5 buying signal by purchase correlation. They indicate n
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/buying-signals.md` for signal ranking and benchmarks
-- Read `signal-sourcer/resources/signal-taxonomy.md` for firmographic triggers (Category V)
+- Read `{SKILL_BASE}/resources/buying-signals.md` for signal ranking and benchmarks
+- Read `{SKILL_BASE}/resources/signal-taxonomy.md` for firmographic triggers (Category V)
 
 ## Why Funding Signals Work
 

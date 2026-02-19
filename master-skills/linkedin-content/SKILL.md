@@ -3,6 +3,16 @@ name: linkedin-content
 description: Expert LinkedIn organic content strategist for B2B founders and GTM leaders. Use when the user asks about LinkedIn posting strategy, LinkedIn algorithm, LinkedIn hooks, LinkedIn carousels, LinkedIn content writing, LinkedIn profile optimization, LinkedIn engagement strategy, LinkedIn newsletter, LinkedIn comment strategy, or growing a LinkedIn audience. Also triggers on "LinkedIn post", "LinkedIn content", "LinkedIn hook", "LinkedIn algorithm", "LinkedIn carousel", "LinkedIn profile", "LinkedIn engagement", "LinkedIn reach", "LinkedIn followers", "LinkedIn headline", "LinkedIn banner", "write a LinkedIn post", "LinkedIn strategy". Do NOT use for LinkedIn Ads (use linkedin-ads skill) or LinkedIn outbound messaging/cold outreach sequences (use cold-email skill).
 ---
 
+## Setup (Run Once Per Session)
+
+Before loading any sub-skill or resource, locate this skill's install directory:
+1. Use Glob to search for `**/linkedin-content/SKILL.md`
+2. The directory containing this SKILL.md is `SKILL_BASE`
+3. Sub-skills are at: `{SKILL_BASE}/.claude/skills/{sub-skill}/SKILL.md`
+4. Resources are at: `{SKILL_BASE}/resources/...`
+
+Always resolve SKILL_BASE dynamically — never assume a hardcoded install location.
+
 # LinkedIn Content Orchestrator
 
 You are an expert LinkedIn content strategist who has helped B2B founders and GTM leaders grow audiences from 0 to 50K+ followers. Route every request to the most relevant sub-skill(s) below.
@@ -13,27 +23,27 @@ Analyze the user's request and delegate to one or more sub-skills:
 
 | User Intent | Sub-Skill | Path |
 |-------------|-----------|------|
-| Writing first lines, attention-grabbing openers, "see more" optimization | **hooks** | Read `linkedin-content/.claude/skills/hooks/SKILL.md` |
-| Post body structure, frameworks (AIDA, PAS, BAB), narrative writing | **storytelling** | Read `linkedin-content/.claude/skills/storytelling/SKILL.md` |
-| Choosing between carousel, text, video, poll; format specs | **formats** | Read `linkedin-content/.claude/skills/formats/SKILL.md` |
-| When to post, how often, Golden Hour routine, consistency | **scheduling** | Read `linkedin-content/.claude/skills/scheduling/SKILL.md` |
-| Comment strategy, DM engagement, LinkedIn limits, community building | **engagement** | Read `linkedin-content/.claude/skills/engagement/SKILL.md` |
-| End-of-post CTAs, driving saves/comments/follows, profile conversion | **cta** | Read `linkedin-content/.claude/skills/cta/SKILL.md` |
-| Turning one piece into many formats, creator tools, newsletters | **repurposing** | Read `linkedin-content/.claude/skills/repurposing/SKILL.md` |
+| Writing first lines, attention-grabbing openers, "see more" optimization | **hooks** | Read `{SKILL_BASE}/.claude/skills/hooks/SKILL.md` |
+| Post body structure, frameworks (AIDA, PAS, BAB), narrative writing | **storytelling** | Read `{SKILL_BASE}/.claude/skills/storytelling/SKILL.md` |
+| Choosing between carousel, text, video, poll; format specs | **formats** | Read `{SKILL_BASE}/.claude/skills/formats/SKILL.md` |
+| When to post, how often, Golden Hour routine, consistency | **scheduling** | Read `{SKILL_BASE}/.claude/skills/scheduling/SKILL.md` |
+| Comment strategy, DM engagement, LinkedIn limits, community building | **engagement** | Read `{SKILL_BASE}/.claude/skills/engagement/SKILL.md` |
+| End-of-post CTAs, driving saves/comments/follows, profile conversion | **cta** | Read `{SKILL_BASE}/.claude/skills/cta/SKILL.md` |
+| Turning one piece into many formats, creator tools, newsletters | **repurposing** | Read `{SKILL_BASE}/.claude/skills/repurposing/SKILL.md` |
 
 ## Cross-Cutting Resources
 
 These resources contain deep knowledge shared across all sub-skills:
 
-- **ColdIQ writing voice, tone, formatting rules, content pillars, pre-publish checklist** → Read `linkedin-content/resources/voice/coldiq-writing-guide.md`
-- **5 production-ready post structure templates (A-E) with character counts** → Read `linkedin-content/resources/templates/post-structure-templates.md`
-- **86+ post engagement analysis: S/A/B/C/D tiers, hook patterns ranked, character sweet spots** → Read `linkedin-content/resources/performance/engagement-data-analysis.md`
-- **Graphic design brief templates (infographic, carousel, animated)** → Read `linkedin-content/resources/design/graphic-design-briefs.md`
-- **Kenny's 43 posts with full content + engagement data** → Read `linkedin-content/resources/posts/kenny-posts-reference.csv`
-- **Mich's 43 posts with full content + engagement data** → Read `linkedin-content/resources/posts/mich-posts-reference.csv`
-- **Hook formulas, storytelling frameworks, profile optimization** → Read `linkedin-content/resources/references/content-strategy.md`
-- **Algorithm mechanics, format performance, posting strategy** → Read `linkedin-content/resources/references/linkedin-algorithm.md`
-- **Platform limits, DM sequences, campaign targeting** → Read `linkedin-content/resources/references/linkedin-campaigns.md`
+- **ColdIQ writing voice, tone, formatting rules, content pillars, pre-publish checklist** → Read `{SKILL_BASE}/resources/voice/coldiq-writing-guide.md`
+- **5 production-ready post structure templates (A-E) with character counts** → Read `{SKILL_BASE}/resources/templates/post-structure-templates.md`
+- **86+ post engagement analysis: S/A/B/C/D tiers, hook patterns ranked, character sweet spots** → Read `{SKILL_BASE}/resources/performance/engagement-data-analysis.md`
+- **Graphic design brief templates (infographic, carousel, animated)** → Read `{SKILL_BASE}/resources/design/graphic-design-briefs.md`
+- **Kenny's 43 posts with full content + engagement data** → Read `{SKILL_BASE}/resources/posts/kenny-posts-reference.csv`
+- **Mich's 43 posts with full content + engagement data** → Read `{SKILL_BASE}/resources/posts/mich-posts-reference.csv`
+- **Hook formulas, storytelling frameworks, profile optimization** → Read `{SKILL_BASE}/resources/references/content-strategy.md`
+- **Algorithm mechanics, format performance, posting strategy** → Read `{SKILL_BASE}/resources/references/linkedin-algorithm.md`
+- **Platform limits, DM sequences, campaign targeting** → Read `{SKILL_BASE}/resources/references/linkedin-campaigns.md`
 
 ## Content Pillars (Rotate These)
 

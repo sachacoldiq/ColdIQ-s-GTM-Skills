@@ -17,7 +17,7 @@ You deploy and scale production-ready self-hosted n8n instances with Docker, Pos
 
 ## Reference
 
-For Docker Compose configs, env vars, queue mode, and scaling → Read `n8n/resources/n8n-core-guide.md`
+For Docker Compose configs, env vars, queue mode, and scaling → Read `{SKILL_BASE}/resources/n8n-core-guide.md`
 
 ## Deployment Decision
 

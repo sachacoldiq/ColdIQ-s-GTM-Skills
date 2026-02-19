@@ -9,8 +9,8 @@ Company events are firmographic triggers from the signal taxonomy (Category V). 
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/signal-taxonomy.md` for Category V: Firmographic Triggers (15 triggers)
-- Read `signal-sourcer/resources/buying-signals.md` for expansion signal (#5 by purchase correlation)
+- Read `{SKILL_BASE}/resources/signal-taxonomy.md` for Category V: Firmographic Triggers (15 triggers)
+- Read `{SKILL_BASE}/resources/buying-signals.md` for expansion signal (#5 by purchase correlation)
 
 ## 15 Firmographic Triggers
 

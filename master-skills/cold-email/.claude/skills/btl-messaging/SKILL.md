@@ -15,7 +15,7 @@ You write cold emails for Managers, Individual Contributors, and End-Users. BTL 
 
 ## Reference
 
-Read `cold-email/resources/frameworks/atl-btl-messaging.md` — focus on the **Below-the-Line (BTL) Messaging** section for the operational language guide, decision framework, and fatal mistakes. Ignore the ATL section.
+Read `{SKILL_BASE}/resources/frameworks/atl-btl-messaging.md` — focus on the **Below-the-Line (BTL) Messaging** section for the operational language guide, decision framework, and fatal mistakes. Ignore the ATL section.
 
 ## BTL Rules
 

@@ -9,8 +9,8 @@ You help users find the right contacts at target companies using boolean search,
 
 ## References
 
-- Read `list-building/resources/sales-navigator-guide.md` — sections: Boolean Search, Boolean Formulas by ICP, Export & Scraping Tools, List Building Best Practices.
-- Read `list-building/resources/lead-sources-guide.md` — section: Find People (FREE in Clay).
+- Read `{SKILL_BASE}/resources/sales-navigator-guide.md` — sections: Boolean Search, Boolean Formulas by ICP, Export & Scraping Tools, List Building Best Practices.
+- Read `{SKILL_BASE}/resources/lead-sources-guide.md` — section: Find People (FREE in Clay).
 
 ## Boolean Search Operators
 

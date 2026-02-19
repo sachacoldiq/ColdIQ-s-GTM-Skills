@@ -9,8 +9,8 @@ Competitor signals come from Category III of the signal taxonomy (Based on Likel
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/signal-taxonomy.md` for Category III: Competitors (triggers 8-16)
-- Read `signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md` for Play 8 (Bad Reviews) and Play 11 (Inbound Followers)
+- Read `{SKILL_BASE}/resources/signal-taxonomy.md` for Category III: Competitors (triggers 8-16)
+- Read `{SKILL_BASE}/resources/examples/signal-campaigns/gtm-plays.md` for Play 8 (Bad Reviews) and Play 11 (Inbound Followers)
 
 ## 9 Competitor Triggers (from Taxonomy)
 

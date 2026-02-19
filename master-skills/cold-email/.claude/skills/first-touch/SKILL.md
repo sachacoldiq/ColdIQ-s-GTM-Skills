@@ -16,9 +16,9 @@ You write high-performing first cold emails for B2B outbound. Every email must b
 
 ## Reference
 
-Read `cold-email/resources/frameworks/writing-frameworks.md` for all 8 frameworks and Josh Braun principles.
-Read `cold-email/resources/templates/email-templates-library.md` for 23 first-touch templates and the 7 ColdIQ Email 1 variations.
-Read `cold-email/resources/frameworks/copywriting/coldiq-playbook.md` for 3 value prop styles (Show Cost, Peer Proof, Specific Outcome), 3 preview/first line patterns (Observation, Pain, Industry), and ColdIQ benchmarks from 250K+ emails.
+Read `{SKILL_BASE}/resources/frameworks/writing-frameworks.md` for all 8 frameworks and Josh Braun principles.
+Read `{SKILL_BASE}/resources/templates/email-templates-library.md` for 23 first-touch templates and the 7 ColdIQ Email 1 variations.
+Read `{SKILL_BASE}/resources/frameworks/copywriting/coldiq-playbook.md` for 3 value prop styles (Show Cost, Peer Proof, Specific Outcome), 3 preview/first line patterns (Observation, Pain, Industry), and ColdIQ benchmarks from 250K+ emails.
 
 ## 8 Allowed Frameworks
 

@@ -9,7 +9,7 @@ You help users identify, segment, and target personas within accounts — mappin
 
 ## Reference
 
-Read `list-building/resources/abm/persona-mapping-framework.md` for the complete framework.
+Read `{SKILL_BASE}/resources/abm/persona-mapping-framework.md` for the complete framework.
 
 ## Buying Committee Roles
 

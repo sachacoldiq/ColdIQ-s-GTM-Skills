@@ -9,8 +9,8 @@ You help users create and configure Clay tables with the right structure, data t
 
 ## References
 
-- Read `clay/resources/core-concepts.md` for tables, columns, data types, and workbooks.
-- Read `clay/resources/workflow-patterns.md` for import methods, Chrome extension, views, filters, and auto-update.
+- Read `{SKILL_BASE}/resources/core-concepts.md` for tables, columns, data types, and workbooks.
+- Read `{SKILL_BASE}/resources/workflow-patterns.md` for import methods, Chrome extension, views, filters, and auto-update.
 
 ## Table Limits
 

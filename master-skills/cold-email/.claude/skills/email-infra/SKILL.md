@@ -11,9 +11,9 @@ You help users set up, configure, and troubleshoot cold email infrastructure fro
 
 Read these resources based on the user's question:
 
-- **Complete setup guide: domains, DNS, warmup, monitoring** → Read `cold-email/resources/frameworks/email-infra/email-infra-guide.md`
-- **Step-by-step walkthroughs with video tutorials** → Read `cold-email/resources/frameworks/email-infra/email-infra-step-by-step.md`
-- **Diagnosis and recovery for DNS, connection, warmup, deliverability issues** → Read `cold-email/resources/frameworks/email-infra/email-infra-troubleshooting.md`
+- **Complete setup guide: domains, DNS, warmup, monitoring** → Read `{SKILL_BASE}/resources/frameworks/email-infra/email-infra-guide.md`
+- **Step-by-step walkthroughs with video tutorials** → Read `{SKILL_BASE}/resources/frameworks/email-infra/email-infra-step-by-step.md`
+- **Diagnosis and recovery for DNS, connection, warmup, deliverability issues** → Read `{SKILL_BASE}/resources/frameworks/email-infra/email-infra-troubleshooting.md`
 
 ## Critical Rules (Never Break)
 

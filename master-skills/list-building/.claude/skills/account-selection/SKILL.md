@@ -9,7 +9,7 @@ You help users build, score, stage, and manage target account lists for ABM camp
 
 ## Reference
 
-Read `list-building/resources/abm/account-selection-framework.md` for the complete framework.
+Read `{SKILL_BASE}/resources/abm/account-selection-framework.md` for the complete framework.
 
 ## Revenue Reverse-Engineering Formula
 

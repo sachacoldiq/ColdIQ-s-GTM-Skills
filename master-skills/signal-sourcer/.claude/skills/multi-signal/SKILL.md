@@ -9,9 +9,9 @@ Multi-signal stacking is the highest-performing outbound strategy: 3+ signals = 
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/signal-scoring.md` for the complete scoring framework (weights, recency, thresholds, SLAs, plays)
-- Read `signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md` for 11 executable GTM plays and multi-channel coordination
-- Read `signal-sourcer/resources/signal-detection-tools.md` for 30-trigger quick reference with detection tools, timing windows, Clay credit costs, signal freshness rules (when signals expire), reliability tiers, and signal sources by data party (1st/2nd/3rd)
+- Read `{SKILL_BASE}/resources/signal-scoring.md` for the complete scoring framework (weights, recency, thresholds, SLAs, plays)
+- Read `{SKILL_BASE}/resources/examples/signal-campaigns/gtm-plays.md` for 11 executable GTM plays and multi-channel coordination
+- Read `{SKILL_BASE}/resources/signal-detection-tools.md` for 30-trigger quick reference with detection tools, timing windows, Clay credit costs, signal freshness rules (when signals expire), reliability tiers, and signal sources by data party (1st/2nd/3rd)
 
 ## Performance Benchmarks
 

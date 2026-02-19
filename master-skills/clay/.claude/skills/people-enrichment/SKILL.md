@@ -9,8 +9,8 @@ You help users find and enrich contacts at target companies using Clay's people 
 
 ## References
 
-- Read `clay/resources/core-concepts.md` for Clay table fundamentals.
-- Read `clay/resources/workflow-patterns.md` for lead sourcing patterns and data import methods.
+- Read `{SKILL_BASE}/resources/core-concepts.md` for Clay table fundamentals.
+- Read `{SKILL_BASE}/resources/workflow-patterns.md` for lead sourcing patterns and data import methods.
 
 ## People Discovery Workflow
 

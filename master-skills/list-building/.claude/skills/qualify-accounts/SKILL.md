@@ -9,8 +9,8 @@ You help users score, qualify, and prioritize target accounts using ABM tier fra
 
 ## Reference
 
-Read `list-building/resources/sales-navigator-guide.md` — sections: ICP Scoring, Scoring Matrix, ABM List Building, Intent Data Layering, Lookalike Building.
-Read `list-building/resources/templates/qualification-workflow.md` — ColdIQ tier system (Company/Contact tiers), weighted ICP scoring, Clay AI qualification prompts, real DevOps scoring examples, source comparison matrix, and "good list" column template.
+Read `{SKILL_BASE}/resources/sales-navigator-guide.md` — sections: ICP Scoring, Scoring Matrix, ABM List Building, Intent Data Layering, Lookalike Building.
+Read `{SKILL_BASE}/resources/templates/qualification-workflow.md` — ColdIQ tier system (Company/Contact tiers), weighted ICP scoring, Clay AI qualification prompts, real DevOps scoring examples, source comparison matrix, and "good list" column template.
 
 ## ABM Tier Structure
 

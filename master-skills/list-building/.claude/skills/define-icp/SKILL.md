@@ -9,7 +9,7 @@ You help users build a precise Ideal Customer Profile with a structured scoring 
 
 ## Reference
 
-Read `list-building/resources/sales-navigator-guide.md` — sections: ICP Framework, ICP Scoring, Scoring Matrix.
+Read `{SKILL_BASE}/resources/sales-navigator-guide.md` — sections: ICP Framework, ICP Scoring, Scoring Matrix.
 
 ## ICP Framework — 3 Layers
 

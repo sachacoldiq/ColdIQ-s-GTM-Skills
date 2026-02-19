@@ -9,8 +9,8 @@ Job changes are the #2 buying signal by purchase correlation. New leaders have a
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/timing/job-change-tracking.md` for Clay setup and tracking methods
-- Read `signal-sourcer/resources/buying-signals.md` for signal ranking and benchmarks
+- Read `{SKILL_BASE}/resources/timing/job-change-tracking.md` for Clay setup and tracking methods
+- Read `{SKILL_BASE}/resources/buying-signals.md` for signal ranking and benchmarks
 
 ## Why Job Changes Work
 

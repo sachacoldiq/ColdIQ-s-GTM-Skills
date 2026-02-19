@@ -9,7 +9,7 @@ You help users set up phone number waterfall enrichment in Clay to find direct d
 
 ## Reference
 
-Read `clay/resources/waterfall-enrichment.md` for waterfall mechanics, provider list, and conditional run setup.
+Read `{SKILL_BASE}/resources/waterfall-enrichment.md` for waterfall mechanics, provider list, and conditional run setup.
 
 ## Key Benchmarks
 

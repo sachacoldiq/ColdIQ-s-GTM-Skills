@@ -9,7 +9,7 @@ Website visitors are the #3 buying signal by purchase correlation. They show act
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/tool-setup-guides.md` for complete setup guides (RB2B, Warmly, Koala, Leadfeeder, 6sense, pixel vs IP comparison)
+- Read `{SKILL_BASE}/resources/tool-setup-guides.md` for complete setup guides (RB2B, Warmly, Koala, Leadfeeder, 6sense, pixel vs IP comparison)
 
 ## Why Website Visitors Work
 

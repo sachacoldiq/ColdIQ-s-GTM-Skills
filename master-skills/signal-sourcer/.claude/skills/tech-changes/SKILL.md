@@ -9,8 +9,8 @@ Tech stack changes are the #4 buying signal by purchase correlation. An active c
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/buying-signals.md` for signal ranking (#4 by purchase correlation)
-- Read `signal-sourcer/resources/signal-taxonomy.md` for adjacent vendor triggers (Category III, items 1-7) and integration signals
+- Read `{SKILL_BASE}/resources/buying-signals.md` for signal ranking (#4 by purchase correlation)
+- Read `{SKILL_BASE}/resources/signal-taxonomy.md` for adjacent vendor triggers (Category III, items 1-7) and integration signals
 
 ## Why Tech Changes Work
 

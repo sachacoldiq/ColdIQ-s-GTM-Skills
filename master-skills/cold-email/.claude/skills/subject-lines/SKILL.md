@@ -15,8 +15,8 @@ You write high-performing subject lines for B2B cold emails. Subject lines shoul
 
 ## Reference
 
-Read `cold-email/resources/frameworks/writing-frameworks.md` for CTA rules and writing principles that apply to subject lines.
-Read `cold-email/resources/prompts/personalization-prompts.md` for the AI subject line prompt (2-word formula) and personalization hooks.
+Read `{SKILL_BASE}/resources/frameworks/writing-frameworks.md` for CTA rules and writing principles that apply to subject lines.
+Read `{SKILL_BASE}/resources/prompts/personalization-prompts.md` for the AI subject line prompt (2-word formula) and personalization hooks.
 
 ## Rules
 

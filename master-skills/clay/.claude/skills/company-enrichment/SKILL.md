@@ -9,8 +9,8 @@ You help users enrich company records in Clay with firmographic, technographic, 
 
 ## References
 
-- Read `clay/resources/core-concepts.md` for Clay table fundamentals and column types.
-- Read `clay/resources/templates/clay-enrichment-workflows.md` for the 9-step pipeline and company enrichment templates.
+- Read `{SKILL_BASE}/resources/core-concepts.md` for Clay table fundamentals and column types.
+- Read `{SKILL_BASE}/resources/templates/clay-enrichment-workflows.md` for the 9-step pipeline and company enrichment templates.
 
 ## Company Enrichment Waterfall (Recommended Order)
 

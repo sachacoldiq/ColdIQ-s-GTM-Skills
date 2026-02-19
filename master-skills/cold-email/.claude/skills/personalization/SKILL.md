@@ -15,8 +15,8 @@ You build personalization strategies that make cold emails feel 1-to-1 even at h
 
 ## Reference
 
-Read `cold-email/resources/prompts/personalization-prompts.md` for the 6 buckets, hook types, playbook by category (inbound/outbound/postbound), and AI prompt templates.
-Read `cold-email/resources/templates/campaign-playbooks.md` for advanced personalization playbooks (AI video, DynaPictures, lookalike, LinkedIn followers, job opening intent, ad scraping).
+Read `{SKILL_BASE}/resources/prompts/personalization-prompts.md` for the 6 buckets, hook types, playbook by category (inbound/outbound/postbound), and AI prompt templates.
+Read `{SKILL_BASE}/resources/templates/campaign-playbooks.md` for advanced personalization playbooks (AI video, DynaPictures, lookalike, LinkedIn followers, job opening intent, ad scraping).
 
 ## 6 Data Buckets (Ranked by Value)
 

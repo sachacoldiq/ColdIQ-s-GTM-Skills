@@ -9,8 +9,8 @@ You help users remove duplicates, merge multi-source data cleanly, and maintain 
 
 ## References
 
-- Read `list-building/resources/data-validation.md` — for verification context and data quality metrics.
-- Read `list-building/resources/templates/beginner-workflow.md` — section: Step 3 (Merge Columns).
+- Read `{SKILL_BASE}/resources/data-validation.md` — for verification context and data quality metrics.
+- Read `{SKILL_BASE}/resources/templates/beginner-workflow.md` — section: Step 3 (Merge Columns).
 
 ## Why Deduplication Matters
 

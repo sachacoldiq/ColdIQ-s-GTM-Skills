@@ -16,7 +16,7 @@ You configure triggers and webhooks to start n8n workflows at the right time wit
 
 ## Reference
 
-For trigger types, webhook details, and authentication → Read `n8n/resources/n8n-core-guide.md`
+For trigger types, webhook details, and authentication → Read `{SKILL_BASE}/resources/n8n-core-guide.md`
 
 ## Trigger Selection Guide
 

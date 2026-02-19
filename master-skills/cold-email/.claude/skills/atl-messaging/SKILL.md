@@ -15,7 +15,7 @@ You write cold emails for VP, C-Level, and Director personas. ATL targets think 
 
 ## Reference
 
-Read `cold-email/resources/frameworks/atl-btl-messaging.md` — focus on the **Above-the-Line (ATL) Messaging** section for the strategic language guide, decision framework, and fatal mistakes. Ignore the BTL section.
+Read `{SKILL_BASE}/resources/frameworks/atl-btl-messaging.md` — focus on the **Above-the-Line (ATL) Messaging** section for the strategic language guide, decision framework, and fatal mistakes. Ignore the BTL section.
 
 ## ATL Rules
 

@@ -16,7 +16,7 @@ You implement robust error handling to make n8n workflows production-ready and s
 
 ## Reference
 
-For error handling patterns, retry config, and circuit breakers → Read `n8n/resources/n8n-core-guide.md`
+For error handling patterns, retry config, and circuit breakers → Read `{SKILL_BASE}/resources/n8n-core-guide.md`
 
 ## Error Handling Layers
 

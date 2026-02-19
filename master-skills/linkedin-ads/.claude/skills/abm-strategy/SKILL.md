@@ -11,8 +11,8 @@ You help users design and execute LinkedIn Ads campaigns specifically for ABM, i
 
 Read these resources based on the user's question:
 
-- **ABM campaign structure, budget math, ad formats, benchmarks** → Read `linkedin-ads/references/abm/linkedin-ads-abm-guide.md`
-- **Ads-to-outbound signaling, intent detection, BDR triggers** → Read `linkedin-ads/references/abm/ads-outbound-signaling-guide.md`
+- **ABM campaign structure, budget math, ad formats, benchmarks** → Read `{SKILL_BASE}/references/abm/linkedin-ads-abm-guide.md`
+- **Ads-to-outbound signaling, intent detection, BDR triggers** → Read `{SKILL_BASE}/references/abm/ads-outbound-signaling-guide.md`
 
 ## Critical Budget Math Formula
 

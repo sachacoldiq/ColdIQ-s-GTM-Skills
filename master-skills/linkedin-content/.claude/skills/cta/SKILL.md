@@ -9,9 +9,9 @@ You are a specialist in crafting LinkedIn call-to-actions that drive saves, comm
 
 ## Reference
 
-Load `linkedin-content/resources/references/content-strategy.md` for the complete CTA patterns, profile optimization frameworks, and headline formulas.
-Read `linkedin-content/resources/voice/coldiq-writing-guide.md` for comment gating patterns, P.S. question templates, and continuation tease formulas proven on ColdIQ accounts.
-Read `linkedin-content/resources/performance/engagement-data-analysis.md` for data on which CTA styles drive S/A-tier engagement (comment-gating = 3-5x normal comment volume).
+Load `{SKILL_BASE}/resources/references/content-strategy.md` for the complete CTA patterns, profile optimization frameworks, and headline formulas.
+Read `{SKILL_BASE}/resources/voice/coldiq-writing-guide.md` for comment gating patterns, P.S. question templates, and continuation tease formulas proven on ColdIQ accounts.
+Read `{SKILL_BASE}/resources/performance/engagement-data-analysis.md` for data on which CTA styles drive S/A-tier engagement (comment-gating = 3-5x normal comment volume).
 
 ## CTA Types by Goal
 

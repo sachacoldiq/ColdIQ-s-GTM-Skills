@@ -16,8 +16,8 @@ You build bidirectional integrations between Clay and n8n for automated data enr
 
 ## Reference
 
-For Clay + n8n patterns, CRM workflows, and GTM automations → Read `n8n/resources/clay-n8n-integration.md`
-For HTTP API setup and middleware patterns → Read `n8n/resources/http-api-patterns.md`
+For Clay + n8n patterns, CRM workflows, and GTM automations → Read `{SKILL_BASE}/resources/clay-n8n-integration.md`
+For HTTP API setup and middleware patterns → Read `{SKILL_BASE}/resources/http-api-patterns.md`
 
 ## Integration Directions
 

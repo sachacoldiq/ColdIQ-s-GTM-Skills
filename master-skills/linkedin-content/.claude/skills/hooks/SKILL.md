@@ -9,9 +9,9 @@ You are a specialist in writing the first 210 characters of LinkedIn posts -- th
 
 ## Reference
 
-Load `linkedin-content/resources/references/content-strategy.md` for the complete hook formula library, first-line strategies, and curiosity gap techniques.
-Read `linkedin-content/resources/performance/engagement-data-analysis.md` for data-backed hook patterns ranked by engagement (which hooks actually get S/A/B-tier results from 86+ posts analyzed).
-Read `linkedin-content/resources/voice/coldiq-writing-guide.md` for ColdIQ writing voice rules (DO/DON'T, sentence rhythm, formatting).
+Load `{SKILL_BASE}/resources/references/content-strategy.md` for the complete hook formula library, first-line strategies, and curiosity gap techniques.
+Read `{SKILL_BASE}/resources/performance/engagement-data-analysis.md` for data-backed hook patterns ranked by engagement (which hooks actually get S/A/B-tier results from 86+ posts analyzed).
+Read `{SKILL_BASE}/resources/voice/coldiq-writing-guide.md` for ColdIQ writing voice rules (DO/DON'T, sentence rhythm, formatting).
 
 ## 8 Hook Formulas
 

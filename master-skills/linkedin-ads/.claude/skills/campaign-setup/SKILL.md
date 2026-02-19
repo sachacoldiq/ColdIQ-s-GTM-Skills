@@ -17,8 +17,8 @@ You architect LinkedIn Ads campaigns with proper funnel structure, retargeting s
 
 ## Reference
 
-For funnel architecture, retargeting windows, and testing framework → Read `linkedin-ads/references/funnel-architecture.md`
-For objective selection by ad type → Read `linkedin-ads/references/bidding-objectives.md`
+For funnel architecture, retargeting windows, and testing framework → Read `{SKILL_BASE}/references/funnel-architecture.md`
+For objective selection by ad type → Read `{SKILL_BASE}/references/bidding-objectives.md`
 
 ## Three-Layer Funnel
 

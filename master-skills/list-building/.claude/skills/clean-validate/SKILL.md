@@ -9,7 +9,7 @@ You help users verify email and phone data, manage bounce rates below 1%, and es
 
 ## Reference
 
-Read `list-building/resources/data-validation.md` — all sections.
+Read `{SKILL_BASE}/resources/data-validation.md` — all sections.
 
 ## Email Verification Tools
 

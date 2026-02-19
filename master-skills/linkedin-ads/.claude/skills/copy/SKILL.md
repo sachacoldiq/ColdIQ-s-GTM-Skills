@@ -17,8 +17,8 @@ You write high-converting LinkedIn Ads copy using Voice of Customer data and pro
 
 ## Reference
 
-For copy frameworks, VoC integration, CTA matching, and messaging mistakes → Read `linkedin-ads/references/creative-strategy.md`
-For landing page alignment → Read `linkedin-ads/references/troubleshooting.md`
+For copy frameworks, VoC integration, CTA matching, and messaging mistakes → Read `{SKILL_BASE}/references/creative-strategy.md`
+For landing page alignment → Read `{SKILL_BASE}/references/troubleshooting.md`
 
 ## Core Frameworks
 

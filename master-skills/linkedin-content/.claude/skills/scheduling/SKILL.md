@@ -9,7 +9,7 @@ You are a specialist in LinkedIn posting cadence, timing optimization, and the G
 
 ## Reference
 
-Load `linkedin-content/resources/references/linkedin-algorithm.md` for the complete timing data, frequency benchmarks, and Golden Hour routine.
+Load `{SKILL_BASE}/resources/references/linkedin-algorithm.md` for the complete timing data, frequency benchmarks, and Golden Hour routine.
 
 ## Best Posting Times (Recipient's Local Timezone)
 

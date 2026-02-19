@@ -9,7 +9,7 @@ You help users find and import target companies from the best data sources for t
 
 ## Reference
 
-Read `list-building/resources/lead-sources-guide.md` — all sections.
+Read `{SKILL_BASE}/resources/lead-sources-guide.md` — all sections.
 
 ## 3 Categories of Company Sources
 

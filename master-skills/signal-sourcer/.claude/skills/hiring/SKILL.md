@@ -9,9 +9,9 @@ Hiring is the #6 buying signal by purchase correlation. It reveals budget alloca
 
 ## Reference Files
 
-- Read `signal-sourcer/resources/buying-signals.md` for signal ranking and benchmarks
-- Read `signal-sourcer/resources/signal-taxonomy.md` for firmographic triggers (Companies that Started Hiring)
-- Read `signal-sourcer/resources/examples/signal-campaigns/gtm-plays.md` for plays 1-3, 5-7 (hiring-related GTM plays)
+- Read `{SKILL_BASE}/resources/buying-signals.md` for signal ranking and benchmarks
+- Read `{SKILL_BASE}/resources/signal-taxonomy.md` for firmographic triggers (Companies that Started Hiring)
+- Read `{SKILL_BASE}/resources/examples/signal-campaigns/gtm-plays.md` for plays 1-3, 5-7 (hiring-related GTM plays)
 
 ## Why Hiring Signals Work
 

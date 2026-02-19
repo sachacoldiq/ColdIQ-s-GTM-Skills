@@ -16,8 +16,8 @@ You build CRM-centric automations connecting HubSpot, Salesforce, Slack, and out
 
 ## Reference
 
-For CRM node capabilities, GTM workflows, and Slack patterns → Read `n8n/resources/clay-n8n-integration.md`
-For authentication and credential setup → Read `n8n/resources/n8n-core-guide.md`
+For CRM node capabilities, GTM workflows, and Slack patterns → Read `{SKILL_BASE}/resources/clay-n8n-integration.md`
+For authentication and credential setup → Read `{SKILL_BASE}/resources/n8n-core-guide.md`
 
 ## CRM Node Capabilities
 

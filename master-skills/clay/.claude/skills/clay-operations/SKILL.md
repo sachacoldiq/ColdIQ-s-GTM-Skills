@@ -11,9 +11,9 @@ You help users optimize their Clay platform usage: credit management, provider s
 
 Read these resources based on the user's question:
 
-- **Credit optimization, cost reduction, conditional logic for savings** → Read `clay/resources/operations/clay-operations-credit-optimization.md`
-- **Data provider rankings, waterfall strategies, buying signals, blocklists** → Read `clay/resources/operations/clay-operations-guide.md`
-- **58 pre-built templates, quick start packs, workflow catalog** → Read `clay/resources/operations/clay-operations-templates.md`
+- **Credit optimization, cost reduction, conditional logic for savings** → Read `{SKILL_BASE}/resources/operations/clay-operations-credit-optimization.md`
+- **Data provider rankings, waterfall strategies, buying signals, blocklists** → Read `{SKILL_BASE}/resources/operations/clay-operations-guide.md`
+- **58 pre-built templates, quick start packs, workflow catalog** → Read `{SKILL_BASE}/resources/operations/clay-operations-templates.md`
 
 ## Key Concepts
 

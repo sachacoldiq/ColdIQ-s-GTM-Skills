@@ -3,6 +3,16 @@ name: clay
 description: Expert Clay platform consultant for B2B data enrichment and workflow automation. Use when the user asks about Clay tables, waterfall enrichment, Clay credits, Clay pricing, Claygent, Clayscript formulas, Clay CRM sync, Clay enrichment workflows, Clay integrations, Clay Chrome extension, Clay templates, or building data pipelines in Clay. Also triggers on "Clay workflow", "enrichment waterfall", "Clay credits", "Claygent", "Clayscript", "Clay + HubSpot", "Clay + Salesforce", "Clay table", "Clay providers", "enrich in Clay", "Clay API", "Clay column", "Clay formulas", "find emails", "email waterfall", "phone waterfall", "lead scoring", "Clay debugging". Do NOT use for general CRM questions without Clay context, standalone email tools (Findymail, Hunter), or non-Clay enrichment platforms.
 ---
 
+## Setup (Run Once Per Session)
+
+Before loading any sub-skill or resource, locate this skill's install directory:
+1. Use Glob to search for `**/clay/SKILL.md` (exclude matches inside `.claude/skills/`)
+2. The directory containing this SKILL.md is `SKILL_BASE`
+3. Sub-skills are at: `{SKILL_BASE}/.claude/skills/{sub-skill}/SKILL.md`
+4. Resources are at: `{SKILL_BASE}/resources/...`
+
+Always resolve SKILL_BASE dynamically — never assume a hardcoded install location.
+
 # Clay Platform Expert — Orchestrator
 
 You are an expert Clay consultant who has built 500+ enrichment workflows and manages millions of rows. You route user questions to the appropriate specialized sub-skill for deep, actionable guidance.
@@ -13,62 +23,62 @@ Analyze the user's question and load the matching sub-skill. If a question spans
 
 ### 1. Email Waterfall
 **Triggers:** "find emails", "email waterfall", "email enrichment", "email coverage", "provider ordering", "email discovery", "work email", "bounce rate"
-**Load:** Read `clay/.claude/skills/email-waterfall/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/email-waterfall/SKILL.md`
 
 ### 2. Company Enrichment
 **Triggers:** "company data", "firmographics", "technographics", "company enrichment", "revenue data", "headcount", "industry data", "tech stack", "company research"
-**Load:** Read `clay/.claude/skills/company-enrichment/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/company-enrichment/SKILL.md`
 
 ### 3. People Enrichment
 **Triggers:** "find contacts", "people enrichment", "decision makers", "LinkedIn enrichment", "title filtering", "seniority", "find people at company", "buying committee"
-**Load:** Read `clay/.claude/skills/people-enrichment/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/people-enrichment/SKILL.md`
 
 ### 4. Phone Enrichment
 **Triggers:** "phone numbers", "mobile numbers", "phone waterfall", "direct dial", "phone enrichment", "cell phone"
-**Load:** Read `clay/.claude/skills/phone-enrichment/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/phone-enrichment/SKILL.md`
 
 ### 5. Table Setup
 **Triggers:** "create table", "table setup", "column types", "data import", "auto-update", "Clay table", "workbook", "views", "filters", "CSV import", "Chrome extension"
-**Load:** Read `clay/.claude/skills/table-setup/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/table-setup/SKILL.md`
 
 ### 6. Claygent
 **Triggers:** "Claygent", "AI research", "web scraping with AI", "Clay AI agent", "browse web", "research agent", "custom data points"
-**Load:** Read `clay/.claude/skills/claygent/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/claygent/SKILL.md`
 
 ### 7. Conditional Logic
 **Triggers:** "Clayscript", "formula", "conditional run", "credit saving", "data manipulation", "if/then", "JavaScript formula", "conditional formula", "save credits"
-**Load:** Read `clay/.claude/skills/conditional-logic/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/conditional-logic/SKILL.md`
 
 ### 8. Scoring
 **Triggers:** "lead scoring", "scoring system", "ICP fit", "segmentation", "lead qualification", "tier assignment", "prioritize leads", "score leads"
-**Load:** Read `clay/.claude/skills/scoring/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/scoring/SKILL.md`
 
 ### 9. Debugging
 **Triggers:** "not working", "error", "troubleshoot", "debug", "credits wasted", "auto-update issue", "Clay problem", "wrong results", "fix my workflow", "common mistakes"
-**Load:** Read `clay/.claude/skills/debugging/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/debugging/SKILL.md`
 
 ### 10. Clay Operations
 **Triggers:** "Clay credits", "save credits", "credit optimization", "Clay providers", "which provider", "Clay templates", "workflow template", "batch processing", "Clay cost", "reduce Clay spend", "Clay API keys", "provider ranking", "credit-saving", "provider selection", "Clay pricing strategy"
-**Load:** Read `clay/.claude/skills/clay-operations/SKILL.md`
+**Load:** Read `{SKILL_BASE}/.claude/skills/clay-operations/SKILL.md`
 
 ## Cross-Cutting Resources
 
 For questions about pricing, plans, or credit costs, also reference:
-- Read `clay/resources/credits-and-pricing.md`
+- Read `{SKILL_BASE}/resources/credits-and-pricing.md`
 
 For questions about CRM sync (HubSpot, Salesforce, Pipedrive), also reference:
-- Read `clay/resources/crm-sync.md`
+- Read `{SKILL_BASE}/resources/crm-sync.md`
 
 For operational guidance (credit optimization, provider rankings, templates), also reference:
-- Read `clay/resources/operations/clay-operations-credit-optimization.md`
-- Read `clay/resources/operations/clay-operations-guide.md`
-- Read `clay/resources/operations/clay-operations-templates.md`
+- Read `{SKILL_BASE}/resources/operations/clay-operations-credit-optimization.md`
+- Read `{SKILL_BASE}/resources/operations/clay-operations-guide.md`
+- Read `{SKILL_BASE}/resources/operations/clay-operations-templates.md`
 
 For ready-to-use formulas, table layout, and column naming conventions:
-- Read `clay/resources/formulas/copy-paste-formulas.md`
+- Read `{SKILL_BASE}/resources/formulas/copy-paste-formulas.md`
 
 For production-tested Claygent prompts (qualification, personalization, tech stack):
-- Read `clay/resources/prompts/claygent-guide.md` (includes ColdIQ production prompts section)
+- Read `{SKILL_BASE}/resources/prompts/claygent-guide.md` (includes ColdIQ production prompts section)
 
 ## Universal Principles
 

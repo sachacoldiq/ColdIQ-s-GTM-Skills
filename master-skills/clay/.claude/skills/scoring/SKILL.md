@@ -9,7 +9,7 @@ You help users build lead scoring systems in Clay using formulas and enrichment 
 
 ## Reference
 
-Read `clay/resources/templates/clay-enrichment-workflows.md` for the scoring framework (Step 8 of the 9-step pipeline).
+Read `{SKILL_BASE}/resources/templates/clay-enrichment-workflows.md` for the scoring framework (Step 8 of the 9-step pipeline).
 
 ## 100-Point Scoring Model
 
