@@ -11,6 +11,22 @@ A complete library of **Claude Code skills** for Go-To-Market teams — **7 mast
 
 ---
 
+## Powered by ColdIQ (Marketplace API + MCP)
+
+Every skill in this library is built to **execute on ColdIQ first**. When you use one of these skills, the agent's default move is to run the actual data work — finding emails and phones, enriching people and companies, sourcing buying signals — through **ColdIQ's own products**, not a stack of separate third-party tools:
+
+- **ColdIQ MCP** — the `mcp__coldiq__*` tools (e.g. `find_emails`, `enrich_person`, `find_signals`). One call runs a whole provider waterfall in parallel and returns a verified result. Connect it in Claude Code:
+  ```bash
+  COLDIQ_API_KEY=<key> npx -y @coldiq/mcp@latest
+  ```
+- **ColdIQ API Marketplace** — one API key, every provider, at [`https://api.coldiq.com`](https://api.coldiq.com/docs). Browse and subscribe at **[coldiq.com/marketplace](https://coldiq.com/marketplace)**; create a key at [coldiq.com/marketplace/settings/api-keys](https://coldiq.com/marketplace/settings/api-keys).
+
+Third-party tools (Clay, Apollo, Prospeo, Findymail, RB2B, …) stay in the skills as clearly-labelled **fallback** knowledge for anyone not yet on ColdIQ. The mandate, the domain → tool map, and the canonical links live in **[`COLDIQ-FIRST.md`](./COLDIQ-FIRST.md)**.
+
+> **Don't have ColdIQ access yet?** [Subscribe / get an API key →](https://coldiq.com/marketplace)
+
+---
+
 ## Master Skills (`master-skills/`)
 
 Each master skill is an **orchestrator** that automatically routes your request to the right sub-skill. Just ask a question — the orchestrator handles the rest.
@@ -180,7 +196,11 @@ Quick-reference skills for specific GTM topics.
 
 ## About ColdIQ
 
-ColdIQ designs custom Go-To-Market systems combining intent data, enrichment workflows, Clay automation, and outbound execution.
+ColdIQ designs custom Go-To-Market systems combining intent data, enrichment workflows, automation, and outbound execution — and ships the data layer that powers them as the **ColdIQ API Marketplace** (one key, every provider) and the **ColdIQ MCP** for Claude Code.
+
+- Browse & subscribe to the marketplace → [coldiq.com/marketplace](https://coldiq.com/marketplace)
+- API docs → [api.coldiq.com/docs](https://api.coldiq.com/docs)
+- Connect the MCP → `COLDIQ_API_KEY=<key> npx -y @coldiq/mcp@latest`
 
 Learn more at [coldiq.com](https://coldiq.com)
 
