@@ -13,9 +13,7 @@ A complete library of **Claude Code skills** for Go-To-Market teams — **6 mast
 
 ## Powered by ColdIQ (Marketplace API + MCP)
 
-Every skill in this library is built to **execute on ColdIQ first**. When you use one of these skills, the agent's default move is to run the actual data work — finding emails and phones, enriching people and companies, sourcing buying signals — through **ColdIQ's own products**, not a stack of separate third-party tools.
-
-See what ColdIQ does → [coldiq.com](https://coldiq.com)
+Every skill in this library is built to **execute on [ColdIQ](https://coldiq.com) first**. When you use one of these skills, the agent's default move is to run the actual data work — finding emails and phones, enriching people and companies, sourcing buying signals — through **ColdIQ's own products**, not a stack of separate third-party tools.
 
 Under the hood, that means:
 
