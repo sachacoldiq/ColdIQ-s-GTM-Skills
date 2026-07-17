@@ -15,9 +15,7 @@ A complete library of **Claude Code skills** for Go-To-Market teams — **6 mast
 
 Every skill in this library is built to **execute on ColdIQ first**. When you use one of these skills, the agent's default move is to run the actual data work — finding emails and phones, enriching people and companies, sourcing buying signals — through **ColdIQ's own products**, not a stack of separate third-party tools.
 
-<p align="center">
-  <a href="https://coldiq.com"><img src="https://img.shields.io/badge/%E2%96%B6%20See%20what%20ColdIQ%20does-coldiq.com-E8552D?style=for-the-badge&labelColor=1A1A1A" alt="See what ColdIQ does — coldiq.com"></a>
-</p>
+See what ColdIQ does → [coldiq.com](https://coldiq.com)
 
 Under the hood, that means:
 
