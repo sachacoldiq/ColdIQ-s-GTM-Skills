@@ -93,7 +93,6 @@ Worth another look?
 |-------|-----|
 | `cold-email-templates-34` | Re-engagement templates (#31-34) |
 | `buying-signals-6` | Champion tracking (signal #1) |
-| `clay-enrichment-9step` | Track job changes in Clay |
 | `cold-call-scripts` | No-show phone script |
 
 ## Example prompts

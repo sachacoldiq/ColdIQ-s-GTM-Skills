@@ -81,7 +81,6 @@ Monitor daily, filter to ICP via Clay, outreach within 24-48h.
 | Skill | Why |
 |-------|-----|
 | `buying-signals-6` | Understand signal strength per play |
-| `clay-enrichment-9step` | Automate play execution in Clay |
 | `cold-email-templates-34` | Get templates for each play |
 | `bridgebound-in-market-20` | Deep-dive on in-market signals |
 

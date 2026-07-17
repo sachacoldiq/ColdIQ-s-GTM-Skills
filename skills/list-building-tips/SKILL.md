@@ -99,9 +99,7 @@ Before launching any campaign:
 | Skill | Why |
 |-------|-----|
 | `lead-sources-guide` | Choose right sources |
-| `clay-enrichment-9step` | Full enrichment workflow |
 | `email-metrics-benchmarks` | Track deliverability |
-| `clay-buying-signals-5` | Add signals to lists |
 
 ## Example prompts
 

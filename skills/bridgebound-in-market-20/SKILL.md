@@ -87,7 +87,6 @@ Cheers,
 | Skill | Why |
 |-------|-----|
 | `buying-signals-6` | Tech stack change signal |
-| `clay-buying-signals-5` | Detect tech changes in Clay |
 | `gtm-plays-11` | Play #8 (Bad Reviews) |
 | `cold-email-templates-34` | Competitor switch templates |
 

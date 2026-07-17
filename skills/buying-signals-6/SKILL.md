@@ -114,7 +114,6 @@ Then use the detail below for timing and correlation.
 
 | Skill | Why |
 |-------|-----|
-| `clay-buying-signals-5` | Implement signals in Clay workflows |
 | `gtm-plays-11` | Match signals to specific GTM plays |
 | `cold-email-4-sequence` | Build sequences around each signal |
 | `bridgebound-in-market-20` | Deep-dive on in-market triggers |
