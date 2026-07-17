@@ -88,7 +88,6 @@ Worth a quick chat about what worked?
 | Skill | Why |
 |-------|-----|
 | `buying-signals-6` | Expansion signal (#5) |
-| `clay-buying-signals-5` | Funding & hiring detection |
 | `cold-email-templates-34` | Templates #20, #22 |
 | `gtm-plays-11` | Play #1 (New Team Members) |
 

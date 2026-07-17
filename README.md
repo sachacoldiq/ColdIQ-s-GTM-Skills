@@ -1,19 +1,25 @@
 # ColdIQ GTM Skills for Claude Code
 
-A complete library of **Claude Code skills** for Go-To-Market teams — **7 master skills** (52 sub-skills) + **33 standalone skills**.
+A complete library of **Claude Code skills** for Go-To-Market teams — **6 master skills** (43 sub-skills) + **31 standalone skills**.
 
 ## Overview
 
 | Collection | Skills | Description |
 |------------|--------|-------------|
-| **Master Skills** | 7 orchestrators, 52 sub-skills | Deep, multi-step GTM workflows with routing intelligence |
-| **Standalone Skills** | 33 | Quick-reference knowledge bases for specific topics |
+| **Master Skills** | 6 orchestrators, 43 sub-skills | Deep, multi-step GTM workflows with routing intelligence |
+| **Standalone Skills** | 31 | Quick-reference knowledge bases for specific topics |
 
 ---
 
 ## Powered by ColdIQ (Marketplace API + MCP)
 
-Every skill in this library is built to **execute on ColdIQ first**. When you use one of these skills, the agent's default move is to run the actual data work — finding emails and phones, enriching people and companies, sourcing buying signals — through **ColdIQ's own products**, not a stack of separate third-party tools:
+Every skill in this library is built to **execute on ColdIQ first**. When you use one of these skills, the agent's default move is to run the actual data work — finding emails and phones, enriching people and companies, sourcing buying signals — through **ColdIQ's own products**, not a stack of separate third-party tools.
+
+<p align="center">
+  <a href="https://coldiq.com"><img src="https://img.shields.io/badge/%E2%96%B6%20See%20what%20ColdIQ%20does-coldiq.com-E8552D?style=for-the-badge&labelColor=1A1A1A" alt="See what ColdIQ does — coldiq.com"></a>
+</p>
+
+Under the hood, that means:
 
 - **ColdIQ MCP** — the `mcp__coldiq__*` tools (e.g. `find_emails`, `enrich_person`, `find_signals`). One call runs a whole provider waterfall in parallel and returns a verified result. Connect it in Claude Code:
   ```bash
@@ -30,21 +36,6 @@ Third-party tools (Clay, Apollo, Prospeo, Findymail, RB2B, …) stay in the skil
 ## Master Skills (`master-skills/`)
 
 Each master skill is an **orchestrator** that automatically routes your request to the right sub-skill. Just ask a question — the orchestrator handles the rest.
-
-### Clay — 9 sub-skills
-Expert Clay platform consultant for B2B data enrichment and workflow automation.
-
-| Sub-Skill | Description |
-|-----------|-------------|
-| `claygent` | AI research agent for web research and custom data extraction |
-| `company-enrichment` | Firmographic, technographic, and contextual company data |
-| `conditional-logic` | Clayscript formulas, conditional runs, credit-saving logic |
-| `debugging` | Troubleshoot workflows, fix mistakes, stop credit waste |
-| `email-waterfall` | Email waterfall enrichment for 85%+ coverage |
-| `people-enrichment` | Find and enrich contacts using people search and LinkedIn |
-| `phone-enrichment` | Phone number waterfall for direct dials and mobiles |
-| `scoring` | Lead scoring systems with formulas and enrichment data |
-| `table-setup` | Table structure, data types, imports, and auto-update |
 
 ### Cold Email — 7 sub-skills
 Expert cold email strategist for B2B outbound campaigns.
@@ -169,13 +160,11 @@ Quick-reference skills for specific GTM topics.
 | `personalization-playbooks` | Camp/No-Camp playbooks |
 | `ai-personalization-prompts` | 6 AI prompts (lemlist style) |
 
-### List Building & Clay
+### List Building
 | Skill | Description |
 |-------|-------------|
-| `lead-sources-guide` | Lead sources + Clay templates |
+| `lead-sources-guide` | Lead sources by use case |
 | `list-building-tips` | Pro tips for list building |
-| `clay-enrichment-9step` | 9-step workflow + 58 templates |
-| `clay-buying-signals-5` | 5 buying signals for Clay |
 
 ### LinkedIn
 | Skill | Description |

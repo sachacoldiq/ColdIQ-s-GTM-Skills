@@ -108,9 +108,7 @@ Vayne → Sales Nav → Import Template
 
 | Skill | Why |
 |-------|-----|
-| `clay-enrichment-9step` | Enrich leads after sourcing |
 | `list-building-tips` | Apply quality principles |
-| `clay-buying-signals-5` | Add signals to sourced leads |
 | `buying-signals-6` | Prioritize by signal strength |
 
 ## Example prompts

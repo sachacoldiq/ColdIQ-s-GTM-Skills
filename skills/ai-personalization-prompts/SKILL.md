@@ -65,7 +65,6 @@ Then generate the variables using the prompts below.
 
 | Skill | Why |
 |-------|-----|
-| `clay-enrichment-9step` | Run prompts via Claygent |
 | `personalization-6-buckets` | Know what data to feed prompts |
 | `cold-email-templates-34` | Use outputs in email templates |
 | `coldiq-messaging-templates` | Combine with case study template |
