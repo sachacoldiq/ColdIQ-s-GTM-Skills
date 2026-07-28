@@ -1,0 +1,156 @@
+- cta-1 — Centered CTA block with radial glow background
+- cta-2 — Split layout CTA block with text and illustration
+- cta-3 — Compact banner CTA block
+- faq-1 — FAQ grid block with categorized tabs and icons
+- faq-2 — FAQ accordion block with expandable questions
+- faq-3 — Searchable FAQ section with filter animations
+- faq-4 — Categorized FAQ section with tab navigation
+- features-1 — Feature grid block with animated cards
+- features-2 — Bento grid features block with asymmetric layout
+- features-3 — Alternating features block with side-by-side layout
+- footer-1 — Simple footer block with links and social icons
+- footer-2 — Complex footer block with newsletter and extended links
+- footer-3 — Mega footer with newsletter and social links
+- footer-4 — Minimal single-row footer
+- header-1 — Modern header block with navigation and mobile menu
+- header-2 — Premium header block with gradient logo and smooth animations
+- header-3 — Premium header block with gradient logo and smooth animations
+- header-4 — Interactive 3D grid hero header inspired by rauno.me 2024
+- header-5 — Spotlight hero block with dark theme and gradient text
+- header-6 — Minimal hero block with clean typography
+- logo-cloud-1 — Simple logo cloud block with grid layout
+- logo-cloud-2 — Animated logo cloud block with infinite scroll
+- logo-cloud-3 — Infinite scrolling logo marquee
+- logo-cloud-4 — Interactive logo grid with hover effects
+- pricing-1 — Simple pricing block with single plan
+- pricing-2 — Modern pricing block with three tiers
+- pricing-3 — Creative pricing block with two plans
+- shared — Shared components for SmoothUI blocks
+- stats-1 — Grid stats section block with hover effects
+- stats-2 — Cards stats section block with icons and trends
+- team-1 — Grid team section block with hover effects
+- team-2 — Carousel team section block with auto-play
+- testimonials-1 — Simple testimonials block with auto-rotating cards
+- testimonials-2 — Grid testimonials block with navigation arrows
+- testimonials-3 — Star testimonials block with grid layout
+- agent-avatar — Canvas-based generative pixel avatar for AI agents, unique per seed.
+- ai-branch — An interactive AI branch component for displaying conversation flows.
+- ai-input — A AiInput component for SmoothUI.
+- animated-avatar-group — Stack of overlapping avatars with smooth expand/collapse animation
+- animated-file-upload — Animated drag-and-drop file upload component
+- animated-input — A AnimatedInput component for SmoothUI.
+- animated-o-t-p-input — A AnimatedOTPInput component for SmoothUI.
+- animated-progress-bar — A AnimatedProgressBar component for SmoothUI.
+- animated-stepper — Animated stepper/wizard component with step transitions
+- animated-tabs — Animated tabs component with sliding indicator
+- animated-tags — A AnimatedTags component for SmoothUI.
+- animated-toggle — Animated toggle switch with morph and icon variants
+- animated-tooltip — Spring-animated tooltip with multiple placement options
+- aperture-blur-transition — Persistent WebGL shader transition wrapper that swaps content behind a cinematic aperture 
+- app-download-stack — A AppDownloadStack component for SmoothUI.
+- apple-invites — A AppleInvites component for SmoothUI.
+- basic-accordion — A BasicAccordion component for SmoothUI.
+- basic-dropdown — A BasicDropdown component for SmoothUI.
+- basic-modal — A BasicModal component for SmoothUI.
+- basic-toast — A BasicToast component for SmoothUI.
+- blur-out-up — A BlurOutUp text animation component for SmoothUI.
+- book — A 3D CSS book component with perspective transforms and hover animation
+- bottom-up-letters — A BottomUpLetters text animation component for SmoothUI.
+- breadcrumb — Animated breadcrumb navigation with stagger-in animation
+- button-copy — A ButtonCopy component for SmoothUI.
+- checkbox — An animated Checkbox component for SmoothUI with checkmark and indeterminate state animati
+- chroma-blur-transition — Persistent WebGL shader transition wrapper that swaps content under a soft chromatic blur 
+- clip-corners-button — A ClipCornersButton component for SmoothUI.
+- combobox — An animated Combobox component for SmoothUI with text filtering, async search, and keyboar
+- context-menu — An animated Context Menu component for SmoothUI with spring animations, nested submenus, a
+- contribution-graph — A ContributionGraph component for SmoothUI.
+- cursor-follow — A CursorFollow component for SmoothUI.
+- depth-parallax-words — A DepthParallaxWords text animation component for SmoothUI.
+- dialog — Animated Dialog and AlertDialog components for SmoothUI.
+- dot-morph-button — A DotMorphButton component for SmoothUI.
+- drawer — An animated Drawer component for SmoothUI that slides from any side.
+- dropdown-menu — An animated Dropdown Menu component for SmoothUI with spring animations, nested submenus, 
+- dynamic-island — A DynamicIsland component for SmoothUI.
+- expandable-cards — A ExpandableCards component for SmoothUI.
+- exposure-slider — iOS-style exposure slider with draggable ticker and progress ring
+- fade-through — A FadeThrough text animation component for SmoothUI.
+- figma-comment — A FigmaComment component for SmoothUI.
+- focus-blur-resolve — A FocusBlurResolve text animation component for SmoothUI.
+- form — A lightweight, composable Form component with animated error messages and full accessibili
+- github-stars-animation — A GitHubStarsAnimation component for SmoothUI.
+- glow-hover-card — A GlowHoverCards component for SmoothUI.
+- gooey-popover — A GooeyPopover component for SmoothUI.
+- grid-loader — 3x3 grid-based loading animation with preset patterns
+- image-metadata-preview — A ImageMetadataPreview component for SmoothUI.
+- infinite-slider — A InfiniteSlider component for SmoothUI.
+- interactive-image-selector — A InteractiveImageSelector component for SmoothUI.
+- job-listing-component — A JobListingComponent component for SmoothUI.
+- kinetic-center-build — A KineticCenterBuild text animation component for SmoothUI.
+- line-by-line-slide — A LineByLineSlide text animation component for SmoothUI.
+- magnetic-button — Button that subtly follows the cursor with magnetic effect
+- mask-reveal-up — A MaskRevealUp text animation component for SmoothUI.
+- micro-scale-fade — A MicroScaleFade text animation component for SmoothUI.
+- notification-badge — Animated notification badge with count and status variants
+- number-flow — A NumberFlow component for SmoothUI.
+- organic-merge-transition — A soft-min SDF merge transition with two organic expanding shapes.
+- pagination — Animated pagination with spring-based active page indicator
+- per-character-rise — A PerCharacterRise text animation component for SmoothUI.
+- per-word-crossfade — A PerWordCrossfade text animation component for SmoothUI.
+- photo-stack — A PhotoStack component for SmoothUI.
+- phototab — A Phototab component for SmoothUI.
+- power-off-slide — A PowerOffSlide component for SmoothUI.
+- price-flow — A PriceFlow component for SmoothUI.
+- prism-sweep-transition — A persistent WebGL prism sweep transition wrapper for route and state changes.
+- product-card — Animated product card component for ecommerce
+- radial-circles-transition — A radial SDF circle pattern transition inspired by the Codrops radial circles step.
+- radio-group — An animated Radio Group component for SmoothUI with selection indicator spring animation.
+- reveal-text — A RevealText component for SmoothUI.
+- reviews-carousel — A ReviewsCarousel component for SmoothUI.
+- rich-popover — A RichPopover component for SmoothUI.
+- scale-down-fade — A ScaleDownFade text animation component for SmoothUI.
+- scramble-hover — A ScrambleHover component for SmoothUI.
+- scroll-reveal-paragraph — A ScrollRevealParagraph component for SmoothUI.
+- scrollable-card-stack — A ScrollableCardStack component for SmoothUI.
+- scrubber — Design-tool style scrubber slider with animated thumb and built-in label
+- sdf-blob-transition — A persistent WebGL SDF blob transition wrapper for route and state changes.
+- sdf-circle-transition — A clean SDF circle reveal based on the first Codrops shader step.
+- searchable-dropdown — A SearchableDropdown component for SmoothUI.
+- select — An animated Select dropdown component for SmoothUI wrapping Radix Select with smooth anima
+- shader-reveal-circle-transition — Demo 3 adaptation: noisy circular reveal with radial interpolation.
+- shader-reveal-luma-transition — Demo 5 adaptation: luminance-style vertical displacement translated into a shader overlay.
+- shader-reveal-noise-transition — Demo 1 adaptation: 4D-noise threshold transition with an organic shader gate.
+- shader-reveal-planetary-transition — Demo 6 adaptation: rotated displacement vectors with a planetary swirl feel.
+- shader-reveal-push-transition — Demo 8 adaptation: procedural noise push/pull displacement.
+- shader-reveal-stripes-transition — Demo 7 adaptation: divided UV stripe displacement with diagonal motion.
+- shader-reveal-transition — A shared WebGL transition engine with eight shader-driven reveal variants.
+- shader-reveal-wipe-transition — Demo 4 adaptation: displacement-noise horizontal wipe with a sharp eased edge.
+- shader-reveal-zoom-transition — Demo 2 adaptation: vertical-progress zoom mix translated into a UI frame transition.
+- shared-axis-x — A SharedAxisX text animation component for SmoothUI.
+- shared-axis-y — A SharedAxisY text animation component for SmoothUI.
+- shared-axis-z — A SharedAxisZ text animation component for SmoothUI.
+- shimmer-sweep — A ShimmerSweep text animation component for SmoothUI.
+- shine-text — A ShineText light-sweep text animation component for SmoothUI.
+- short-slide-down — A ShortSlideDown text animation component for SmoothUI.
+- short-slide-right — A ShortSlideRight text animation component for SmoothUI.
+- siri-orb — A beautiful animated orb component inspired by Siri's visual design.
+- skeleton-loader — Animated skeleton loading placeholders
+- smooth-button — A polished button component with gradient variants and press animation
+- social-selector — A SocialSelector component for SmoothUI.
+- soft-blur-in — A SoftBlurIn text animation component for SmoothUI.
+- spring-scale-in — A SpringScaleIn text animation component for SmoothUI.
+- stagger-from-center — A StaggerFromCenter text animation component for SmoothUI.
+- stagger-from-edges — A StaggerFromEdges text animation component for SmoothUI.
+- switchboard-card — A SwitchboardCard component with light grid illustration for SmoothUI.
+- top-down-letters — A TopDownLetters text animation component for SmoothUI.
+- tweet-card — A beautiful tweet card component for displaying Twitter/X posts.
+- typewriter-text — A TypewriterText component for SmoothUI.
+- user-account-avatar — A UserAccountAvatar component for SmoothUI.
+- warped-circle-transition — A wavy perimeter circle reveal inspired by the Codrops circle warping step.
+- wave-text — A WaveText component for SmoothUI.
+- theme-candy — SmoothUI Candy theme: smooth neutral scale with a candy accent, light and dark mode includ
+- theme-indigo — SmoothUI Indigo theme: smooth neutral scale with a indigo accent, light and dark mode incl
+- theme-blue — SmoothUI Blue theme: smooth neutral scale with a blue accent, light and dark mode included
+- theme-red — SmoothUI Red theme: smooth neutral scale with a red accent, light and dark mode included.
+- theme-orange — SmoothUI Orange theme: smooth neutral scale with a orange accent, light and dark mode incl
+- theme-green — SmoothUI Green theme: smooth neutral scale with a green accent, light and dark mode includ
+- skill — Teaches AI coding assistants how to install SmoothUI components, blocks, and themes, and h

@@ -1,0 +1,40 @@
+- announcement — A compound badge designed to display an announcement.
+- avatar-stack — Avatar Stack is a component that allows you to stack and overlap avatars.
+- banner — A banner is a full-width component that can be used to show a message and action to the us
+- calendar — The calendar view displays features on a grid calendar. Specifically it shows the end date
+- choicebox — Choiceboxes are a great way to show radio or checkbox options with a card style.
+- code-block — Provides syntax highlighting, line numbers, and copy to clipboard functionality for code b
+- color-picker — Allows users to select a color. Modeled after the color picker in Figma.
+- combobox — Autocomplete input and command palette with a list of suggestions.
+- comparison — A slider-based component for comparing two items in an overlay.
+- contribution-graph — A GitHub-style contribution graph component that displays activity levels over time.
+- credit-card — Credit card components for displaying and validating credit card information.
+- cursor — A cursor component, great for realtime interactive applications.
+- deck — A Tinder-like swipeable card stack component with smooth animations.
+- dialog-stack — Composable stacked dialogs, useful for creating a wizard, nested form or multi-step proces
+- dropzone — Allows users to drag-and-drop files into a container to upload or process them.
+- editor — The Editor component is a powerful and flexible text editor that allows you to create and 
+- gantt — The Gantt chart is a powerful tool for visualizing project schedules and tracking the prog
+- glimpse — A component that shows a preview of a URL when hovering over a link.
+- image-crop — Helps you crop images to a specific size or aspect ratio.
+- image-zoom — Image zoom is a component that allows you to zoom in on an image.
+- kanban — A kanban board is a visual tool that helps you manage and visualize your work. It is a boa
+- list — List views are a great way to show a list of tasks grouped by status and ranked by priorit
+- marquee — Marquees are a great way to show a list of items in a horizontal scrolling motion.
+- mini-calendar — A composable mini calendar component for picking dates close to today.
+- pill — A flexible badge component designed for a variety of use cases.
+- qr-code — QR Code is a component that generates a QR code from a string.
+- rating — A star rating component with keyboard navigation and hover effects.
+- reel — A composable Reel component that looks like Instagram Stories - a full-height, 9:16 aspect
+- relative-time — A component that displays time in various timezones.
+- sandbox — The sandbox component allows you to preview and test components in a sandboxed environment
+- snippet — Snippet is a component that allows you to display and copy code in a tabbed interface.
+- spinner — A spinner is a visual indicator that shows progress or activity.
+- status — Status components are used to display the uptime of a service.
+- stories — A composable Stories component - a carousel of individual video cards like you'd see on Fa
+- table — Table views are used to display data in a tabular format. They are useful for displaying l
+- tags — Tags are a way to apply multiple labels to an item.
+- theme-switcher — A component to switch between light, dark and system theme.
+- ticker — A composable finance ticker for displaying symbols, prices and changes.
+- tree — A composable tree component with animated expand/collapse and customizable nodes.
+- video-player — A composable, shadcn/ui styled video player component that uses the media-chrome library.

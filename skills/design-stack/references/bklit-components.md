@@ -1,0 +1,54 @@
+- shimmering-text — Per-character shimmer animation for loading labels and badges
+- chart-context — Shared context and hooks for Bklit chart components
+- chart-animation — Shared motion helpers for chart enter transitions, clip reveals, and staggered animations
+- chart-series — Shared line and area series rendering helpers (paths, markers, highlights, dash tails)
+- grid — Grid lines for charts
+- reference-area — Shaded data-coordinate band for target ranges and thresholds on time-series charts
+- projection-line — Forecast segment extending a line series past the last data point
+- background — Pattern fill for the plot area when grid lines are hidden
+- x-axis — X-axis component for time-series charts
+- y-axis — Y-axis component for value labels in line and area charts
+- chart-tooltip — Composable tooltip components for charts
+- legend — Composable legend components for charts
+- markers — Marker components for highlighting data points on charts
+- area-chart — A composable area chart with gradient fills and animations
+- composed-chart — Time-series chart composing Line, Area, and SeriesBar on one shared scale (Recharts Compos
+- bar-chart — A composable bar chart with horizontal/vertical orientations and animations
+- line-chart — A composable line chart with multiple series support
+- profit-loss-line — Sign-colored line segments for profit and loss on LineChart
+- bar-depth — 3D depth and glossy glass surfaces for BarChart bars
+- scatter-chart — A composable time-series scatter chart with offset rings, hover dimming, and animated ente
+- live-line-chart — Real-time streaming line chart with smooth scrolling, crosshair, and animated axes
+- candlestick-chart — A composable OHLC candlestick chart with gradients, patterns, tooltips, and hover interact
+- pie-chart — A composable pie chart with animations and customizable slices
+- radar-chart — A composable radar/spider chart with multiple data series
+- ring-chart — A composable donut/ring chart with progress indicators
+- gauge-chart — Notch-based radial or linear gauge with optional center label, patterns, and optional grad
+- heatmap-chart — A contribution heatmap with animated cells and configurable level colors
+- choropleth-chart — A geographic map chart with zoom, pan, and data visualization
+- funnel-chart — An animated funnel chart with multi-layer halo rings, hover interactions, and staggered en
+- sankey-chart — A flow diagram for visualizing data transfers between nodes
+- sunburst-chart — A composable hierarchical sunburst chart with drill-down zoom and animated segments
+- area-chart-example — Composable area-chart demo for Open in v0
+- bar-chart-example — Composable bar-chart demo for Open in v0
+- line-chart-example — Composable line-chart demo for Open in v0
+- scatter-chart-example — Composable scatter-chart demo for Open in v0
+- pie-chart-example — Composable pie-chart demo for Open in v0
+- gauge-chart-example — Composable gauge-chart demo for Open in v0
+- heatmap-chart-example — Composable heatmap-chart demo for Open in v0
+- ring-chart-example — Composable ring-chart demo for Open in v0
+- radar-chart-example — Composable radar-chart demo for Open in v0
+- composed-chart-example — Composable composed-chart demo for Open in v0
+- funnel-chart-example — Composable funnel-chart demo for Open in v0
+- sankey-chart-example — Composable sankey-chart demo for Open in v0
+- sunburst-chart-example — Composable sunburst-chart demo for Open in v0
+- candlestick-chart-example — Composable candlestick-chart demo for Open in v0
+- choropleth-chart-example — Composable choropleth-chart demo for Open in v0
+- live-line-chart-example — Composable live-line-chart demo for Open in v0
+- chart-stat-flow — Animated stat value and label for chart overlays
+- stat-card-area-01 — Revenue stat card with gradient area sparkline, NumberFlow, and trend badge
+- stat-card-area-01-example — Revenue stat card with gradient area sparkline, NumberFlow, and trend badge — demo for Ope
+- stat-card-line-01 — Sessions stat card with line sparkline, overlaid NumberFlow, and trend badge
+- stat-card-line-01-example — Sessions stat card with line sparkline, overlaid NumberFlow, and trend badge — demo for Op
+- stat-card-choropleth-01 — Visitor map stat card with choropleth sparkline, NumberFlow, and trend badge
+- stat-card-choropleth-01-example — Visitor map stat card with choropleth sparkline, NumberFlow, and trend badge — demo for Op
