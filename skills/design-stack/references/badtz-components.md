@@ -1,0 +1,16 @@
+# BadtzUI components (from sitemap, 2026-07)
+- 3d-wrapper
+- animated-keyboard
+- animated-list.tsx
+- border-beam
+- cloud-orbit
+- cursor-card
+- dock
+- expandable-card
+- flipping-card
+- image-split
+- image-trail
+- infinite-ribbon
+- marquee
+- particles
+- social-proof-avatars

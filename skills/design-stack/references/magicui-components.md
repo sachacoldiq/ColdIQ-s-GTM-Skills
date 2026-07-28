@@ -1,0 +1,245 @@
+- magic-card — A spotlight effect that follows your mouse cursor and highlights borders on hover.
+- android — A mockup of an Android device.
+- warp-background — A card with a time warping background effect.
+- line-shadow-text — A text component with a moving line shadow.
+- aurora-text — A beautiful aurora text effect
+- morphing-text — A dynamic text morphing component for Magic UI.
+- scroll-progress — Animated Scroll Progress for your pages
+- lens — A interactive component that enables zooming into images, videos and other elements.
+- pointer — A component that displays a pointer when hovering over an element
+- smooth-cursor — A customizable, physics-based smooth cursor animation component with spring animations and
+- progressive-blur — The Progressive Blur component adds a smooth blur gradient effect to scrollable content, i
+- neon-gradient-card — A beautiful neon card effect
+- noise-texture — An SVG fractal noise layer using feTurbulence, desaturation, and contrast controls for sub
+- meteors — A meteor shower effect.
+- grid-pattern — A background grid pattern made with SVGs, fully customizable using Tailwind CSS.
+- hexagon-pattern — A background hexagon pattern made with SVGs, fully customizable using Tailwind CSS.
+- striped-pattern — A background striped pattern made with SVGs, fully customizable using Tailwind CSS.
+- interactive-grid-pattern — A interactive background grid pattern made with SVGs, fully customizable using Tailwind CS
+- dot-pattern — A background dot pattern made with SVGs, fully customizable using Tailwind CSS.
+- flickering-grid — A flickering grid background made with SVGs, fully customizable using Tailwind CSS.
+- hero-video-dialog — A hero video dialog component.
+- code-comparison — A component which compares two code snippets.
+- marquee — An infinite scrolling component that can be used to display text, images, or videos.
+- globe — An autorotating, interactive, and highly performant globe made using WebGL.
+- glyph-matrix — An animated grid of subtly shifting glyphs with fade effect and theme support.
+- glare-hover — A diagonal glare on hover using a ::before gradient and CSS variables (angle, size, durati
+- shimmer-button — A button with a shimmering light which travels around the perimeter.
+- tweet-card — A card that displays a tweet with the author's name, handle, and profile picture.
+- client-tweet-card — A client-side version of the tweet card that displays a tweet with the author's name, hand
+- bento-grid — Bento grid is a layout used to showcase the features of a product in a simple and elegant 
+- particles — Particles are a fun way to add some visual flair to your website. They can be used to crea
+- number-ticker — Animate numbers to count up or down to a target number
+- ripple — An animated ripple effect typically used behind elements to emphasize them.
+- retro-grid — An animated scrolling retro grid effect
+- animated-list — A list that animates each item in sequence with a delay. Used to showcase notifications or
+- animated-shiny-text — A light glare effect which pans across text making it appear as if it is shimmering.
+- animated-grid-pattern — A animated background grid pattern made with SVGs, fully customizable using Tailwind CSS.
+- border-beam — An animated beam of light which travels along the border of its container.
+- animated-beam — An animated beam of light which travels along a path. Useful for showcasing the integratio
+- text-reveal — Fade in text as you scroll down the page.
+- dia-text-reveal — A horizontal color band sweeps across text, revealing a gradient shine before settling on 
+- hyper-text — A text animation that scrambles letters before revealing the final text.
+- animated-gradient-text — An animated gradient background which transitions between colors for text.
+- orbiting-circles — A collection of circles which move in orbit along a circular path
+- dock — An implementation of the MacOS dock using react + tailwindcss + motion
+- word-rotate — A vertical rotation of words
+- avatar-circles — Overlapping circles of avatars.
+- typing-animation — Characters appearing in typed animation
+- sparkles-text — A dynamic text that generates continuous sparkles with smooth transitions, perfect for hig
+- spinning-text — The Spinning Text component animates text in a circular motion with customizable speed, di
+- comic-text — Comic text animation
+- icon-cloud — An interactive 3D tag cloud component
+- text-animate — A text animation component that animates text using a variety of different animations.
+- scroll-based-velocity — Scrolling text whose speed changes based on scroll speed
+- shiny-button — A shiny button component with dynamic styles in the dark mode or light mode.
+- shine-border — Shine border is an animated background border effect.
+- animated-circular-progress-bar — Animated Circular Progress Bar is a component that displays a circular gauge with a percen
+- confetti — Confetti animations are best used to delight your users when something special happens
+- cool-mode — Cool mode effect for buttons, links, and other DOMs
+- pulsating-button — An animated pulsating button useful for capturing attention of users.
+- ripple-button — An animated button with ripple useful for user engagement.
+- file-tree — A component used to showcase the folder and file structure of a directory.
+- blur-fade — Blur fade in and out animation. Used to smoothly fade in and out content.
+- safari — A safari browser mockup to showcase your website.
+- iphone — A mockup of the iPhone
+- rainbow-button — An animated button with a rainbow effect.
+- interactive-hover-button
+- terminal — A terminal component
+- video-text — A component that displays text with a video playing in the background.
+- pixel-image — A component that displays an image with a pixelated effect, creating a retro aesthetic.
+- highlighter — A text highlighter that mimics the effect of a human-drawn marker stroke.
+- animated-theme-toggler — Theme toggle with View Transitions and animated clip-path masks (circle, polygons, star), 
+- light-rays — A component with animated light rays which shine down from above.
+- dotted-map — A component with a dotted map.
+- backlight — A backlight glow effect for videos, images, and SVGs.
+- kinetic-text — A text component that animates font weight of characters on hover.
+- text-3d-flip — A text effect that flips each letter in 3D with a staggered animation on hover.
+- magic-card-demo — Example showing a spotlight effect that follows your mouse cursor and highlights borders o
+- magic-card-demo-2 — Example showing a magic card with an orb effect.
+- android-demo — Example showing a mockup of an Android device.
+- android-demo-2 — Second example showing a mockup of an Android device.
+- android-demo-3 — Third example showing a mockup of an Android device.
+- warp-background-demo — Example showing a card with a time warping background effect.
+- line-shadow-text-demo — Example showing a text component with a moving line shadow.
+- aurora-text-demo — Example showing a beautiful aurora text effect.
+- morphing-text-demo — Example showing a dynamic text morphing component.
+- scroll-progress-demo — Example showing animated scroll progress for your pages.
+- lens-demo — Example showing a lens effect component
+- lens-demo-2 — Second example showing a lens effect component
+- lens-demo-3 — Third example showing a lens effect component
+- pointer-demo-1 — Example showing a pointer effect component
+- smooth-cursor-demo — Basic smooth cursor example
+- progressive-blur-demo — Example showing progressive blur effect for scrollable content.
+- neon-gradient-card-demo — Example showing a beautiful neon card effect.
+- noise-texture-demo — Example showing the SVG noise texture in a framed panel with a radial mask.
+- noise-texture-demo-2 — Example showing a newsletter signup card with email input over a noise texture.
+- noise-texture-demo-3 — Example showing NoiseTexture behind a button label inside a relative button.
+- noise-texture-demo-4 — Example showing a labeled input field with NoiseTexture filling the input container.
+- meteors-demo — Example showing a meteor shower effect.
+- grid-pattern-demo — Example showing a background grid pattern made with SVGs.
+- striped-pattern-demo — Example showing a background striped pattern made with SVGs.
+- striped-pattern-dashed — Example showing a background striped pattern with a dashed stroke.
+- striped-pattern-right — Example showing a background striped pattern slanting to the right using SVG.
+- grid-pattern-linear-gradient — Example showing a grid pattern with linear gradient effects.
+- grid-pattern-dashed — Example showing a dashed grid pattern.
+- hexagon-pattern-demo — Example showing a background hexagon pattern made with SVGs.
+- hexagon-pattern-linear-gradient — Example showing a hexagon pattern with linear gradient effects.
+- hexagon-pattern-dashed — Example showing a dashed hexagon pattern.
+- hexagon-pattern-spacing — Example showing a hexagon pattern with extra spacing between cells.
+- dot-pattern-demo — Example showing a background dot pattern made with SVGs.
+- dot-pattern-linear-gradient — Example showing a dot pattern with linear gradient effects.
+- dot-pattern-with-glow-effect — Example showing a dot pattern with glow effect
+- flickering-grid-demo — Example showing a flickering grid background.
+- flickering-grid-rounded-demo — Example showing a flickering grid background with rounded corners.
+- hero-video-dialog-demo — Example showing a hero video dialog component.
+- hero-video-dialog-demo-top-in-bottom-out — Example showing a hero video dialog with top-in bottom-out animation.
+- code-comparison-demo — Example showing a component which compares two code snippets.
+- marquee-demo — Example showing an infinite scrolling component.
+- marquee-demo-vertical — Example showing a vertical infinite scrolling component.
+- marquee-logos — Example showing an infinite scrolling logo carousel.
+- marquee-3d — Example showing a 3D infinite scrolling component.
+- globe-demo — Example showing an autorotating, interactive WebGL globe.
+- glyph-matrix-demo — Example showing an animated grid of subtly shifting glyphs.
+- glare-hover-demo — Pricing card with diagonal hover glare (duration 600ms).
+- glare-hover-demo-cta — CTA card with hover glare (700ms).
+- glare-hover-demo-alert — Three alerts with custom glare colors and opacity.
+- tweet-card-demo — Example showing a tweet card with author info.
+- tweet-card-images — Example showing a tweet card with images.
+- tweet-card-meta-preview — Example showing a tweet card with meta preview.
+- shimmer-button-demo — Example showing a button with a shimmering light effect.
+- bento-demo — Example showing a bento grid layout for showcasing features.
+- bento-demo-vertical — Example showing a vertical bento grid layout.
+- number-ticker-demo — Example showing animated counting numbers.
+- number-ticker-demo-2 — Example showing animated counting numbers.
+- number-ticker-decimal-demo — Example showing animated counting decimal numbers.
+- ripple-demo — Example showing an animated ripple effect.
+- retro-grid-demo — Example showing an animated scrolling retro grid effect.
+- animated-list-demo — Example showing a list with sequenced item animations.
+- animated-shiny-text-demo — Example showing text with a shimmering light effect.
+- particles-demo — Example showing interactive particle effects.
+- animated-grid-pattern-demo — Example showing an animated grid pattern background.
+- interactive-grid-pattern-demo — Example showing an interactive grid pattern background.
+- interactive-grid-pattern-demo-2 — Second example showing an interactive grid pattern background.
+- border-beam-demo — Example showing an animated border beam effect.
+- border-beam-demo-2 — Example showing an animated border beam effect.
+- border-beam-demo-3 — Example showing an animated border beam effect.
+- border-beam-demo-4 — Example showing an animated border beam effect.
+- animated-beam-demo — Example showing an animated beam of light effect.
+- animated-beam-unidirectional — Example showing a unidirectional animated beam effect.
+- animated-beam-bidirectional — Example showing a bidirectional animated beam effect.
+- animated-beam-multiple-inputs — Example showing animated beams with multiple input points.
+- animated-beam-multiple-outputs — Example showing animated beams with multiple output points.
+- text-reveal-demo — Example showing text that fades in on scroll.
+- dia-text-reveal-demo — Example showing a sweeping color band reveal on headline text.
+- dia-text-reveal-demo-2 — Custom gradient colors and settled text color on a light background.
+- dia-text-reveal-demo-3 — Rotating phrases with repeat and repeat delay.
+- dia-text-reveal-demo-4 — Slower sweep with delay — custom duration and timing.
+- animated-gradient-text-demo — Example showing text with animated gradient backgrounds.
+- animated-gradient-text-demo-2 — Second example showing text with animated gradient backgrounds.
+- orbiting-circles-demo — Example showing circles moving in orbital paths.
+- dock-demo — Example showing a MacOS-style dock implementation.
+- dock-demo-2 — Second example showing a MacOS-style dock implementation.
+- dock-demo-3 — Third example showing a MacOS-style dock implementation.
+- word-rotate-demo — Example showing vertical word rotation animation.
+- hyper-text-demo — Example showing text with scrambling letter animations.
+- avatar-circles-demo — Example showing overlapping avatar circles.
+- typing-animation-demo — Example showing typed character animations.
+- typing-animation-demo-2 — Example showing multiple words with looping.
+- typing-animation-demo-3 — Example showing custom typing and deleting speeds.
+- typing-animation-demo-4 — Example showing animation that starts when in viewport.
+- typing-animation-demo-5 — Example showing typing animation without cursor.
+- typing-animation-demo-6 — Example showing single play without looping.
+- typing-animation-demo-7 — Example showing cursor blinking control.
+- typing-animation-demo-8 — Example showing different cursor styles (line, block, underscore).
+- scroll-based-velocity-demo — Example showing text speed changes based on scroll velocity.
+- scroll-based-velocity-images-demo — Example showing Unsplash images scrolling with speed reacting to scroll velocity.
+- sparkles-text-demo — Example showing text with animated sparkle effects.
+- spinning-text-demo — Example showing spinning text animation.
+- spinning-text-demo-2 — Example showing spinning text animation.
+- comic-text-demo — Example showing comic text animation.
+- icon-cloud-demo — Example showing an interactive 3D icon cloud.
+- icon-cloud-demo-2 — Second example showing an interactive 3D icon cloud.
+- icon-cloud-demo-3 — Third example showing an interactive 3D icon cloud.
+- text-animate-demo — Example showing various text animations.
+- text-animate-demo-2 — Second example showing various text animations.
+- text-animate-demo-3 — Third example showing various text animations.
+- text-animate-demo-4 — Fourth example showing various text animations.
+- text-animate-demo-5 — Fifth example showing various text animations.
+- text-animate-demo-6 — Sixth example showing various text animations.
+- text-animate-demo-7 — Seventh example showing various text animations.
+- text-animate-demo-8 — Eighth example showing various text animations.
+- text-animate-demo-9 — Ninth example showing various text animations.
+- shiny-button-demo — Example showing a shiny button with dynamic styles.
+- animated-circular-progress-bar-demo — Example showing an animated circular progress gauge.
+- shine-border-demo — Example showing an animated shining border effect.
+- shine-border-demo-2 — Second example showing an animated shining border effect.
+- confetti-demo — Example showing confetti animations for celebrations.
+- confetti-basic-cannon — Example showing basic confetti cannon animation.
+- confetti-random-direction — Example showing confetti with random directions.
+- confetti-fireworks — Example showing fireworks-style confetti animation.
+- confetti-stars — Example showing star-shaped confetti animation.
+- confetti-side-cannons — Example showing side-mounted confetti cannons.
+- confetti-custom-shapes — Example showing confetti with custom shape particles.
+- confetti-emoji — Example showing confetti with emoji particles.
+- cool-mode-demo — Example showing cool mode effect for buttons and links.
+- cool-mode-custom — Example showing customized cool mode effects.
+- pulsating-button-demo — Example showing an animated pulsating button.
+- pulsating-button-demo-2 — Example showing an animated pulsating button with a ripple varaint.
+- ripple-button-demo — Example showing an animated button with ripple effect.
+- file-tree-demo — Example showing a component that displays folder and file structure.
+- blur-fade-demo — Example showing blur fade in and out animations.
+- blur-fade-text-demo — Example showing blur fade animations with text.
+- safari-demo — Example showing a Safari browser mockup.
+- safari-demo-2 — Second example showing a Safari browser mockup.
+- safari-demo-3 — Third example showing a Safari browser mockup.
+- safari-demo-4 — Fourth example showing a Safari browser mockup.
+- iphone-demo — Example showing an iPhone mockup.
+- iphone-demo-2 — Second example showing an iPhone mockup.
+- iphone-demo-3 — Third example showing an iPhone mockup.
+- rainbow-button-demo — Example showing an animated button with rainbow effect.
+- rainbow-button-demo-2 — Example showing an animated button with rainbow effect.
+- interactive-hover-button-demo — Example showing an interactive button with hover effects.
+- terminal-demo — Example showing a terminal with animated text.
+- terminal-demo-2 — Example showing a terminal with animated text and custom delays
+- video-text-demo — Example showing text with a video background.
+- pixel-image-demo — Example showing a pixelated image effect.
+- highlighter-demo — Example showing the demo of a Highlighter
+- animated-theme-toggler-demo — Example showing animation while changing the theme.
+- animated-theme-toggler-square-demo — Theme transition with a square clip reveal.
+- animated-theme-toggler-diamond-demo — Theme transition with a diamond-shaped clip reveal.
+- animated-theme-toggler-rectangle-demo — Theme transition with a rectangle clip reveal.
+- animated-theme-toggler-hexagon-demo — Theme transition with a hexagon clip reveal.
+- animated-theme-toggler-triangle-demo — Theme transition with a triangle clip reveal.
+- animated-theme-toggler-star-demo — Theme transition with a star-shaped clip reveal.
+- animated-theme-toggler-next-themes-demo — Controlled usage with next-themes so useTheme() subscribers stay in sync on toggle.
+- light-rays-demo — Demo of the light-rays component showcasing animated light rays
+- dotted-map-demo — Example showing a dotted map.
+- dotted-map-demo-2 — Example showing a dotted map.
+- dotted-map-demo-3 — Example showing a dotted map with pulse animation.
+- backlight-video-demo — An example of the backlight component with a video.
+- backlight-image-demo — An example of the backlight component with a image.
+- backlight-svg-demo — An example of the backlight component with SVGs.
+- kinetic-text-demo — An example of the kinetic text component.
+- text-3d-flip-demo — Example showing a 3D text animation that rotates each letter on hover.
+- text-3d-flip-demo-2 — Example showing a 3D text flip with stagger from center.

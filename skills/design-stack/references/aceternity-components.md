@@ -1,0 +1,270 @@
+- grid
+- moving-line
+- sparkles
+- spotlight
+- glowing-stars
+- text-reveal-card
+- animated-tooltip
+- following-pointer
+- background-beams
+- svg-mask-effect
+- infinite-moving-cards
+- 3d-pin
+- evervault-card
+- parallax-scroll
+- parallax-scroll-2
+- parallax-hero-images
+- tracing-beam
+- container-scroll-animation
+- text-generate-effect
+- meteors
+- card-stack
+- moving-border
+- lamp
+- sticky-scroll-reveal
+- floating-navbar
+- navbar-menu
+- tailwindcss-buttons
+- bento-grid
+- card-hover-effect
+- google-gemini-effect
+- gooey-input
+- typewriter-effect
+- background-boxes
+- 3d-card
+- images-slider
+- direction-aware-hover
+- tabs
+- hero-parallax
+- wavy-background
+- background-gradient
+- layout-grid
+- background-gradient-animation
+- macbook-scroll
+- input
+- label
+- multi-step-loader
+- globe
+- aurora-background
+- canvas-reveal-effect
+- hover-border-gradient
+- hero-highlight
+- vortex
+- wobble-card
+- placeholders-and-vanish-input
+- flip-words
+- link-preview
+- glare-card
+- animated-modal
+- sidebar
+- apple-cards-carousel
+- shooting-stars
+- stars-background
+- compare
+- card-spotlight
+- cover
+- file-upload
+- floating-dock
+- focus-cards
+- background-beams-with-collision
+- timeline
+- text-hover-effect
+- lens
+- background-lines
+- animated-testimonials
+- world-map
+- code-block
+- carousel
+- colourful-text
+- squiggly-text
+- magnetic-button
+- notch
+- spotlight-new
+- glowing-effect
+- 3d-marquee
+- container-text-flip
+- resizable-navbar
+- draggable-card
+- sticky-banner
+- pointer-highlight
+- stateful-button
+- loader
+- comet-card
+- background-ripple-effect
+- pixelated-canvas
+- canvas-text
+- layout-text-flip
+- dotted-glow-background
+- tooltip-card
+- encrypted-text
+- noise-background
+- dither-shader
+- webcam-pixel-grid
+- images-badge
+- keyboard
+- terminal
+- 3d-globe
+- ascii-art
+- scales
+- text-flipping-board
+- cards-demo-1 — Background Overlay Card
+- cards-demo-2 — Content Card
+- cards-demo-3 — Feature Block Animated Card
+- expandable-card-on-click — Expandable Card On Click
+- features-section-demo-1 — Simple with card gradient
+- features-section-demo-2 — Simple with hover effects
+- features-section-demo-3 — Bento Grid
+- features-with-sticky-scroll — Features with sticky scroll
+- hero-with-centered-image — Hero With Centered Image
+- modern-hero-with-gradients — Modern Hero With Gradients
+- two-column-with-image — Two Column With Image
+- full-background-image-with-text — Full Background Image With Text
+- centered-around-testimonials — Centered Around Testimonials
+- hero-section-with-images-grid-and-navbar — Hero Section With Images Grid and Navbar
+- hero-section-with-beams-and-grid — Hero Section With Beams and Grid
+- hero-section-with-noise-background — Hero Section With Noise Background
+- logo-cloud-marquee — Logo Cloud Marquee
+- logos-with-blur-flip — Logos With Blur Flip
+- spotlight-logo-cloud — Spotlight Logo Cloud
+- three-column-bento-grid — Three Column Bento Grid
+- three-columns-with-images — Three Columns With Images
+- bento-grid-example-three — Bento Grid Example Three
+- simple-cta-with-images — Simple CTA With Images
+- cta-with-masonry-images — CTA With Masonry Images
+- cta-centered-masonry-gallery — CTA Centered Masonry Gallery
+- cta-with-background-noise — CTA With Background Noise
+- cta-with-centered-text — CTA With Centered Text
+- cta-with-dashed-grid-lines — CTA With Dashed Grid Lines
+- testimonials-grid-with-centered-carousel — Testimonials Grid With Centered Carousel
+- testimonials-marquee-grid — Testimonials Marquee Grid
+- testimonials-marquee-grid-boxed — Two-row testimonial marquee with framed section and bordered cards
+- testimonials-masonry-grid — Testimonials Masonry Grid
+- simple-pricing-with-three-tiers — Simple Pricing With Three Tiers
+- pricing-with-switch — Pricing With Switch
+- pricing-with-switch-and-add-on — Pricing With Switch And Add On
+- pricing-minimal — Minimal Pricing with Enterprise Section
+- simple-navbar-with-hover-effects — Simple Navbar With Hover Effects
+- navbar-with-children — Navbar With Children
+- simple-footer-with-four-grids — Simple Footer With Four Grids
+- footer-with-grid — Footer With Grid
+- footer-with-big-text — Footer With Big Text
+- centered-with-logo — Centered With Logo
+- registration-form-with-images — Registration Form With Images
+- login-with-socials-and-email — Login With Socials And Email
+- login-signup-minimal — Login Signup Minimal
+- premium-auth-split — Premium Auth Split with WebGL Shader
+- contact-form-grid-with-details — Contact Form Grid With Details
+- simple-centered-contact-form — Simple Centered Contact Form
+- blog-with-search — Blog With Search
+- blog-with-search-magazine — Blog With Search — magazine layout with cover story and card grid
+- blog-with-categories — Blog listing with three featured cards and a denser four-column grid below, category label
+- simple-blog-with-grid — Simple Blog With Grid
+- playful-hero-section — Playful Hero Section
+- frequently-asked-questions-accordion — Frequently Asked Questions Accordion
+- simple-faqs-with-background — Simple FAQs With Background
+- faqs-with-grid — Faqs With Grid
+- simple-sidebar-with-hover — Simple Sidebar With Hover
+- collapsible-sidebar — Collapsible Sidebar
+- grouped-sidebar — Grouped Sidebar with Collapsible Groups and Persistent State
+- blog-content-centered — Blog Content Centered
+- blog-content-with-toc — Blog Content With Toc
+- stats-for-changelog — Stats For Changelog
+- stats-with-number-ticker — Stats With Number Ticker
+- stats-with-grid-background — Stats With Grid Background
+- stats-with-gradient — Stats With Gradient
+- background-with-full-video — Background With Full Video
+- background-lines — Background Lines
+- background-with-shooting-stars — Background With Shooting Stars
+- background-dots — Background Dots
+- background-dots-masked — Background Dots Masked
+- background-dots-masked-vertical — Background Dots Masked Vertical
+- background-grid-with-dots — Background Grid with Dots
+- background-grid-with-dots-and-animations — Background Grid with Dots and Animations
+- background-with-skewed-rectangles — Background With Skewed Rectangles
+- background-with-skewed-lines — Background With Skewed Lines
+- background-noise-grid — Background Noise Grid
+- text-animation-flipping-words-demo — Text Animation Flipping Words Demo
+- text-animation-typewriter-effect-demo — Text Animation Typewriter Effect Demo
+- text-animation-blur-fade-in-demo — Text Animation Blur Fade In Demo
+- text-generate-typewriter — Text Generate Typewriter with Keyboard Sounds
+- login-form-with-gradient — Login Form With Gradient
+- navbar-classic — Classic navbar with search
+- navbar-mega — Navbar with Mega Menu and Hover Effects
+- navbar-dark-shadow — Dark navbar with ridge shadows, dropdown mega menu with blog panel, and light/dark mode
+- navbar-pill — Navbar with Pills and tabs
+- navbar-underline — Navbar with Underline and hover effects
+- masonry-bento-grid-with-images — Masonry Bento Grid With Images, useful for showcasing brands or products
+- minimal-hero-section-with-parallax-images — Minimal Hero Section With Parallax Images, images are displayed on top of each other with 
+- hero-with-image-and-scales — A modern hero section with image and scales. Incorporates tailwind's blue 500 variant of c
+- logo-cloud-with-blur-animation — A collection of 6 logos of modern companies, animation is staggered and logos are aligned 
+- logo-cloud-with-swap-animation — A logo cloud with 10 logos in a 5x2 grid that swap every 3 seconds. Logos animate horizont
+- single-row-logo-cloud — A single row logo cloud with 5 logos that flips in an interval.
+- features-grid-with-large-skeletons — A grid of 3 with micro-interactions and animations. Title and descriptions are flex row al
+- pricing-page-with-featured-and-enterprise — Pricing Page With Featured And Enterprise. This pricing page is designed to showcase the f
+- bento-grid-with-skeletons — A grid of 6 with skeletons, title and descriptions. Skeletons are modern and designed to b
+- dot-distortion-shader — A dot distortion shader for creating dynamic background effects.
+- lines-gradient-shader — A lines gradient shader for creating animated gradient backgrounds.
+- spotlight-shader — A spotlight shader for creating dynamic spotlight background effects with customizable pos
+- hero-with-background-and-navbar — Hero With Background And Navbar
+- hero-section-with-multi-color-background — Hero Section With Multi Color Background
+- hero-section-with-infinite-scroll-cards — Hero Section With Infinite Scroll Cards
+- testimonials-background-with-drag — Testimonials Background With Drag
+- hero-section-with-flickering-lights — Hero Section With Flickering Lights
+- hero-section-with-tabs — Hero Section With Tabs
+- hero-section-with-mesh-gradient — Hero Section With Mesh Gradient
+- hero-section-with-shadow-and-scales — Hero Section With Shadow and Scales
+- hero-section-with-dither-background — Hero Section With Dither Background
+- hero-with-chat-input — Hero with navbar, large chat-style prompt textarea, action bar, and sample work grid
+- testimonials-with-carousel — Testimonials With Carousel
+- testimonials-with-centered-highlight — Testimonials grid with title, subtitle, and optional centered highlight card
+- features-section-with-skeletons — Features Section With Skeletons
+- chat-conversation — Chat Conversation
+- folder-with-files — Folder With Files
+- collaborative-cursors — Collaborative Cursors
+- testimonials-hover-illustration — Testimonials Hover Illustration
+- contact-section-with-shader — Contact Section With Shader Background and Rotating Testimonials
+- contact-with-dither-image — Contact section with dithered landscape background, testimonial card, and split form
+- team-section-with-scales — Team Section With Scales
+- team-section-with-light-background — Team Section With Light Background
+- team-section-with-small-avatars — Team Section With Small Avatars
+- team-section-with-timeline-cards — Team Section With Timeline Cards
+- empty-state-vertical-grid — Full-height empty state on a dotted canvas with three image cards for choosing how to star
+- empty-state-with-cards — Empty project state with corner grid lines, CTAs, and fanned template thumbnails
+- empty-state-with-pictures — Centered empty state with stacked photo frames and gentle motion
+- empty-state-with-draggable-cards — Empty hiring-style layout with a swipeable card deck above primary actions
+- empty-state-with-stacked-cards — Soft panel empty state with overlapping template previews and doc link
+- feature-section-bento-skeletons — Bento Grid Feature Section With Animated Skeletons
+- uptime-status-illustration — Interactive Uptime Status Illustration
+- rotating-tabs-with-text — Rotating Notification Cards with Stacked Animation
+- flipping-images-with-bar — Animated Image Carousel with Scanning Bar Reveal and Sparkle Effects
+- isometric-box — Minimal Isometric Box Illustration with Hover Animation
+- features-with-isometric-blocks — Feature cards with animated isometric box illustrations
+- features-with-stacked-isometric-boxes — Feature section with stacked isometric boxes and autoplay animation
+- macbook-illustration — Interactive MacBook illustration with lid animation and Dynamic Island
+- iphone-illustration — Interactive iPhone illustration with Dynamic Island animation
+- dynamic-island — Animated Dynamic Island with customizable idle, loading, and processed states
+- ipad-illustration — Interactive iPad illustration with Dynamic Island animation
+- bento-grid-illustrations — Bento grid showcasing MacBook, iPhone, iPad, and Dynamic Island illustrations
+- world-map-illustration — Interactive world map with dotted continents and customizable location pins with avatars
+- keyboard-illustration — Mini Mac keyboard illustration with blue hover glow and size variants
+- simple-login-with-grid-lines — Simple login form with dashed grid lines border decoration
+- animated-beam-path-illustration — Animated beam path illustration with glowing SVG animation following a dotted path
+- multi-illustration-bento — Multi-illustration bento grid with world map, keyboard, and login skeletons
+- feature-section-with-vertical-grids — Feature section with vertical grid layout, animated skeletons including login form, world 
+- feature-section-with-horizontal-skeletons — Feature section with horizontal device skeletons (iPhone, MacBook, iPad) with animated bea
+- feature-section-with-centered-skeleton — Three-column feature section with icon-led copy on the sides and a centered showcase area 
+- feature-section-with-terminal — Feature section with animated terminal and expandable feature tabs
+- box-illustration — Interactive box illustration with popout cards on hover
+- feature-with-inline-icons — Minimal feature grid with inline icons and responsive separators
+- features-with-hover-and-text-animation — Feature grid with hover-driven headline and Motion text swap, responsive cell dividers
+- pricing-with-header-and-icons — Data-driven pricing cards with featured plan styling and dark mode support
+- hero-section-with-mousemove — Hero section with hover highlight showing element dimensions and sliding number animation
+- macbook-illustration-with-icons — MacBook illustration with floating icon cards on hover
+- text-highlight-illustration — Story text with animated highlight reveal and floating formatting toolbar
+- meeting-illustration — Meeting confirmation card with highlighted time, avatar, and join or reschedule actions
+- inline-icon-illustration — Headline with inline logo badge, periodic wiggle, and dashed connector to icon callouts
+- slider-illustration — Pricing copy with inline badge, text highlights, and draggable slider with floating segmen
+- draggable-cards — Swipeable stack of profile cards with spring physics; flick cards off the deck and they cy
+- faqs-with-dashed-lines — FAQs With Dashed Lines and Accordion
+- dither-features — Feature section with dithered image backdrop, tabbed content cards, and chat conversation 
+- multicolored-features — Feature section with YouTube creator highlights, multicolor gradient rows, thumbnails, and

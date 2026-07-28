@@ -1,0 +1,40 @@
+- ai-prompt — My own style of chat AI input.
+- command-button — Command button for shortcut.
+- card-flip — Animated flip card with gradient button and animation.
+- smooth-drawer — Smooth slide-in drawer. (this was harder than i thought to make that one)
+- shape-hero — Shapes that fall from the top.
+- ai-text-loading — Thinking mode.
+- shimmer-text — Quite fancy.
+- carousel-cards — Interactive carousel with card navigation.
+- file-upload — File upload with special uploading animation. Make sure to try the drag and drop.
+- action-search-bar — Action Bar with shortcuts, and smooth dropdown animation.
+- ai-input-search — AI input with search mode.
+- currency-transfer — Multiples step animation transaction inspired.
+- background-paths — Drawed line paths in the middle.
+- beams-background — Animated Beams in the background that are customizable.
+- apple-activity-card — Inspired by Apple activity app.
+- ai-voice — Voice mode.
+- smooth-tab — Animated tab switcher.
+- team-selector — Group selector with a different style.
+- switch-button — Animated shadow theme switcher button.
+- bento-grid — Grid of 4 cards with different content and animations.
+- social-button — Animated Social show-up
+- hold-button — Hold Button with different hold duration and colors.
+- attract-button — Attract particles button!
+- gradient-button — That was so hard to make.
+- v0-button — Open in V0.
+- toolbar — Multiples actions toolbar inspired by Figma.
+- ai-loading — Code loading pending.
+- card-stack — Stack of cards that expend onclick.
+- avatar-picker — Avatar picker with rotation animation.
+- type-writer — Animated TypeWritter with multiples options.
+- swoosh-text — Nike inspired Text
+- sliced-text — I haven't found any usage for that component, but i like it.
+- glitch-text — Why not?
+- matrix-text — 010110010110111101110101011100100010000001110111011001010110110001100011011011110110110101
+- dynamic-text — Dynamic switcher text.
+- particle-button — Particle Button Animation on click.
+- tweet-card — Gradient on hover X card. (The post is real!)
+- scroll-text — Animated on scroll texts.
+- liquid-glass-card — Liquid Glass inspired by @Apple
+- profile-dropdown — Menu dropdown with action buttons.
