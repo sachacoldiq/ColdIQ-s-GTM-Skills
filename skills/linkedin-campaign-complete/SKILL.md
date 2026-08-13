@@ -27,7 +27,7 @@ Then use the targeting and copy rules below.
 
 ### Tier 1 (Highest Priority)
 - LinkedIn Webinar/Event attendees
-- Post engagers (filter to ICP via Clay)
+- Post engagers (filter to ICP via a data workspace)
 - Company page followers
 - Profile viewers
 

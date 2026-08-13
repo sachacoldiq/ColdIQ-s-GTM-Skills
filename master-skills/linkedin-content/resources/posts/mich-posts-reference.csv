@@ -155,10 +155,10 @@ Software used:
 
 OUTBOUND
 
-→ Data Sourcing: Clay, Openmart, LinkedIn
-→ Enrichment: Clay, Prospeo.io, Wiza, FullEnrich
+→ Data Sourcing: a data workspace, Openmart, LinkedIn
+→ Enrichment: a data workspace, Prospeo.io, Wiza, FullEnrich
 → Sales Engagement: Instantly.ai, lemlist, Expandi
-→ Intent Signals: Clay, Common Room, Teamfluence™
+→ Intent Signals: a data workspace, Common Room, Teamfluence™
 
 INBOUND:
 
@@ -197,7 +197,7 @@ Software used:
 
 → Newsletter: beehiiv
 → Email Marketing: Customer.io
-→ Lead Scoring: Clay, OpenAI, Claude
+→ Lead Scoring: a data workspace, OpenAI, Claude
 → Workflow Automation: n8n, Relevance AI
 
 
@@ -441,7 +441,7 @@ We constantly run prospecting campaigns based on various plays:
 
 The goal isn't to generate traffic, but at scale, it does come back to our site.
 
-Useful tech: Clay, lemlist, Instantly.ai, Apify, Common Room, PredictLeads, Prospeo.io, Wiza, FullEnrich.
+Useful tech: a data workspace, lemlist, Instantly.ai, Apify, Common Room, PredictLeads, Prospeo.io, Wiza, FullEnrich.
 
 
 E. Others (~11,000 visits)
@@ -801,7 +801,7 @@ We have ~10,000 active newsletter subscribers with 40%+ open rates. We use:
 
 We deliver Outbound & GTM services to 80+ B2B clients.
 
-Our entire outbound engine is powered by Clay for:
+Our entire outbound engine is powered by a data workspace for:
 
 → Prospect research
 → Enrichment
@@ -909,7 +909,7 @@ We run several plays, including:
 
 All built on targeted lists of < 5,000 hyper-enriched prospects. 
 
-Useful tech: Clay, Instantly.ai, lemlist, Prospeo.io, FullEnrich, Apify, Wiza, Common Room, PredictLeads
+Useful tech: a data workspace, Instantly.ai, lemlist, Prospeo.io, FullEnrich, Apify, Wiza, Common Room, PredictLeads
 
 
 E. Others (~11,000 visits)
@@ -928,7 +928,7 @@ To convert traffic, we run:
 - Lead magnet e-books pop-ups.
 - Mini-tools to capture emails.
 
-All data flows through n8n → scored via Clay + OpenAI + PredictLeads.
+All data flows through n8n → scored via data workspace + OpenAI + PredictLeads.
 
 
 3️⃣ Sales Engine
@@ -945,7 +945,7 @@ The flow =
 
 - Precall: case studies, VSL, free video content → prospects qualified via Default.
 - Discovery call: AE connects with prospect, sends connection request.
-- Enrichment: lead research via Clay (funding, headcount, tech stack, tenure, reports).
+- Enrichment: lead research via a data workspace (funding, headcount, tech stack, tenure, reports).
 - Proposal → (follow-up) → Closed Won
 
 Useful tech: Attio (CRM), Attention (AI meeting notes), Hyperline (CPQ), Qwilr (proposals), Stripe (payments).
@@ -1124,7 +1124,7 @@ A.k.a the things AI don’t do that well, and that your peers won’t want to do
 
 2. You lean into the technical side of GTM
 
-You learn how to use AI & technologies like Apify, Clay, Relevance AI, Common Room, Instantly.ai, lemlist, Cursor, Claude Code.
+You learn how to use AI & technologies like Apify, a data workspace, Relevance AI, Common Room, Instantly.ai, lemlist, Cursor, Claude Code.
 
 And you push AI & tech to its limits.
 
@@ -1383,16 +1383,16 @@ Type out inside Relevance what workflow you’d like to build
 …and it does most of the automation building on your behalf.
 
 
-2. Research agent: Claygent
+2. Research agent: an AI research agent
 
 ↳ It helps you effortlessly research prospects at scale.
 
-Claygent is embedded inside Clay & works like an assistant you can delegate time-consuming tasks to.
+an AI research agent is embedded inside a data workspace & works like an assistant you can delegate time-consuming tasks to.
 
 For example, ask it to: 
 → Find pricing info on 1000+ SaaS companies.
 
-Claygent will then:
+an AI research agent will then:
 - Browse the web and navigate each SaaS website.
 - Navigate until it finds pricing.
 - Give you the price.
@@ -1738,7 +1738,7 @@ Their outbound tech stack is streamlined but features some of the top prospectin
 
 - lemlist to coordinate multichannel outbound campaigns across email & LinkedIn with personalisation.
 
-- Clay for mapping target accounts, enriching data via multiple providers, and triggering sophisticated outbound workflows.
+- a data workspace for mapping target accounts, enriching data via multiple providers, and triggering sophisticated outbound workflows.
 
 - Common Room to consolidate buying signals across channels, score contacts/accounts, and drive intent-based activation.
 
@@ -1843,7 +1843,7 @@ You need at least one very reliable data platform.
 
 Some of my favourites include:
 
-1. Clay (starts at $149/mo)
+1. a data workspace (starts at $149/mo)
 ↳ They aggregate 100+ data providers in one place, including as intent platforms and AI agents.
 
 2. Openmart (from $149/mo)
@@ -1877,8 +1877,8 @@ Depending on use case, I'll use:
 1. Relevance AI (starts at $19/mo)
 ↳ Ideal to build custom agentic workflows.
 
-2. Claygent (starts $149/mo)
-↳ Within Clay, best agent to perform at scale research on your lead lists.
+2. an AI research agent (starts $149/mo)
+↳ Within a data workspace, best agent to perform at scale research on your lead lists.
 
 3. n8n (starts 24€/mo)
 ↳ One of the most flexible, powerful & cost-effective workflow builder.
@@ -1891,7 +1891,7 @@ But you can make an educated guess by monitoring buying signals.
 
 Some reliable platform to source these signals include:
 
-- Clay (starts at $149/mo)
+- a data workspace (starts at $149/mo)
 - Common Room (starts at $1,000/mo)
 - Trigify.io for social signals (starts at $149/mo)
 
@@ -2031,7 +2031,7 @@ None of this matters if you land in spam.
 9. Tech Stack
 
 - Instantly.ai (sequencing, deliverability, analytics)
-- Clay (data enrichment, intent, personalization)
+- a data workspace (data enrichment, intent, personalization)
 - Prospeo.io (list building, targeting)
 
 Looking for more details? 👇
@@ -2067,12 +2067,12 @@ P.S: What's working for you right now with cold email?"
 
 ↳ In 2026, we’ll keep doing that, it works.
 
-4. We routed all our leads leads to Clay
+4. We routed all our leads leads to a data workspace
 
 5. We scored & segmented our leads, at scale, with AI.
 
-- We researched our inbound leads with Clay’s AI Agent (Claygent).
-- We segmented leads into 3 tiers using OpenAI inside of Clay.
+- We researched our inbound leads with a data workspace’s AI Agent (an AI research agent).
+- We segmented leads into 3 tiers using OpenAI inside of a data workspace.
 - We added leads to separate GTM campaigns depending on their Tier.
 
 ↳ In 2026, we’ll keep using AI to segment & tier leads, but with tighter (& better) ICP criteria.
@@ -2081,7 +2081,7 @@ P.S: What's working for you right now with cold email?"
 
 - We used Wiza, Prospeo.io & LeadMagic to find emails.
 - We used FullEnrich to find phone numbers.
-- We performed these enrichments in Clay.
+- We performed these enrichments in a data workspace.
 
 ↳ No major change in 2026, except for experimenting with more data platforms.
 
@@ -2107,11 +2107,11 @@ If you want this system entirely built for you, send a DM :)"
 Why?
 ↳ They orchestrate advanced workflows for marketing & sales teams.
 
-Example use-case: Running a personalised outbound campaign via Clay, on autopilot.
+Example use-case: Running a personalised outbound campaign via a data workspace, on autopilot.
 
 Software you can use:
 
-→ Clay
+→ data workspace
 → AirOps
 → Default
 → Relevance AI
@@ -2214,7 +2214,7 @@ Example use-case: Building a list of Marketing Directors who work at AI-native S
 
 Platforms include:
 → Exa
-→ Clay
+→ data workspace
 → Apify
 → Tavily
 → Relevance AI
@@ -2259,10 +2259,10 @@ Our outbound stack has way more tools than needed, since we adapt to clients’ 
 
 → For Data Sourcing & Enrichment, we use:
 
-- Clay, FullEnrich (Waterfall Enrichment).
+- a data workspace, FullEnrich (Waterfall Enrichment).
 - Prospeo.io, Wiza, LeadMagic (Email & Phone Numbers).
 - Exa, Openmart, LinkedIn, Apollo, DiscoLike (B2B Databases).
-- Clay, Common Room, Midbound, Trigify.io, Teamfluence™ (Intent Data).
+- a data workspace, Common Room, Midbound, Trigify.io, Teamfluence™ (Intent Data).
 
 → For Sales Engagement, we use:
 
@@ -2272,7 +2272,7 @@ Our outbound stack has way more tools than needed, since we adapt to clients’ 
 
 We spend around ~30,000€ on Ads across LinkedIn, Meta, Google & YouTube. We use:
 
-- Clay to build our ABM lists.
+- a data workspace to build our ABM lists.
 - Usermaven for attribution & analytics.
 - Fibbler to track engagement from our target accounts. 
 
@@ -2448,7 +2448,7 @@ Someone engaging with you or your content doesn't mean they'll buy from you... B
 
 STEP 2: DATA ENRICHMENT
 
-For each of these engagers, Clay enriches data on the person & their company.
+For each of these engagers, a data workspace enriches data on the person & their company.
 
 - Job title
 - Tech stack
@@ -2533,7 +2533,7 @@ Here’s what they answered:
 
 TOOLS MOST OFTEN MENTIONED:
 
-- Clay (included in 71% of the stacks)
+- a data workspace (included in 71% of the stacks)
 - n8n (48%)
 - HubSpot (39%)
 - Instantly.ai (35%)
@@ -2836,13 +2836,13 @@ Why?
 
 ↳ They help you build advanced, multi-step, automated prospecting workflows.
 
-Example use-case: Running a signal-based Clay campaign that scores leads, segments them into several tiers, adds an AI-personalized first line… and pushes contacts to your favourite sequencer. For 1,000+ leads. On autopilot.
+Example use-case: Running a signal-based a data workspace campaign that scores leads, segments them into several tiers, adds an AI-personalized first line… and pushes contacts to your favourite sequencer. For 1,000+ leads. On autopilot.
 
 Examples include:
 
 → Relevance AI
 → Outbond
-→ Clay
+→ data workspace
 → n8n
 
 
@@ -2901,7 +2901,7 @@ Examples:
 
 → Relevance AI
 → Outbond
-→ Claygent
+→ an AI research agent
 → Tavily
 → Apify
 → Exa
@@ -2935,7 +2935,7 @@ Examples:
 → Common Room
 → TheirStack
 → Outbond
-→ Clay
+→ data workspace
 
 
 7/ AI SDRs
@@ -2980,7 +2980,7 @@ Not to generate leads, but to plant seeds.
 
 Tools:
 - LinkedIn Campaign Manager 
-- Clay for Audience Building
+- a data workspace for Audience Building
 
 
 2. Content for Trust Building
@@ -3003,7 +3003,7 @@ When a qualified person or company shows interest, they get added to our outreac
 Tools:
 - Midbound for visitor identification.
 - Teamfluence™ for social tracking.
-- Clay for lead segmentation.
+- a data workspace for lead segmentation.
 
 
 4. Personalized Outbound for Conversion
@@ -3014,7 +3014,7 @@ It's not cold anymore.
 
 Tools:
 - Instantly.ai, lemlist for sending.
-- Clay for enrichment.
+- a data workspace for enrichment.
 
 
 The results of implementing such a system for AirOps in the last 10 months:
@@ -3048,7 +3048,7 @@ A single strategic GTM Engineer can replace 5+ extra hires by owning the full da
 - Data Enrichment: filtering, scoring, and qualifying leads with AI agents and waterfall enrichments
 - Data Activation: turning all of it into pipeline through outbound, RevOps, content & ads
 
-The best ones master tools like: Clay, Apify, Claude Code, Relevance AI, lemlist, Instantly.ai, Expandi, PredictLeads, Common Room, Attio, AirOps... stitching them together into workflows that outperform entire teams.
+The best ones master tools like: a data workspace, Apify, Claude Code, Relevance AI, lemlist, Instantly.ai, Expandi, PredictLeads, Common Room, Attio, AirOps... stitching them together into workflows that outperform entire teams.
 
 The problem? Finding these people is still surprisingly hard.
 
@@ -3109,7 +3109,7 @@ Let's say you:
 2. Searched who is in charge of this initiative.
 ↳ I'll gladly refer you to said person
 
-PS: You can automate this 'play' via Clay by combining intent signals & retrieving a leader/manager in a specific department.
+PS: You can automate this 'play' via a data workspace by combining intent signals & retrieving a leader/manager in a specific department.
 
 
 ❌ DMs asking for time on the 1st touchpoint
@@ -3249,7 +3249,7 @@ Let us know, and we'll get on it :)"
 
 1. Leverage sourcing agents
 
-Use platforms like Airtop, Clay, Exa, Perplexity, Manus AI or Relevance AI and describe in plain/natural language what you're looking for.
+Use platforms like Airtop, a data workspace, Exa, Perplexity, Manus AI or Relevance AI and describe in plain/natural language what you're looking for.
 
 Their agents handle the rest.
 
@@ -3278,7 +3278,7 @@ Monitor companies’ activity, including:
 - Social engagement
 - Tech/software changes
 
-Via tools like Clay, PredictLeads, Common Room, and Trigify.io to infer potential buying willingness. 
+Via tools like a data workspace, PredictLeads, Common Room, and Trigify.io to infer potential buying willingness.
 
 
 5. Custom data extraction
@@ -3290,7 +3290,7 @@ Once you sourced your target people & companies, you’ll want to:
 
 → Find their email addresses & phone numbers with point solutions (e.g: Prospeo, Wiza, LeadMagic) or…
 
-→ Find their contact data via data waterfalls (e.g: FullEnrich, Clay, Enginy (formerly Genesy), Outbond)
+→ Find their contact data via data waterfalls (e.g: FullEnrich, a data workspace, Enginy (formerly Genesy), Outbond)
 
 More details included in the carousel below ↓
 

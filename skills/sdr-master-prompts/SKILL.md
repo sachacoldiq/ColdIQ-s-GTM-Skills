@@ -27,7 +27,7 @@ ColdIQ designs custom Go-To-Market systems (not generic campaigns).
 We combine:
 - Intent data
 - Enrichment workflows
-- Clay automation
+- a data workspace automation
 - Outbound execution
 
 Delivery: Done-for-you OR operationalize with your team.

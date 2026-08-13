@@ -11,7 +11,7 @@ Tracks LinkedIn engagement to identify high-intent B2B prospects. Monitors speci
 ### Key Features
 - **Social Engagement**: Track likes/comments on any profile (not just yours)
 - **Signal Monitoring**: Role changes, viral posts, company growth
-- **Clay Integration**: Direct webhook to Clay tables
+- **a data workspace Integration**: Direct webhook to a data workspace tables
 - **Data Export**: Full company data, job titles, engagement type
 
 ### Setup Process
@@ -19,12 +19,12 @@ Tracks LinkedIn engagement to identify high-intent B2B prospects. Monitors speci
 1. **Create Trigify account** at trigify.io
 2. **Add LinkedIn URLs** you want monitored (profiles, company pages)
 3. **Configure signals**: Choose Engagement, Social Signals, etc.
-4. **Set up Clay webhook**:
-   - In Clay: Create table with webhook source, copy webhook URL
-   - In Trigify: Select data sources → Enter Clay webhook URL → Test
-5. **Trigify sends to Clay automatically** on each new signal
+4. **Set up a data workspace webhook**:
+   - In a data workspace: Create table with webhook source, copy webhook URL
+   - In Trigify: Select data sources → Enter a data workspace webhook URL → Test
+5. **Trigify sends to a data workspace automatically** on each new signal
 
-### What Gets Sent to Clay
+### What Gets Sent to a data workspace
 - Person: name, title, company, LinkedIn URL
 - Engagement: post URL, type (like/comment), text
 - Company data: size, industry, domain
@@ -67,7 +67,7 @@ Person-level website visitor identification. Places a tracking pixel on your sit
    ```
 3. **Configure integrations**:
    - Slack: Real-time visitor alerts
-   - Webhooks: Send to Clay, n8n, or CRM
+   - Webhooks: Send to a data workspace, n8n, or CRM
    - HubSpot/Salesforce: Direct CRM push
 4. **Set filters**: ICP criteria to only alert on relevant visitors
 

@@ -29,9 +29,9 @@
 - CSV upload
 - HubSpot/Salesforce sync
 - Apollo integration
-- Clay's native "Find People"
+- a data workspace's native "Find People"
 
-**Note:** External data (Apollo) is often better quality than Clay native
+**Note:** External data (Apollo) is often better quality than a data workspace native
 
 ## Step 2: Enrich Missing Emails
 
@@ -45,7 +45,7 @@
 **External Provider (saves money):**
 - Use your own API key
 - Connect Prospeo directly
-- Saves Clay credits
+- Saves a data workspace credits
 
 ## Step 3: Merge Columns
 
@@ -54,7 +54,7 @@
 
 ## Step 4: Validate Emails
 
-**Native Clay Providers:**
+**Native a data workspace Providers:**
 - Debounce, Enrichly, Hunter, LeadMagic, NeverBounce
 
 **Via API (recommended for catchalls):**

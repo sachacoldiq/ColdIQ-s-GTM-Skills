@@ -57,23 +57,23 @@ For each persona, document:
 
 ---
 
-## Persona Enrichment with Clay
+## Persona Enrichment with a data workspace
 
 ### Custom Properties to Enrich
 
-When building contact lists in Clay, enrich beyond standard fields:
+When building contact lists in a data workspace, enrich beyond standard fields:
 
 | Property | How to Enrich | Why |
 |---|---|---|
-| **Persona** (custom) | Map from title using Clay AI/rules | Enables persona-specific campaigns |
+| **Persona** (custom) | Map from title using a data workspace AI/rules | Enables persona-specific campaigns |
 | **Seniority** (custom) | Map from title (IC/Manager/Director/VP/C-Suite) | Different messaging by seniority |
 | **Function** | Extract from LinkedIn profile | Department-specific JTBDs |
-| **LinkedIn URL** | Apollo / Clay | For LinkedIn outreach + audience matching |
-| **Verified email** | Email waterfall in Clay | For outreach sequences |
+| **LinkedIn URL** | Apollo / a data workspace | For LinkedIn outreach + audience matching |
+| **Verified email** | Email waterfall in a data workspace | For outreach sequences |
 
 ### Persona Assignment Rules
 
-Create rules in Clay to auto-assign personas:
+Create rules in a data workspace to auto-assign personas:
 
 ```
 IF title contains "Product Manager" OR "PM" OR "Head of Product" OR "VP Product" OR "CPO":
@@ -125,14 +125,14 @@ IF title contains "Customer Success" OR "CX" OR "Support":
 ### Two Approaches
 
 **Approach 1: Contact List Upload (More Precise, More Expensive)**
-1. Find specific contacts at target accounts in Clay/Apollo
+1. Find specific contacts at target accounts in data workspace/Apollo
 2. Enrich with email
 3. Upload to HubSpot as marketing contacts
 4. Sync to LinkedIn via HubSpot Ad Audiences
 5. Create separate campaigns per persona list
 
 **Pros:** Very precise targeting
-**Cons:** Expensive (Clay credits + HubSpot marketing contacts cost), complex to manage
+**Cons:** Expensive (a data workspace credits + HubSpot marketing contacts cost), complex to manage
 
 **Approach 2: Company List + LinkedIn Native Filters (Recommended)**
 1. Upload company list to LinkedIn (via HubSpot company list sync)

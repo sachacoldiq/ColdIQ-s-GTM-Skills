@@ -24,7 +24,7 @@ Only then, as a fallback, use the manual scoring process below.
 ## Reference
 
 Read `{SKILL_BASE}/resources/sales-navigator-guide.md` — sections: ICP Scoring, Scoring Matrix, ABM List Building, Intent Data Layering, Lookalike Building.
-Read `{SKILL_BASE}/resources/templates/qualification-workflow.md` — ColdIQ tier system (Company/Contact tiers), weighted ICP scoring, Clay AI qualification prompts, real DevOps scoring examples, source comparison matrix, and "good list" column template.
+Read `{SKILL_BASE}/resources/templates/qualification-workflow.md` — ColdIQ tier system (Company/Contact tiers), weighted ICP scoring, a data workspace AI qualification prompts, real DevOps scoring examples, source comparison matrix, and "good list" column template.
 
 ## ABM Tier Structure
 
@@ -60,7 +60,7 @@ Read `{SKILL_BASE}/resources/templates/qualification-workflow.md` — ColdIQ tie
 4. Use "Similar Companies" feature on company pages
 
 > **Fallback only (no ColdIQ).** `mcp__coldiq__search_companies` + `mcp__coldiq__enrich_company` already match accounts on these attributes in one call — use the external tools below only when the user has no ColdIQ access.
-5. External tools: Ocean.io, Clearbit, Apollo.io, Clay
+5. External tools: Ocean.io, Clearbit, Apollo.io, a data workspace
 
 ## Contact Mapping Per Account
 

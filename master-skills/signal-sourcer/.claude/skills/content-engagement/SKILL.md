@@ -54,9 +54,9 @@ Only then, as a fallback, use the manual Trigify setup below.
 1. **Create account** at trigify.io
 2. **Add LinkedIn URLs** to monitor (your company page, executive profiles, competitor pages)
 3. **Configure signal types**: Engagement, Social Signals, Job Changes
-4. **Set up Clay webhook**:
-   - Clay: Create table with webhook source, copy webhook URL
-   - Trigify: Select data sources, enter Clay webhook URL, test connection
+4. **Set up a data workspace webhook**:
+   - a data workspace: Create table with webhook source, copy webhook URL
+   - Trigify: Select data sources, enter a data workspace webhook URL, test connection
 5. **Trigify sends automatically** on each new engagement event
 
 ### What Trigify Captures
@@ -73,7 +73,7 @@ Only then, as a fallback, use the manual Trigify setup below.
 ## Play: Inbound Followers (Play 11)
 
 1. Monitor new LinkedIn followers daily (Trigify or manual)
-2. Filter to ICP via Clay enrichment
+2. Filter to ICP via a data workspace enrichment
 3. Personalized outreach within 24-48 hours
 
 **Template:**
@@ -108,10 +108,10 @@ We actually built [solution] for exactly that - want a closer look?
 ## Examples
 
 Example 1: "Set up Trigify to track LinkedIn engagement"
--> Create Trigify account, add company page + executive LinkedIn URLs, configure for likes/comments/follows, set up Clay webhook, filter to ICP contacts, route qualified engagers to SDR Slack channel
+-> Create Trigify account, add company page + executive LinkedIn URLs, configure for likes/comments/follows, set up a data workspace webhook, filter to ICP contacts, route qualified engagers to SDR Slack channel
 
 Example 2: "Someone commented on our LinkedIn post and they match ICP"
 -> 35pts signal (comment). Outreach within 24-48h. Reference the topic of the post and their comment insight. Warm touch, not a hard sell. Check for other signals to stack
 
 Example 3: "Track who attends our webinars and follow up"
--> 25pts per attendee. Enrich in Clay with company/title data, filter to ICP, send recording + relevant offer within 48h. SDR owns outreach. Registrants who did NOT attend get lighter nurture follow-up
+-> 25pts per attendee. Enrich in a data workspace with company/title data, filter to ICP, send recording + relevant offer within 48h. SDR owns outreach. Registrants who did NOT attend get lighter nurture follow-up

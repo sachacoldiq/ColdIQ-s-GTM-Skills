@@ -239,8 +239,8 @@ As accounts hit engagement thresholds:
 |---|---|---|
 | **HubSpot** | CRM, workflows, audience sync to LinkedIn, reporting | Core subscription |
 | **LinkedIn Campaign Manager** | Ad management, targeting, delivery | Ad spend |
-| **Clay** | List building, enrichment, ICP scoring | Subscription |
-| **BuiltWith** | Technographic data (via Clay API) | API credits |
+| **a data workspace** | List building, enrichment, ICP scoring | Subscription |
+| **BuiltWith** | Technographic data (via a data workspace API) | API credits |
 | **Apollo** | Contact discovery, firmographics | Subscription |
 | **ZenABM** | LinkedIn engagement → CRM sync, account scoring, ABM stages, intent detection, analytics dashboards | ~$59/mo+ |
 | **Fibbler** | LinkedIn engagement → CRM sync (quantitative data) | Lower cost alternative |

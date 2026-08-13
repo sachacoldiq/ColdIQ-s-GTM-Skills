@@ -2,7 +2,7 @@
 
 ## ColdIQ Tier System
 
-### Company Tiers (Apply with Clay AI)
+### Company Tiers (Apply with a data workspace AI)
 
 | Tier | Definition | Outreach Timing |
 |------|-----------|----------------|
@@ -31,7 +31,7 @@
 
 ---
 
-## Clay AI Prompts for Tiering
+## a data workspace AI Prompts for Tiering
 
 ### Company Qualification Prompt
 ```
@@ -97,7 +97,7 @@ Score each company on a 1-10 scale across 6 dimensions:
 - Agencies, competitors, existing clients/pipeline
 
 ### Step 2: ICP Scoring
-Apply weighted scoring (above) using Clay AI or formula columns.
+Apply weighted scoring (above) using a data workspace AI or formula columns.
 
 ### Step 3: Tiered Prioritization
 Assign tiers based on scores. Focus resources on Tier 1 first.
@@ -142,7 +142,7 @@ Value Prop, Timing Score, Lead Score
 |--------|----------|----------|------|
 | **Apollo** | Volume, broad searches | 275M+ contacts | $$ |
 | **Sales Navigator** | Precision, enterprise | High for LinkedIn users | $$$ |
-| **Clay Native** | Company/people discovery | Good | Clay credits |
+| **a data workspace Native** | Company/people discovery | Good | a data workspace credits |
 | **Lima Data** | LinkedIn-powered prospecting | High for LinkedIn data | API credits |
 | **Ocean.io** | Lookalike companies | Moderate | Per-search |
 | **Store Leads** | E-commerce/DTC brands | E-commerce focused | 1 credit |
@@ -150,9 +150,9 @@ Value Prop, Timing Score, Lead Score
 
 ### Source Selection by Use Case
 - **Broad TAM build (1,000+):** Apollo + Sales Nav (combine for coverage)
-- **Precision TAL (50-200):** Sales Nav filters → Clay enrichment → manual QA
-- **Lookalike expansion:** Ocean.io from best customers → Clay enrichment
+- **Precision TAL (50-200):** Sales Nav filters → data workspace enrichment → manual QA
+- **Lookalike expansion:** Ocean.io from best customers → data workspace enrichment
 - **E-commerce/DTC:** Store Leads + Meta Ads Library scraper
-- **Local businesses:** Google Maps via Outscraper → Clay enrichment
+- **Local businesses:** Google Maps via Outscraper → data workspace enrichment
 
 **Rule:** Always use multiple sources. Single source = ~60% TAM. Two sources = ~85%.

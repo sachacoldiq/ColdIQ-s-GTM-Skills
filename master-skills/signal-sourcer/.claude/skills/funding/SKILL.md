@@ -47,9 +47,9 @@ Only then, as a fallback, use the manual detection sources below.
 
 ## Detection Sources
 
-- **Crunchbase** - API or Clay enrichment for funding rounds
+- **Crunchbase** - API or a data workspace enrichment for funding rounds
 - **Press releases** - TechCrunch, company blogs, LinkedIn announcements
-- **Clay enrichment** - Auto-detect funding events on target accounts
+- **a data workspace enrichment** - Auto-detect funding events on target accounts
 - **LinkedIn posts** - Founders/CEOs announce rounds
 - **PitchBook / CB Insights** - Premium data for larger deals
 
@@ -87,10 +87,10 @@ Worth a quick chat?
 ## Examples
 
 Example 1: "Track funding rounds for my target accounts"
--> Set up Clay table with Crunchbase enrichment, filter by round size and ICP fit, trigger Slack alerts for $10M+ rounds, auto-enqueue SDR sequence for qualified accounts
+-> Set up a data workspace table with Crunchbase enrichment, filter by round size and ICP fit, trigger Slack alerts for $10M+ rounds, auto-enqueue SDR sequence for qualified accounts
 
 Example 2: "A prospect just raised Series B"
 -> Weeks 2-4 optimal window. Reference scaling challenges specific to their stage. SDR personalized outreach within 24h. Score = 45pts base, stack with any other active signals
 
 Example 3: "Build a funding-based outbound workflow"
--> Clay: Crunchbase monitoring on ICP accounts, filter round >= $5M, enrich contacts (VP+), calculate weeks-since-announcement, route week 2-4 to SDR Slack channel, auto-add to CRM with signal tag
+-> a data workspace: Crunchbase monitoring on ICP accounts, filter round >= $5M, enrich contacts (VP+), calculate weeks-since-announcement, route week 2-4 to SDR Slack channel, auto-add to CRM with signal tag

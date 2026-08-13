@@ -60,7 +60,7 @@ Always add the "So What": "Save 3 hours/month" is weak. "Save 3 hours/month so y
 
 - "Am I reaching the right person?"
 - "Is there someone else who handles this?"
-- Name other people in their department (use Clay enrichment)
+- Name other people in their department (use a data workspace enrichment)
 
 What does NOT work: Guilt trips, begging, "you must be getting chased by an alligator" humor.
 

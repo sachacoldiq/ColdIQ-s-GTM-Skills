@@ -64,10 +64,10 @@ Load the appropriate reference based on context:
 - **6 core buying signals, benchmarks** -> Read `{SKILL_BASE}/resources/buying-signals.md`
 - **Scoring framework, weights, thresholds, SLAs** -> Read `{SKILL_BASE}/resources/signal-scoring.md`
 - **137 buying triggers taxonomy** -> Read `{SKILL_BASE}/resources/signal-taxonomy.md`
-- **Job change tracking in Clay** -> Read `{SKILL_BASE}/resources/timing/job-change-tracking.md`
+- **Job change tracking in a data workspace** -> Read `{SKILL_BASE}/resources/timing/job-change-tracking.md`
 - **Tool setup: RB2B, Trigify, Common Room, Bombora, etc.** -> Read `{SKILL_BASE}/resources/tool-setup-guides.md`
 - **11 executable GTM plays** -> Read `{SKILL_BASE}/resources/examples/signal-campaigns/gtm-plays.md`
-- **30-trigger quick ref with detection tools, timing windows, Clay credit costs, signal freshness rules, reliability tiers, signal sources by data party** -> Read `{SKILL_BASE}/resources/signal-detection-tools.md`
+- **30-trigger quick ref with detection tools, timing windows, a data workspace credit costs, signal freshness rules, reliability tiers, signal sources by data party** -> Read `{SKILL_BASE}/resources/signal-detection-tools.md`
 
 ## Key Benchmarks (cite these)
 

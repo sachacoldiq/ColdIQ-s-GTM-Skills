@@ -1,6 +1,6 @@
 ---
 name: list-building
-description: Build B2B prospect lists using multi-source strategies, ICP definition, Clay enrichment, and data validation. Covers ICP frameworks (firmographics, technographics, behavioral, psychographic), multi-source company discovery (Clay, Apollo, LinkedIn Sales Nav, Crunchbase, web scraping), people discovery, email/phone waterfalls, deduplication, scoring, personalization, and activation. Use when building lead lists, defining ICPs, enriching contacts, setting up Clay tables, or planning outbound data strategy.
+description: Build B2B prospect lists using multi-source strategies, ICP definition, a data workspace enrichment, and data validation. Covers ICP frameworks (firmographics, technographics, behavioral, psychographic), multi-source company discovery (a data workspace, Apollo, LinkedIn Sales Nav, Crunchbase, web scraping), people discovery, email/phone waterfalls, deduplication, scoring, personalization, and activation. Use when building lead lists, defining ICPs, enriching contacts, setting up a data workspace tables, or planning outbound data strategy.
 ---
 
 # B2B List Building
@@ -23,7 +23,7 @@ List building isn't about getting the *most* contacts — it's about getting the
 | Phase | What You Do | Key Outcome |
 |---|---|---|
 | 1. Define ICP | Firmographics, technographics, signals, psychographics | Targeting criteria |
-| 2. Company Discovery | Multi-source search (Clay + Apollo + LinkedIn + more) | Raw company list (80–90% TAM coverage) |
+| 2. Company Discovery | Multi-source search (data workspace + Apollo + LinkedIn + more) | Raw company list (80–90% TAM coverage) |
 | 3. Company Enrichment & Scoring | Validate firmographics, add signals, tier A/B/C | Prioritized company list |
 | 4. People Discovery | Multi-source people search at tiered companies | Raw contact list |
 | 5. Contact Enrichment & Validation | Email waterfalls, phone waterfalls, LinkedIn URLs | Verified contact data |
@@ -69,7 +69,7 @@ For the full 62 data sources table, see [list-building-data-sources.md](list-bui
 
 ### ICP Scoring System
 
-Build a formula column in Clay:
+Build a formula column in a data workspace:
 
 | Criteria | Points |
 |---|---|
@@ -124,24 +124,24 @@ For the full ICP deep dive (how to build, examples, common mistakes), see [list-
 
 | Your ICP | Primary | Secondary | Tertiary |
 |---|---|---|---|
-| Tech/SaaS (US/EU) | Clay Find Companies | Apollo | LinkedIn Sales Nav |
+| Tech/SaaS (US/EU) | a data workspace Find Companies | Apollo | LinkedIn Sales Nav |
 | Enterprise (Fortune 500) | ZoomInfo | LinkedIn Sales Nav | Apollo |
-| Startups (funded) | Crunchbase | Clay Find Companies | LinkedIn Sales Nav |
+| Startups (funded) | Crunchbase | a data workspace Find Companies | LinkedIn Sales Nav |
 | International (Asia, LATAM) | Apollo | LinkedIn Sales Nav | Local directories |
 | Non-tech (Manufacturing, Retail) | Apollo | LinkedIn Sales Nav | Industry directories |
-| Niche markets | Web scraping/Claygent | Apollo | Industry associations |
+| Niche markets | Web scraping/an AI research agent | Apollo | Industry associations |
 
 ### Primary Sources
 
-**Clay Find Companies**
+**a data workspace Find Companies**
 - Best for: Tech/SaaS, US/EU, technographic filtering
-- 60M+ companies, built into Clay
+- 60M+ companies, built into a data workspace
 - Weakness: weaker in Asia/LATAM, traditional/offline businesses
 
 **Apollo**
 - Best for: Broad coverage, international, non-tech industries
 - 250M+ contacts, 60M+ companies
-- Export: CSV → import to Clay
+- Export: CSV → import to a data workspace
 - Free tier: 50 exports/month
 
 **LinkedIn Sales Navigator**
@@ -154,25 +154,25 @@ For the full ICP deep dive (how to build, examples, common mistakes), see [list-
 
 - **ZoomInfo** — enterprise, high-accuracy ($15K–$30K/year)
 - **Crunchbase** — funded startups, recent funding rounds ($29–$99/month)
-- **Web Scraping / Claygent** — niche directories, association lists, conference attendees
+- **Web Scraping / an AI research agent** — niche directories, association lists, conference attendees
 - **Your CRM** — closed-lost (6+ months = gold), churned, upsell
 
 ### Alternative Discovery Methods
 
 **Local Prospecting** (when targets don't show up in B2B databases):
 - **Openmart** — US-based local businesses
-- **Google Maps scraping via Clay** — any niche with physical presence
-- Import → Clay → enrich
+- **Google Maps scraping via a data workspace** — any niche with physical presence
+- Import → data workspace → enrich
 
 **Directory Scraping:**
 - Use Instant Data Scraper (Chrome extension)
-- Export CSV → import to Clay → enrich
+- Export CSV → import to data workspace → enrich
 - See [list-building-directories.md](list-building-directories.md) for industry-specific sources
 
 **TAM Scoping via DiscoLike:**
 - Discovers lookalike websites based on keywords/tech tags
 - Not limited to LinkedIn data
-- Good when Apollo/Clay/LinkedIn fail
+- Good when Apollo/data workspace/LinkedIn fail
 - ~1 credit per row to qualify
 - Filter by country, language, similarity variance, company start date
 
@@ -187,7 +187,7 @@ For the full ICP deep dive (how to build, examples, common mistakes), see [list-
 - Hiring signals (hiring for roles related to your solution = active need)
 - News/triggers (expansion, leadership changes, product launches)
 
-**Then tier/score:** A-tier → B-tier → C-tier using formulas or AI in Clay.
+**Then tier/score:** A-tier → B-tier → C-tier using formulas or AI in a data workspace.
 
 ---
 
@@ -195,7 +195,7 @@ For the full ICP deep dive (how to build, examples, common mistakes), see [list-
 
 Multi-source again:
 1. **Apollo People Search** — good coverage, job title filtering
-2. **Clay's Find People** — different data set, finds people Apollo misses (and vice versa)
+2. **a data workspace's Find People** — different data set, finds people Apollo misses (and vice versa)
 3. **LinkedIn scraping** — most current, slower/more expensive, harder to scrape over time
 4. **Waterfall approach** — try multiple sources per company to maximize contact discovery
 
@@ -216,7 +216,7 @@ Multi-source again:
 - Recent job changes, education, location, interests
 - Company news, recent posts, mutual connections
 
-See [Clay's data provider tests](https://www.clay.com/data-tests) for provider performance by region.
+Review current independent provider tests for performance by region.
 
 ---
 
@@ -254,7 +254,7 @@ Dedupe at **two levels:**
 - **CRM sync** — push to Salesforce, HubSpot (with deduplication)
 - **Sequencer** — Instantly, Smartlead, Lemlist, Outreach
 - **Manual export** — CSV for one-off campaigns
-- **Clay campaigns** — send directly from Clay
+- **a data workspace campaigns** — send directly from a data workspace
 
 **Conditional logic:** Only push A-tier to expensive sequences, B-tier to nurture, C-tier to content campaigns.
 

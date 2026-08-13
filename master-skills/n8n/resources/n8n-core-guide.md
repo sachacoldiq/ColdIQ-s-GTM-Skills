@@ -19,7 +19,7 @@ n8n ("nodemation") is a visual workflow automation tool built on Node.js. Build 
 
 | Type | How It Works | Example |
 |------|-------------|---------|
-| **Webhooks** | External service pushes data to URL | Clay sends enriched data |
+| **Webhooks** | External service pushes data to URL | a data workspace sends enriched data |
 | **Event Triggers** | App event starts workflow | New HubSpot contact |
 | **Cron Jobs** | Scheduled intervals | Daily at 9 AM |
 | **Manual** | Click "Execute" | Testing |

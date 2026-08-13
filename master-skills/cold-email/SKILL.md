@@ -41,7 +41,7 @@ When a request comes in, identify the type and delegate to the appropriate sub-s
 | Writing follow-up emails | **follow-up** | "follow-up", "email 2/3", "no response", "bump", "breakup email" | Read `{SKILL_BASE}/.claude/skills/follow-up/SKILL.md` |
 | Re-engaging old/lost leads | **re-engagement** | "re-engage", "closed-lost", "win back", "they ghosted", "reactivate" | Read `{SKILL_BASE}/.claude/skills/re-engagement/SKILL.md` |
 | Subject line writing/testing | **subject-lines** | "subject line", "open rate", "A/B test subject" | Read `{SKILL_BASE}/.claude/skills/subject-lines/SKILL.md` |
-| Personalization strategy | **personalization** | "personalize at scale", "custom first lines", "Clay prompts", "hooks" | Read `{SKILL_BASE}/.claude/skills/personalization/SKILL.md` |
+| Personalization strategy | **personalization** | "personalize at scale", "custom first lines", "a data workspace prompts", "hooks" | Read `{SKILL_BASE}/.claude/skills/personalization/SKILL.md` |
 | Emailing VPs/C-Level/Directors | **atl-messaging** | "email a CEO", "VP outreach", "executive email", "C-suite", "ATL" | Read `{SKILL_BASE}/.claude/skills/atl-messaging/SKILL.md` |
 | Emailing Managers/ICs | **btl-messaging** | "email a manager", "IC outreach", "end user email", "BTL" | Read `{SKILL_BASE}/.claude/skills/btl-messaging/SKILL.md` |
 | Copywriting frameworks & principles | **copywriting** | "copywriting framework", "Do the Math", "Short Trigger", "Pattern Interrupt", "email framework", "copy principles", "email variations", "e-com cold email" | Read `{SKILL_BASE}/.claude/skills/copywriting/SKILL.md` |
@@ -96,7 +96,7 @@ For detailed infrastructure walkthroughs:
 
 Handle tooling questions directly by reading the resource:
 
-- **Tool comparison, multi-channel setup, Clay integration** --> Read `{SKILL_BASE}/resources/examples/sequencing-tools.md`
+- **Tool comparison, multi-channel setup, a data workspace integration** --> Read `{SKILL_BASE}/resources/examples/sequencing-tools.md`
 
 ### Quick Tool Reference
 
@@ -154,7 +154,7 @@ User Request
 **Example 3: "My emails are going to spam"**
 --> Cross-cutting: deliverability. Read `{SKILL_BASE}/resources/frameworks/deliverability-guide.md`. Diagnose SPF/DKIM/DMARC, check warmup, review volume.
 
-**Example 4: "How do I personalize at scale using Clay?"**
+**Example 4: "How do I personalize at scale using a data workspace?"**
 --> Route to **personalization**. Read `{SKILL_BASE}/resources/prompts/personalization-prompts.md` + `{SKILL_BASE}/resources/templates/campaign-playbooks.md`. Provide data bucket strategy and AI prompts.
 
 **Example 5: "I need to re-engage leads from 3 months ago"**

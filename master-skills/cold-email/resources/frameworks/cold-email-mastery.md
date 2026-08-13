@@ -36,7 +36,7 @@
 - Generic filters (20-500 employees) don't work
 
 **Solution — Golden ICP:**
-Stack signals with Clay:
+Stack signals with a data workspace:
 
 | Level | Signal | Example |
 |-------|--------|---------|
@@ -94,7 +94,7 @@ Line 4: CTA (Would you want to chat next Thursday?)
 **What works:**
 - "Am I reaching the right person?"
 - "Is there someone else in the company who handles this?"
-- Bonus with Clay: automatically name other people in the department
+- Bonus with a data workspace: automatically name other people in the department
 
 ## Changing Value Props
 
@@ -115,7 +115,7 @@ Line 4: CTA (Would you want to chat next Thursday?)
 - If it's wrong, SimilarWeb is wrong, not you
 
 **Client case studies:**
-- Claygent can scrape their site's case studies
+- an AI research agent can scrape their site's case studies
 - "I noticed you worked with Intercom and helped them with XYZ"
 - PS line: "Even if we never connect, saw the case study... really impressive, kudos"
 

@@ -69,7 +69,7 @@ Step 5: Follow-up if no response (Day 5-7)
 
 **Tier 1 (Highest Priority):**
 - LinkedIn Webinar/Event attendees
-- Post engagers (filter to ICP via Clay)
+- Post engagers (filter to ICP via a data workspace)
 - Company page followers
 - Profile viewers
 
@@ -129,7 +129,7 @@ Would you be open to a quick chat?
 
 **High Priority:**
 - LinkedIn Webinar/Event attendees
-- Post engagement scrapers (filter to ICP via Clay)
+- Post engagement scrapers (filter to ICP via a data workspace)
 - Company page followers
 - Recently created LinkedIn group members
 

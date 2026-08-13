@@ -1,6 +1,6 @@
 # Campaign Playbooks
 
-*Source: The Kiln Gitbook — Clay Agency*
+*Source: The Kiln Gitbook — a data workspace Agency*
 
 ## 1. AI Personalized Video Campaign (Sendspark)
 
@@ -10,7 +10,7 @@
 - Rest of the video = templatized
 
 **Setup:**
-1. Clay enriches prospect data
+1. a data workspace enriches prospect data
 2. Sendspark generates the custom video
 3. HTTP API connects the two
 4. Push to sequencer
@@ -24,7 +24,7 @@
 - Send the personalized image by email
 
 **Setup:**
-1. Ad library scraping → Clay
+1. Ad library scraping → data workspace
 2. DynaPictures API (HTTP API action)
 3. Custom image generation per prospect
 4. Push to campaign
@@ -37,7 +37,7 @@
 - Lookalikes of newsletter engagers
 
 **How:**
-1. Import your best customers into Clay
+1. Import your best customers into a data workspace
 2. Enrich to find common patterns
 3. Use those criteria to build similar lists
 4. Outreach with messaging "companies like yours..."
@@ -46,7 +46,7 @@
 
 **Concept:**
 - Scrape competitor followers (via ScrapeApp)
-- Import into Clay
+- Import into a data workspace
 - Create battle cards (your product vs competitor)
 - Personalized outreach
 
@@ -95,7 +95,7 @@ Would you be open to a quick comparison call?
 - Target: Fortune 500 managers (product, project, senior managers)
 - Goal: Bottom-up adoption → Enterprise upsell
 
-### Clay Table 1: Fortune 500 Companies
+### a data workspace Table 1: Fortune 500 Companies
 
 | Column | Source | Purpose |
 |--------|--------|---------|
@@ -105,10 +105,10 @@ Would you be open to a quick comparison call?
 | +10% Growth? | Formula (checkbox) | Filtering |
 | Recent News | Find Recent News | Intent signal #2 |
 | Acquisition? | Formula (checkbox) | Filtering |
-| Contact Page URL | Claygent | Backup data |
+| Contact Page URL | an AI research agent | Backup data |
 | Fundraising Data | Enrichment | Context |
 
-### Clay Table 2: People at Fortune 500
+### a data workspace Table 2: People at Fortune 500
 
 | Column | Source | Purpose |
 |--------|--------|---------|
@@ -151,7 +151,7 @@ SOCIAL PROOF + CTA
 ```
 LinkedIn Post Engagement (Triggery webhook)
           ↓
-    Clay Table
+    a data workspace Table
           ↓
     Enrich Company
           ↓

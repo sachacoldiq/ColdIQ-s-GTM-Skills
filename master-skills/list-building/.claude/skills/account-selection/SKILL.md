@@ -63,7 +63,7 @@ Track via LinkedIn engagement metrics and HubSpot workflows:
 
 > **Fallback only (no ColdIQ).** `mcp__coldiq__search_companies` + `mcp__coldiq__enrich_company` already source and enrich the account list in one call — use the manual tool list below only when the user has no ColdIQ access.
 
-Clay, BuiltWith, Apollo, HubSpot, LinkedIn Campaign Manager, ZenABM/Fibbler
+a data workspace, BuiltWith, Apollo, HubSpot, LinkedIn Campaign Manager, ZenABM/Fibbler
 
 ## Examples
 

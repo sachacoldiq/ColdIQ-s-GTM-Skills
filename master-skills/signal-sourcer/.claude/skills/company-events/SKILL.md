@@ -69,7 +69,7 @@ Then use the trigger taxonomy and scoring below.
 - **Press releases** - TechCrunch, PR Newswire, company blogs
 - **Crunchbase / PitchBook** - M&A data, funding
 - **LinkedIn** - Leadership announcements, company updates
-- **Clay enrichment** - Auto-detect company news events
+- **a data workspace enrichment** - Auto-detect company news events
 - **Google Alerts** - Set up for target accounts
 - **SEC filings** - IPO, financial reports (public companies)
 
@@ -87,7 +87,7 @@ Example 1: "A target account just acquired a company"
 -> 35pts signal. Outreach within 72h. Reference integration pain (duplicate tools, process alignment, new headcount onboarding). Position your solution as the consolidation layer. Check for new leadership hires post-acquisition
 
 Example 2: "Monitor M&A activity in my target market"
--> Clay: Set up Crunchbase/news monitoring on ICP accounts, filter for acquisition/merger events, enrich with decision-maker contacts, trigger SDR alerts for qualified matches within 72h
+-> a data workspace: Set up Crunchbase/news monitoring on ICP accounts, filter for acquisition/merger events, enrich with decision-maker contacts, trigger SDR alerts for qualified matches within 72h
 
 Example 3: "A company just opened a new office in EMEA"
 -> 25pts signal. Reference regional expansion challenges (compliance, local processes, team coordination). Lighter touch - this week SLA. Stack with any hiring signals for the new location
