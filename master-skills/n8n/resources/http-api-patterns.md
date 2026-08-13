@@ -5,12 +5,12 @@
 
 ## When to Use HTTP API
 
-- Tool without native Clay integration
+- Tool without native a data workspace integration
 - Custom API endpoints
 - Tools with your own API key
 - Middleware automation (n8n, Zapier, Make)
 
-## Clay HTTP API Setup
+## a data workspace HTTP API Setup
 
 ### Configuration Steps
 1. Create an HTTP API account (Headers)
@@ -77,14 +77,14 @@ Body:
 
 ## n8n/Zapier as Middleware
 
-When Clay doesn't have a native integration:
-- Use webhooks to send data from Clay to n8n/Zapier
+When a data workspace doesn't have a native integration:
+- Use webhooks to send data from a data workspace to n8n/Zapier
 - n8n processes and routes to final destination
 - Useful for: Slack notifications, custom CRM updates, multi-step workflows
 
 ## Using Your Own API Keys
 
-- If you have your own API key (e.g., OpenAI), connect it to Clay for free
+- If you have your own API key (e.g., OpenAI), connect it to a data workspace for free
 - External sources (Zoominfo, Cognism, 6Sense) via HTTP/API = free
-- Existing plans with a provider = usable for free in Clay
-- Saves Clay credits significantly
+- Existing plans with a provider = usable for free in a data workspace
+- Saves a data workspace credits significantly

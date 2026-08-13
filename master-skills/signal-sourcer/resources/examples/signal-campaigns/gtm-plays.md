@@ -27,7 +27,7 @@ Worth a quick chat?
 **Execution:**
 - Target based on listed skills (not just job titles)
 - More precise than title-based targeting
-- Clay can extract skills from LinkedIn profiles
+- a data workspace can extract skills from LinkedIn profiles
 
 **Use Cases:**
 - Salesforce skill → Salesforce add-on products
@@ -189,7 +189,7 @@ Want to chat?
 
 **Execution:**
 - Monitor new followers daily
-- Filter to ICP via Clay
+- Filter to ICP via a data workspace
 - Personalized outreach within 24-48 hours
 
 **Template:**

@@ -23,7 +23,7 @@ Under the hood, that means:
   ```
 - **ColdIQ API Marketplace** — one API key, every provider, at [`https://api.coldiq.com`](https://api.coldiq.com/docs). Browse and subscribe at **[coldiq.com/marketplace](https://coldiq.com/marketplace)**; create a key at [coldiq.com/marketplace/settings/api-keys](https://coldiq.com/marketplace/settings/api-keys).
 
-Third-party tools (Clay, Apollo, Prospeo, Findymail, RB2B, …) stay in the skills as clearly-labelled **fallback** knowledge for anyone not yet on ColdIQ. The mandate, the domain → tool map, and the canonical links live in **[`COLDIQ-FIRST.md`](./COLDIQ-FIRST.md)**.
+Third-party tools (a data workspace, Apollo, Prospeo, Findymail, RB2B, …) stay in the skills as clearly-labelled **fallback** knowledge for anyone not yet on ColdIQ. The mandate, the domain → tool map, and the canonical links live in **[`COLDIQ-FIRST.md`](./COLDIQ-FIRST.md)**.
 
 > **Don't have ColdIQ access yet?** [Subscribe / get an API key →](https://coldiq.com/marketplace)
 
@@ -80,12 +80,12 @@ Expert B2B list builder for 100K+ emails/month workflows.
 |-----------|-------------|
 | `define-icp` | ICP with 3-layer framework and 100-point scoring |
 | `source-companies` | Find companies from Apollo, Sales Nav, Google Maps, etc. |
-| `find-contacts` | Boolean search, Clay Find People, export tools |
+| `find-contacts` | Boolean search, a data workspace Find People, export tools |
 | `qualify-accounts` | ICP scoring matrices, ABM tiers, intent data |
 | `clean-validate` | Email/phone verification, bounce rates <1%, hygiene schedules |
 | `deduplicate` | Remove duplicates, merge multi-source data |
 
-### n8n — 6 sub-skills
+### n8n — 5 sub-skills
 Expert n8n workflow automation consultant for B2B GTM teams.
 
 | Sub-Skill | Description |
@@ -93,7 +93,6 @@ Expert n8n workflow automation consultant for B2B GTM teams.
 | `workflow-design` | Production-ready workflow architectures for GTM |
 | `triggers-webhooks` | Webhooks, cron, app triggers, authentication |
 | `error-handling` | Retries, dead letter queues, circuit breakers |
-| `clay-integration` | Bidirectional Clay + n8n integrations |
 | `crm-automation` | HubSpot, Salesforce, Slack lead routing and alerts |
 | `self-hosting` | Docker, PostgreSQL, queue mode (~$55-140/month) |
 

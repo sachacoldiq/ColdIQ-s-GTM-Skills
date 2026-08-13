@@ -41,7 +41,7 @@
 - Query: LinkedIn company growth, layoff news
 - **Signals budget allocation and priority areas**
 
-## 5 Buying Signals for Clay Workflows
+## 5 Buying Signals for a data workspace Workflows
 
 ### 1. Recent Job Changes (0-90 days)
 - 3x higher response rate

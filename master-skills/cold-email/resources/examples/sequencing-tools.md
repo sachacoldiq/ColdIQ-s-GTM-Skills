@@ -25,10 +25,10 @@
 | **Lemlist** | Email + LinkedIn |
 | **Reply.io** | Email + LinkedIn + Calls |
 
-## Integration Pattern with Clay
+## Integration Pattern with a data workspace
 
 ```
-Clay Table
+a data workspace Table
     ↓
 [Add to SmartLead Campaign]
     ↓

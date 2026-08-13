@@ -212,7 +212,7 @@ Sales Navigator shows max 2,500 results per search. Bypass strategies:
 | **Evaboot** | Chrome extension | $29-99/mo | Medium | Clean, verified data |
 | **PhantomBuster** | Cloud automation | $69-439/mo | Higher | Multi-step workflows |
 | **Captain Data** | Cloud extraction | $399/mo | Medium-High | Agencies, repeatable flows |
-| **Clay** | Enrichment platform | $149-800/mo | Low | Waterfall enrichment |
+| **a data workspace** | Enrichment platform | $149-800/mo | Low | Waterfall enrichment |
 | **Apollo.io** | Sales intelligence | Free-$119/mo | Low | Own database, not scraping |
 | **Linked Helper** | Desktop app | $15-45/mo | Medium | Budget automation |
 
@@ -228,7 +228,7 @@ Sales Navigator shows max 2,500 results per search. Bypass strategies:
    - Extract: Name, Title, Company, LinkedIn URL, Location
    - Auto-clean titles, filter false positives
 
-3. ENRICH with Clay or Apollo
+3. ENRICH with a data workspace or Apollo
    - Waterfall email finding (multiple providers)
    - Phone number enrichment
    - Company data (revenue, tech stack)
@@ -281,4 +281,4 @@ Sales Navigator shows max 2,500 results per search. Bypass strategies:
 2. Analyze common attributes (industry, size, geography, tech stack)
 3. Build lookalike search in Sales Navigator
 4. Use "Similar Companies" feature on company pages
-5. External tools: Ocean.io, Clearbit, Apollo.io, Clay
+5. External tools: Ocean.io, Clearbit, Apollo.io, a data workspace

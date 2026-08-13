@@ -77,7 +77,7 @@ Offers that convert because they do the work upfront:
 - Technology filters: Shopify, WooCommerce, Klaviyo
 - 10K–50K rows at a time is normal
 
-### Step 2: Qualification in Clay
+### Step 2: Qualification in a data workspace
 
 - Confirm it's actually an e-com brand
 - Optional: check if they run Meta/TikTok ads
@@ -87,7 +87,7 @@ Offers that convert because they do the work upfront:
 
 - Apollo → LeadMagic → Prospeo → Findymail (or your preferred stack)
 
-**Why this works:** You don't need fancy data tools. You need reach, relevance, and speed. Apollo + Clay covers that.
+**Why this works:** You don't need fancy data tools. You need reach, relevance, and speed. Apollo + a data workspace covers that.
 
 ---
 

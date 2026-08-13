@@ -25,7 +25,7 @@ Then use the scoring framework below to weight and prioritize what comes back.
 
 - Read `{SKILL_BASE}/resources/signal-scoring.md` for the complete scoring framework (weights, recency, thresholds, SLAs, plays)
 - Read `{SKILL_BASE}/resources/examples/signal-campaigns/gtm-plays.md` for 11 executable GTM plays and multi-channel coordination
-- Read `{SKILL_BASE}/resources/signal-detection-tools.md` for 30-trigger quick reference with detection tools, timing windows, Clay credit costs, signal freshness rules (when signals expire), reliability tiers, and signal sources by data party (1st/2nd/3rd)
+- Read `{SKILL_BASE}/resources/signal-detection-tools.md` for 30-trigger quick reference with detection tools, timing windows, a data workspace credit costs, signal freshness rules (when signals expire), reliability tiers, and signal sources by data party (1st/2nd/3rd)
 
 ## Performance Benchmarks
 
@@ -105,12 +105,12 @@ Then use the scoring framework below to weight and prioritize what comes back.
 3. **Set recency decay** - Apply multipliers so stale signals do not inflate scores
 4. **Define thresholds** - 150/100/50/20 breakpoints, adjust after 30 days of data
 5. **Map actions** - Each threshold gets a specific play, channel, owner, and SLA
-6. **Automate routing** - Clay scores + Slack alerts + CRM updates
+6. **Automate routing** - a data workspace scores + Slack alerts + CRM updates
 7. **Review monthly** - Recalibrate weights based on closed-won attribution
 
 ## Implementation Tools
 
-- **Clay**: Custom scoring formulas with enrichment data
+- **a data workspace**: Custom scoring formulas with enrichment data
 - **Common Room**: Built-in scoring across 50+ sources ($1K+/mo)
 - **Koala**: Product + website signal scoring (Free/$750/mo)
 - **HubSpot/Salesforce**: Native lead scoring with intent integration
@@ -128,7 +128,7 @@ Then use the scoring framework below to weight and prioritize what comes back.
 ## Examples
 
 Example 1: "Build me a complete signal scoring system"
--> Design 3-tier framework with 8-10 signals, assign weights from the table above, apply recency multipliers, define 5 heat levels with actions/SLAs/owners, recommend Clay for scoring automation, set monthly review cadence. Map each threshold to a GTM play from `gtm-plays.md` (e.g., Play 5 for hiring signals, Play 8 for competitor bad reviews, Play 9 for champion job changes).
+-> Design 3-tier framework with 8-10 signals, assign weights from the table above, apply recency multipliers, define 5 heat levels with actions/SLAs/owners, recommend a data workspace for scoring automation, set monthly review cadence. Map each threshold to a GTM play from `gtm-plays.md` (e.g., Play 5 for hiring signals, Play 8 for competitor bad reviews, Play 9 for champion job changes).
 
 Example 2: "A prospect has 3 signals firing - what do I do?"
 -> Calculate compound score: sum points for each signal, apply recency multipliers, map to heat level. 150+ = AE immediate outreach within 1 hour (see Play 9: Champion Change). 100-149 = SDR personalized sequence within 24h. Include all 3 signals as context for personalization (without mentioning them directly).

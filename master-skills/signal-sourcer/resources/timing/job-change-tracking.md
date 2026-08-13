@@ -4,7 +4,7 @@
 
 Monitor job changes of your contacts as buying signals.
 
-## Two Methods in Clay
+## Two Methods in a data workspace
 
 ### 1. Monitor Existing Table
 - Actions > Monitor for Job Changes

@@ -21,7 +21,7 @@
 - Product trial signups
 
 ### 3. Cold Outreach Lists
-- Build directly in Clay
+- Build directly in a data workspace
 - Import from Apollo, ZoomInfo, Sales Navigator
 - Scrape from Google Maps (local businesses)
 
@@ -39,7 +39,7 @@
 - Best for precise role/seniority targeting
 - Higher quality, lower volume
 
-**Clay Find People/Accounts:**
+**a data workspace Find People/Accounts:**
 - Native database for quick lookups
 - Good for enrichment workflows
 
@@ -55,7 +55,7 @@
 - Instant Data Scraper for niche verticals
 - Good for specific industries
 
-## Find People (FREE in Clay)
+## Find People (FREE in a data workspace)
 
 1. New → Table → Find People
 2. Available filters:
@@ -85,14 +85,14 @@
 
 ## Webhooks — Live Data
 
-**Use case:** Triggery → Clay (LinkedIn engagement)
+**Use case:** Triggery → data workspace (LinkedIn engagement)
 - Someone likes/comments on your LinkedIn post
-- Webhook sends data to Clay in real-time
-- Clay enriches and routes automatically
+- Webhook sends data to a data workspace in real-time
+- a data workspace enriches and routes automatically
 
 ## List Building Pro Tips
 
 1. **Mix sources** — Don't rely on just one
-2. **Scraping = step 1** — Still need Clay enrichment
+2. **Scraping = step 1** — Still need a data workspace enrichment
 3. **Templates are modular** — Adjust for campaign goals
 4. **Don't reinvent the wheel** — Start with template, tweak

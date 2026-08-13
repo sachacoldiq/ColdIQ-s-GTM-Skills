@@ -52,17 +52,17 @@ $1,000,000 ÷ $50,000 = 20 deals
 
 | Criteria | Example | Source |
 |---|---|---|
-| **Company Size** | SMB (50-500) or Mid-Market (500-2000) | Clay, Apollo, LinkedIn |
-| **Revenue** | $5M+ annual revenue or comparable funding | Clay, Crunchbase |
-| **Industry** | Digital-first (SaaS, eCommerce, EdTech, FinTech, HealthTech) | Clay, LinkedIn |
-| **Location** | USA, Canada, Australia, NZ, Ireland, Israel, Western/Northern Europe | Clay, Apollo |
-| **Business Model** | Product-led growth, B2B SaaS | Manual + Clay enrichment |
+| **Company Size** | SMB (50-500) or Mid-Market (500-2000) | a data workspace, Apollo, LinkedIn |
+| **Revenue** | $5M+ annual revenue or comparable funding | a data workspace, Crunchbase |
+| **Industry** | Digital-first (SaaS, eCommerce, EdTech, FinTech, HealthTech) | a data workspace, LinkedIn |
+| **Location** | USA, Canada, Australia, NZ, Ireland, Israel, Western/Northern Europe | a data workspace, Apollo |
+| **Business Model** | Product-led growth, B2B SaaS | Manual + a data workspace enrichment |
 
 ### Layer 2: Technographic Indicators
 
 | Criteria | What It Signals | Source |
 |---|---|---|
-| Currently using a competitor | Active buyer in category | BuiltWith, HG Insights, Clay |
+| Currently using a competitor | Active buyer in category | BuiltWith, HG Insights, a data workspace |
 | Using competitor lacking your key feature | Upgrade opportunity | BuiltWith + manual analysis |
 | Using redundant tool combo | Consolidation opportunity | BuiltWith |
 | Recently changed tech stack | Active buying window | BuiltWith, 6sense |
@@ -81,7 +81,7 @@ $1,000,000 ÷ $50,000 = 20 deals
 Build lookalikes from your best customers:
 1. Export top enterprise/growth customers from CRM
 2. Identify shared attributes (industry, size, tech stack, funding stage)
-3. Use Clay to find similar companies that match the pattern
+3. Use a data workspace to find similar companies that match the pattern
 4. Cross-reference with BuiltWith for technographic match
 
 ---
@@ -95,12 +95,12 @@ Build lookalikes from your best customers:
    → Use win-loss analysis from CRM to identify patterns
 
 2. Build initial account list
-   → Clay + BuiltWith API for technographic targeting
+   → data workspace + BuiltWith API for technographic targeting
    → Apollo for firmographic + contact discovery
    → CRM export for recycled/closed-lost accounts
 
 3. Enrich accounts
-   → Clay enrichment (revenue, tech stack, funding, headcount)
+   → data workspace enrichment (revenue, tech stack, funding, headcount)
    → BuiltWith for technology detection
    → ICP scoring (0-100)
 
@@ -129,8 +129,8 @@ Build lookalikes from your best customers:
 
 | Tool | Role | Notes |
 |---|---|---|
-| **Clay** | Primary enrichment + list building | Firmographics, technographics, ICP scoring |
-| **BuiltWith** | Technographic detection | API integration with Clay for tech stack data |
+| **a data workspace** | Primary enrichment + list building | Firmographics, technographics, ICP scoring |
+| **BuiltWith** | Technographic detection | API integration with a data workspace for tech stack data |
 | **Apollo** | Contact discovery + firmographics | Used for initial contact lists for matched audiences |
 | **HubSpot** | CRM + audience management | Lists, workflows, audience sync to LinkedIn |
 | **LinkedIn Campaign Manager** | Ad targeting | Native persona filters on company lists |

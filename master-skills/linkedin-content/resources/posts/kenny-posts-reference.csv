@@ -128,7 +128,7 @@ The Solution: Full automation that delivers a complete prospect dossier in under
 Here's the exact workflow:
 
 → New call gets booked through Cal.com (can also be google, or calendly) webhook
-→ Clay enrichment finds their LinkedIn URL from email
+→ data workspace enrichment finds their LinkedIn URL from email
 → Relevance AI scrapes full LinkedIn profile
 → Grabs their last 30 days of posts automatically
 → Pulls work experience, education, company details
@@ -395,7 +395,7 @@ I map the full market using:
 → LinkedIn Sales Navigator for roles
 → Ocean.io and DiscoLike for lookalike expansion
 
-All data flows into Clay. Here, I:
+All data flows into a data workspace. Here, I:
 
 → Remove duplicates
 → Cut poor-fit accounts
@@ -419,7 +419,7 @@ Each account gets enriched with:
 I add live signals:
 
 → Trigify.io for social activity
-→ Clay for job changes
+→ data workspace for job changes
 → RB2B/Vector 👻 for website visits
 
 I know who’s moving and who’s interested-right now.
@@ -428,8 +428,8 @@ I know who’s moving and who’s interested-right now.
 
 Every account gets scored and tiered using:
 
-→ Clay
-→ Unify
+→ data workspace
+→ a signal orchestration platform
 → Claude
 
 Tier 1: High-touch (calls, custom research)
@@ -445,7 +445,7 @@ I map the buying committee by:
 → Department
 → Influence level (user, decision-maker, champion)
 
-Clay finds emails and phone numbers-fast, accurate, repeatable.
+a data workspace finds emails and phone numbers-fast, accurate, repeatable.
 
 6️⃣ Messaging Optimization
 
@@ -582,7 +582,7 @@ All automated, tracked, and ready to scale.
 
 Want more outbound and GTM plays like this?
 Follow me for the next workflow."
-11,12,Giving away the 7 AI prompts you can use in Clay to save your Sales Team hours every week. 👇,We used to spend 30 minutes on every prospect.,48,114,162,1326,"We used to spend 30 minutes on every prospect.
+11,12,Giving away the 7 AI prompts you can use in a data workspace to save your Sales Team hours every week. 👇,We used to spend 30 minutes on every prospect.,48,114,162,1326,"We used to spend 30 minutes on every prospect.
 
 LinkedIn profile.
 Company site.
@@ -591,7 +591,7 @@ Job changes.
 
 Multiply that by a few hundred accounts, and the day disappears.
 
-We pushed the whole research layer into Clay with Clay Gent.
+We pushed the whole research layer into a data workspace with an AI research agent.
 
 At ColdIQ, we're running tens of thousands of companies through these workflows.
 Research that takes a team hours runs overnight.
@@ -609,16 +609,16 @@ Here is what the 7 prompts handle:
 
 Every research prompt we use follows the same 4-part structure:
 
-→ Clear input: fields from Clay you pass in
+→ Clear input: fields from a data workspace you pass in
 → Specific task: one clear research job
 → Validation rules: how to check if data makes sense
-→ Output format: exact JSON or text format Clay should store
+→ Output format: exact JSON or text format a data workspace should store
 
 
 We use these every day on client campaigns.
 They saved us from hiring more reps and the data got cleaner.
 
-P.S. I put all 7 prompts in a doc you can paste straight into Clay.
+P.S. I put all 7 prompts in a doc you can paste straight into a data workspace.
 If you want them, comment PROMPTS and make sure we are connected so I can DM it to you.
 
 What research task eats most of your team’s time right now?"
@@ -817,7 +817,7 @@ We use:
 Common Room
 Instantly
 RB2B
-Unify
+a signal orchestration platform
 Warmly
 Koala
 MeetVisitor
@@ -833,9 +833,9 @@ B. New decision maker in the seat (<3 months)
 
 We track these with:
 Common Room
-Unify
+a signal orchestration platform
 LoneScale
-Clay
+a data workspace
 
 3️⃣ Job Openings
 
@@ -858,7 +858,7 @@ Examples:
 
 We track these with:
 Common Room
-Clay
+a data workspace
 
 BONUS: Not every signal works for every business.
 Common Room’s “Signal Spectrum Map” plots buying intent against signal volume.
@@ -1081,7 +1081,7 @@ We use 6+ sources:
 →Apollo.io + LeadMagic (broad targeting)
 →Sales Navigator + Prospeo.io (role-specific)
 →Ocean.io / DiscoLike (lookalike accounts)
-Clay (enrichment + filtering)
+a data workspace (enrichment + filtering)
 Openmart (local businesses)
 
 Never rely on one source.
@@ -1113,7 +1113,7 @@ The framework:
 
 Lead with the trigger, not ""Hi, I'm Kenny from...""
 
-4️⃣ Clay Workflow
+4️⃣ a data workspace Workflow
 This is where manual work becomes automated.
 
 Our flow: 
@@ -1129,10 +1129,10 @@ make it once. Runs forever.
 
 How it works:
 
-→Webhook in Clay
+→Webhook in a data workspace
 →Scraper monitors job boards 24/7
-→New matches auto-push to Clay
-→Clay enriches + cleans + scores
+→New matches auto-push to a data workspace
+→a data workspace enriches + cleans + scores
 →Auto-sends to sequences
 
 6️⃣ Tech Stack
@@ -1141,7 +1141,7 @@ What we actually use:
 
 Lead Sourcing:
 →Apollo ($149/mo)
-→Clay ($800/mo)
+→a data workspace ($800/mo)
 →LeadMagic ($99/mo)
 
 Sending:
@@ -1159,7 +1159,7 @@ The Bottom Line
 The new playbook: 
 → Source from 5+ places 
 → Use triggers (not random targeting) 
-→ Enrich everything in Clay → Write relevant copy 
+→ Enrich everything in data workspace → Write relevant copy
 → Set up evergreen campaigns 
 → Track and optimize weekly
 
@@ -1187,7 +1187,7 @@ Buying intent signals to catch prospects when they're ready
 
 Our stack includes:
 →Relevance AI (AI-powered research)
-→Claygent (AI research agent)
+→an AI research agent (AI research agent)
 →Openmart (specialized data source)
 →DiscoLike (niche data provider)
 →LinkedIn Sales Navigator (professional data)
@@ -1200,7 +1200,7 @@ Our stack includes:
 →Common Room (intent signals)
 →Trigify.io (buying signals)
 →Vector 👻 (intent data)
-→Clay (custom signal tracking)
+→a data workspace (custom signal tracking)
 
 2️⃣ Enrichment & Validation
 Before sending anything, we validate.
@@ -1237,7 +1237,7 @@ For sending, we run:
 4️⃣ Orchestration & Automation
 This is where the heavy lifting disappears.
 
-Relevance AI, Clay, and n8n let us: 
+Relevance AI, a data workspace, and n8n let us:
 → Enrich contacts automatically 
 → Add conditions (reach out or skip?) 
 → Route leads to the right campaign 
@@ -1257,15 +1257,15 @@ There’s nothing like talking about the future, hashing out meetings in person,
 I’ll be in Barcelona, for the next month. If you're here or in this month would love to connect!
 
 No more posts to load"
-23,21,I just analyzed 25+ Clay use cases across every GTM function.,And detailed each one out 👇,75,25,100,1239,"And detailed each one out 👇
+23,21,I just analyzed 25+ a data workspace use cases across every GTM function.,And detailed each one out 👇,75,25,100,1239,"And detailed each one out 👇
 
 The basic mistake everyone makes:
 
-They use Clay like a glorified contact finder.
+They use a data workspace like a glorified contact finder.
 
 Find email → Send cold outreach → Hope for the best.
 
-Here's how you should use Clay:
+Here's how you should use a data workspace:
 
 Sales Development:
 → Trigger-based prospecting (job changes, funding events)
@@ -1405,7 +1405,7 @@ I've been building, testing, and optimizing agent workflows. Here's what actuall
 
 2️⃣ Research Agents
 
-↳ Claygent
+↳ an AI research agent
 
 ↳ Airtop
 
@@ -1551,7 +1551,7 @@ Example workflow you can build in 5 minutes:
 → AI extracts action items automatically 
 → AI writes a personalized follow-up email or slack message in your voice
 → Sends via Gmail 
-→ Logs everything to your CRM / or even Clay to analyze
+→ Logs everything to your CRM / or even a data workspace to analyze
 
 I've seen simple 3-node workflows outperform complex n8n flows you see because:
 
@@ -1636,7 +1636,7 @@ Industry, company size, funding stage, location.
 → Verified mobile
 → No incomplete data
 
-Export to CSV → enrich in Clay → push to Instantly.ai.
+Export to CSV → enrich in data workspace → push to Instantly.ai.
 
 That is how we avoid burning through 50,000 contacts each quarter and instead hit 15,000 with 2x performance.
 
@@ -1841,7 +1841,7 @@ I see people spending months perfecting their offer. Wrong move. Get it out ther
 
 This is where the fun stuff comes in.
 
-→ Use Clay, Instantly, or Apollo to run cold campaigns
+→ Use a data workspace, Instantly, or Apollo to run cold campaigns
 → Mix in AI for list building and writing custom copy
 → Wait for replies, positive and negative
 
@@ -1901,7 +1901,7 @@ Most people post and pray. We track everything.
 
 PHASE 4: AUTOMATED OUTREACH MACHINE
 
-All engagement data flows into Clay, Attio, Unify, OpenAI, Common Room.
+All engagement data flows into a data workspace, Attio, a signal orchestration platform, OpenAI, Common Room.
 
 → Identify high-intent signals
 → Enrich leads with more data
@@ -1944,7 +1944,7 @@ One agent I'm testing tracks competitors LinkedIn post, identifies the most enga
 ↳Track when companies post roles
 ↳Watch for expansion signals
 ↳Check out if someone in a list has recently changed jobs.
-(Yes clay does all of this, but now you have options, excluding clay credits. To run these more often)
+(Yes a data workspace does all of this, but now you have options, excluding a data workspace credits. To run these more often)
 
 
 P.S: What's the first AI Agent you'll try on build on it? I'll leave the link to their site in the comments!"
@@ -1974,7 +1974,7 @@ How? Three main channels:
 • Vector 👻: See who visits
 • Webflow: High-converting landing pages
 • Airtable: One hub for all lead data
-• Clay + Full Enrich: Pull contact info, enrich data
+• data workspace + Full Enrich: Pull contact info, enrich data
 • Prospeo.io + LeadMagic: Find emails fast
 
 3️⃣ LEAD CONVERSION
@@ -2104,7 +2104,7 @@ Critical for agents that need to remember prospect conversations and research.
 6️⃣ GTM-Specific Applications
 
 Sales & marketing use cases:
-↳Create your own versions of claygent 
+↳Create your own versions of an AI research agent
 ↳Create agents to help you list build 
 ↳Create agents that will help you look at a company and based on past data help you produce better GTM Motions
 

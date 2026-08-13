@@ -242,7 +242,7 @@ Email providers scan content for spam patterns. Too many trigger words = higher 
 ### People
 - **Michel Lieben** — AI & sales software recommendations
 - **Alex Vacca** — AI sales SaaS landscape & B2B outbound systems
-- **Louis van Wyk** — Clay templates & outbound automations
+- **Louis van Wyk** — a data workspace templates & outbound automations
 - **Ivan Falco** — GTM/growth funnels, ABM and ads
 - **Monika Grycz** — Copywriting pro tips & sales software
 - **Josh Braun** — Cold email philosophy, before/after rewrites

@@ -48,7 +48,7 @@ Team members recently left a relevant department. Position around the coverage g
 Company lacks a specific title entirely. No "Content Manager" + $5M+ revenue = content gap your product can fill.
 
 ### 4. Skills-Targeting (Play 2)
-LinkedIn profiles display specific skills relevant to your product. More precise than title-based targeting - Clay extracts skills from profiles.
+LinkedIn profiles display specific skills relevant to your product. More precise than title-based targeting - a data workspace extracts skills from profiles.
 
 ### 5. Role-Targeting (Play 3)
 Uncommon job titles indicate company priority. "RevOps Manager" = revenue operations is a budget line. "Growth Engineer" = technical growth function exists.
@@ -89,10 +89,10 @@ We helped {{similar_company}} do exactly that.
 ## Examples
 
 Example 1: "Find companies hiring SDRs as a signal"
--> Clay: scrape job boards for SDR postings at ICP companies, enrich with company data, filter by size/industry, reach out to VP Sales referencing team growth and ramp challenges
+-> a data workspace: scrape job boards for SDR postings at ICP companies, enrich with company data, filter by size/industry, reach out to VP Sales referencing team growth and ramp challenges
 
 Example 2: "Target companies that do not have a dedicated RevOps person"
--> Clay: pull ICP company list, check LinkedIn for "RevOps" titles, filter to companies with 0 results, reach out to VP Sales/CRO positioning your tool as the RevOps layer they are missing
+-> a data workspace: pull ICP company list, check LinkedIn for "RevOps" titles, filter to companies with 0 results, reach out to VP Sales/CRO positioning your tool as the RevOps layer they are missing
 
 Example 3: "Someone just left the marketing team at a target account"
 -> 1-2 week window. Reference the coverage gap by name. Position your solution as a way to maintain output during the transition. SDR sequence within 24h of detection

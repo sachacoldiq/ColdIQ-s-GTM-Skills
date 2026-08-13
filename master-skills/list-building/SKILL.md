@@ -1,6 +1,6 @@
 ---
 name: list-building
-description: Expert B2B list building orchestrator for outbound sales campaigns. Use when the user asks about building lead lists, Sales Navigator search, boolean filters, ICP definition, ICP scoring, lead sources, data validation, email verification, list segmentation, Apollo prospecting, Clay Find People, list hygiene, deduplication, account qualification, ABM lists, or assembling prospect lists for cold outreach. Also triggers on "lead list", "list building", "Sales Navigator", "boolean search", "ICP", "ideal customer profile", "find leads", "prospect list", "lead source", "email verification", "data validation", "list hygiene", "Evaboot", "PhantomBuster", "export leads", "build a list", "find prospects", "deduplicate", "qualify accounts", "ABM". Do NOT use for enrichment workflows (use clay skill) or email writing (use cold-email skill).
+description: Expert B2B list building orchestrator for outbound sales campaigns. Use when the user asks about building lead lists, Sales Navigator search, boolean filters, ICP definition, ICP scoring, lead sources, data validation, email verification, list segmentation, Apollo prospecting, a data workspace Find People, list hygiene, deduplication, account qualification, ABM lists, or assembling prospect lists for cold outreach. Also triggers on "lead list", "list building", "Sales Navigator", "boolean search", "ICP", "ideal customer profile", "find leads", "prospect list", "lead source", "email verification", "data validation", "list hygiene", "Evaboot", "PhantomBuster", "export leads", "build a list", "find prospects", "deduplicate", "qualify accounts", "ABM". Do NOT use for enrichment workflows (use a data workspace skill) or email writing (use cold-email skill).
 ---
 
 ## Setup (Run Once Per Session)
@@ -72,7 +72,7 @@ User Request
     +-- Full workflow / "build me a list"?
         |
         +-- Beginner? -> Read {SKILL_BASE}/resources/templates/beginner-workflow.md
-        |                 (7-step Clay workflow: Import -> Enrich -> Merge -> Validate -> Company Summary -> Check Fit -> Push)
+        |                 (7-step a data workspace workflow: Import -> Enrich -> Merge -> Validate -> Company Summary -> Check Fit -> Push)
         |
         +-- Advanced? -> Chain: define-icp -> source-companies -> find-contacts -> qualify-accounts -> clean-validate -> deduplicate
         |
@@ -91,15 +91,15 @@ For users asking for a complete list building workflow, read the beginner workfl
 Load the appropriate reference based on the sub-skill being invoked:
 
 - **ICP, scoring, boolean search, Sales Nav filters, ABM** -> Read `{SKILL_BASE}/resources/sales-navigator-guide.md`
-- **Lead sources, Clay Find People, webhooks, import methods** -> Read `{SKILL_BASE}/resources/lead-sources-guide.md`
+- **Lead sources, a data workspace Find People, webhooks, import methods** -> Read `{SKILL_BASE}/resources/lead-sources-guide.md`
 - **Email/phone verification, bounce management, data decay, list hygiene** -> Read `{SKILL_BASE}/resources/data-validation.md`
-- **Step-by-step Clay pipeline, AI model selection, conditional formulas** -> Read `{SKILL_BASE}/resources/templates/beginner-workflow.md`
-- **Qualification workflow: ColdIQ tier system, weighted scoring, Clay AI prompts, real examples, good list template** -> Read `{SKILL_BASE}/resources/templates/qualification-workflow.md`
+- **Step-by-step a data workspace pipeline, AI model selection, conditional formulas** -> Read `{SKILL_BASE}/resources/templates/beginner-workflow.md`
+- **Qualification workflow: ColdIQ tier system, weighted scoring, a data workspace AI prompts, real examples, good list template** -> Read `{SKILL_BASE}/resources/templates/qualification-workflow.md`
 
 ### Advanced List Building Resources
 
 - **62+ underused data sources by category** -> Read `{SKILL_BASE}/resources/list-building-advanced/list-building-data-sources.md`
-- **ICP deep-dives, multi-source workflows, Apollo+Clay template** -> Read `{SKILL_BASE}/resources/list-building-advanced/list-building-deep-dives.md`
+- **ICP deep-dives, multi-source workflows, Apollo+a data workspace template** -> Read `{SKILL_BASE}/resources/list-building-advanced/list-building-deep-dives.md`
 - **100+ industry-specific directories for scraping** -> Read `{SKILL_BASE}/resources/list-building-advanced/list-building-directories.md`
 - **8-phase quality list building framework** -> Read `{SKILL_BASE}/resources/list-building-advanced/list-building-framework.md`
 

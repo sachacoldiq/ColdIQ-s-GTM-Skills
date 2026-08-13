@@ -94,7 +94,7 @@
 
 - **Common Room**: Built-in scoring across 50+ sources
 - **Koala**: Product + website signal scoring
-- **Clay**: Custom scoring formulas with enrichment data
+- **a data workspace**: Custom scoring formulas with enrichment data
 - **HubSpot/Salesforce**: Native lead scoring with intent integration
 - **6sense**: AI predictive scoring
 
@@ -202,7 +202,7 @@ ESCALATION: If engagement → AE takes over immediately
 ```
 Signal Sources           Orchestration          Action Layer
 --------------           -------------          ------------
-RB2B (website)     -->   Clay (enrich +   -->   Outreach/Salesloft
+RB2B (website)     -->   a data workspace (enrich +   -->   Outreach/Salesloft
 Trigify (LinkedIn)       filter + route)        (email sequences)
 Common Room        -->                    -->   LinkedIn (manual/
 (community)              HubSpot/SFDC          automated)

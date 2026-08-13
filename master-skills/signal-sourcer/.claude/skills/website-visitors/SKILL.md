@@ -46,7 +46,7 @@ Only then, as a fallback, use the manual tool setup below.
 2. **Install pixel**: Add JavaScript snippet to website `<head>`
 3. **Configure Slack**: Real-time visitor alerts to sales channel
 4. **Set ICP filters**: Only alert on relevant visitors (title, company size, industry)
-5. **Connect Clay webhook**: Enrich visitors + route to sequences
+5. **Connect a data workspace webhook**: Enrich visitors + route to sequences
 
 ### Pricing
 - **Free**: $0 - Person-level ID, 1 Slack workspace
@@ -91,7 +91,7 @@ Person-level identification is **US-only**. For EU/global traffic, use IP-based 
 ## Examples
 
 Example 1: "How do I set up RB2B?"
--> Walk through pixel install, Slack integration, ICP filters, Clay webhook. Free tier for start, Pro at $99/mo for webhooks. US-only for person-level, company-level globally
+-> Walk through pixel install, Slack integration, ICP filters, a data workspace webhook. Free tier for start, Pro at $99/mo for webhooks. US-only for person-level, company-level globally
 
 Example 2: "A VP just visited our pricing page"
 -> Tier 1 signal (80pts). Respond within 1 hour. Personalized email referencing their likely pain, NOT the visit. AE or SDR depending on account tier. Check for other signals to stack
