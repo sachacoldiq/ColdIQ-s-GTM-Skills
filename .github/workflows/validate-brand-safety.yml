@@ -18,3 +18,5 @@ jobs:
           node-version: 22
       - run: node --test tests/validate-brand-safety.test.mjs
       - run: node scripts/validate-brand-safety.mjs
+      - run: node --test tests/validate-skills.test.mjs
+      - run: node scripts/validate-skills.mjs
