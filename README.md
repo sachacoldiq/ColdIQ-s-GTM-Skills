@@ -1,12 +1,12 @@
 # ColdIQ GTM Skills for Claude Code
 
-A complete library of **Claude Code skills** for Go-To-Market teams — **6 master skills** (43 sub-skills) + **31 standalone skills**.
+A complete library of **Claude Code skills** for Go-To-Market teams — **7 master skills** (54 sub-skills) + **31 standalone skills**.
 
 ## Overview
 
 | Collection | Skills | Description |
 |------------|--------|-------------|
-| **Master Skills** | 6 orchestrators, 43 sub-skills | Deep, multi-step GTM workflows with routing intelligence |
+| **Master Skills** | 7 orchestrators, 54 sub-skills | Deep, multi-step GTM workflows with routing intelligence |
 | **Standalone Skills** | 31 | Quick-reference knowledge bases for specific topics |
 
 ---
@@ -33,24 +33,27 @@ Third-party tools (a data workspace, Apollo, Prospeo, Findymail, RB2B, …) stay
 
 Each master skill is an **orchestrator** that automatically routes your request to the right sub-skill. Just ask a question — the orchestrator handles the rest.
 
-### Cold Email — 7 sub-skills
+### Cold Email — 9 sub-skills
 Expert cold email strategist for B2B outbound campaigns.
 
 | Sub-Skill | Description |
 |-----------|-------------|
 | `atl-messaging` | Emails for VP/C-Level/Director personas |
 | `btl-messaging` | Emails for Managers and Individual Contributors |
+| `copywriting` | Copywriting frameworks, writing rules, sequence structure |
+| `email-infra` | Domains, DNS (MX/SPF/DKIM/DMARC), warmup, troubleshooting |
 | `first-touch` | First cold emails using proven frameworks |
 | `follow-up` | Email 2 and Email 3 with rotating value props |
 | `personalization` | Personalization strategies and AI prompts at scale |
 | `re-engagement` | Revive cold or lost leads |
 | `subject-lines` | High-performing subject lines with A/B testing guidance |
 
-### LinkedIn Ads — 8 sub-skills
+### LinkedIn Ads — 9 sub-skills
 Expert LinkedIn Ads strategist with 3-layer funnel architecture.
 
 | Sub-Skill | Description |
 |-----------|-------------|
+| `abm-strategy` | ABM campaign structure, budget math, ads-to-outbound signaling |
 | `audiences` | Targeting, exclusions, and ABM account lists |
 | `ads-outbound-sync` | Sync ad engagement with outbound sales for ABM plays |
 | `bidding` | Bidding strategies, budget allocation, cost optimization |
@@ -73,7 +76,7 @@ Expert LinkedIn organic content strategist for B2B founders and GTM leaders.
 | `cta` | Call-to-actions and profile optimization for conversion |
 | `repurposing` | Repurpose content across formats and creator tools |
 
-### List Building — 6 sub-skills
+### List Building — 8 sub-skills
 Expert B2B list builder for 100K+ emails/month workflows.
 
 | Sub-Skill | Description |
@@ -84,6 +87,27 @@ Expert B2B list builder for 100K+ emails/month workflows.
 | `qualify-accounts` | ICP scoring matrices, ABM tiers, intent data |
 | `clean-validate` | Email/phone verification, bounce rates <1%, hygiene schedules |
 | `deduplicate` | Remove duplicates, merge multi-source data |
+| `account-selection` | ABM account lists, revenue reverse-engineering, tiering, staging |
+| `persona-mapping` | Buying committee mapping, champion vs economic buyer, JTBD |
+
+### List Building, ColdIQ x Prospeo (7 sub-skills)
+The partner edition of List Building. ColdIQ orchestrates, [Prospeo](https://prospeo.io) is the data layer under every step that touches real contact data: company search, people search, verified emails, mobile numbers. Install it on its own:
+
+```bash
+npx skills add Cold-IQ/ColdIQ-s-GTM-Skills/master-skills/list-building-prospeo
+```
+
+| Sub-Skill | Description |
+|-----------|-------------|
+| `define-icp` | ICP with firmographic, technographic and behavioral criteria plus scoring tiers |
+| `source-companies` | Prospeo `search_company`: reverse ICP, lookalikes, key customers, integrations |
+| `find-contacts` | Prospeo `search_person`: title expansion, buying committee, bulk enrichment |
+| `qualify-accounts` | ICP scoring matrices, ABM tiers, intent layering, lookalike building |
+| `clean-validate` | Email and phone verification, 20-address spot-check, bounce rates, hygiene |
+| `account-selection` | ABM account lists, revenue reverse-engineering, tiering, staging |
+| `persona-mapping` | Buying committee mapping, champion vs economic buyer, JTBD |
+
+Prospeo MCP: `claude mcp add --transport http prospeo https://mcp.prospeo.io --header "X-KEY: <key>"`
 
 ### n8n — 5 sub-skills
 Expert n8n workflow automation consultant for B2B GTM teams.
